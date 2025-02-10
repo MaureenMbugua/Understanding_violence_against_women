@@ -1,0 +1,1873 @@
+RecordID,Country,Region,Year,Gender,Demographics Response,Question,Value
+3,Angola,Central Africa,2015,F,Higher,... if she burns the food,0.9
+3,Angola,Central Africa,2015,F,Secondary,... if she burns the food,5.3
+3,Angola,Central Africa,2015,F,Primary,... if she burns the food,13.4
+3,Angola,Central Africa,2015,F,No education,... if she burns the food,17.3
+3,Angola,Central Africa,2015,M,Higher,... if she burns the food,0.7
+3,Angola,Central Africa,2015,M,Secondary,... if she burns the food,5.0
+3,Angola,Central Africa,2015,M,Primary,... if she burns the food,8.1
+3,Angola,Central Africa,2015,M,No education,... if she burns the food,10.8
+353,Angola,Central Africa,2015,F,Higher,... for at least one specific reason,7.0
+353,Angola,Central Africa,2015,F,No education,... for at least one specific reason,34.5
+353,Angola,Central Africa,2015,F,Primary,... for at least one specific reason,30.9
+353,Angola,Central Africa,2015,F,Secondary,... for at least one specific reason,16.8
+73,Angola,Central Africa,2015,F,Higher,... if she argues with him,3.0
+73,Angola,Central Africa,2015,F,No education,... if she argues with him,23.9
+73,Angola,Central Africa,2015,F,Primary,... if she argues with him,19.1
+73,Angola,Central Africa,2015,F,Secondary,... if she argues with him,8.2
+143,Angola,Central Africa,2015,F,Higher,... if she goes out without telling him,2.8
+143,Angola,Central Africa,2015,F,No education,... if she goes out without telling him,21.0
+143,Angola,Central Africa,2015,F,Primary,... if she goes out without telling him,18.5
+143,Angola,Central Africa,2015,F,Secondary,... if she goes out without telling him,8.5
+213,Angola,Central Africa,2015,F,Higher,... if she neglects the children,4.2
+213,Angola,Central Africa,2015,F,No education,... if she neglects the children,22.3
+213,Angola,Central Africa,2015,F,Primary,... if she neglects the children,20.1
+213,Angola,Central Africa,2015,F,Secondary,... if she neglects the children,10.8
+283,Angola,Central Africa,2015,F,Higher,... if she refuses to have sex with him,2.5
+283,Angola,Central Africa,2015,F,No education,... if she refuses to have sex with him,19.9
+283,Angola,Central Africa,2015,F,Primary,... if she refuses to have sex with him,14.2
+283,Angola,Central Africa,2015,F,Secondary,... if she refuses to have sex with him,5.3
+353,Angola,Central Africa,2015,M,Higher,... for at least one specific reason,3.9
+353,Angola,Central Africa,2015,M,No education,... for at least one specific reason,26.7
+353,Angola,Central Africa,2015,M,Primary,... for at least one specific reason,26.2
+353,Angola,Central Africa,2015,M,Secondary,... for at least one specific reason,18.1
+73,Angola,Central Africa,2015,M,Higher,... if she argues with him,1.6
+73,Angola,Central Africa,2015,M,No education,... if she argues with him,15.9
+73,Angola,Central Africa,2015,M,Primary,... if she argues with him,14.9
+73,Angola,Central Africa,2015,M,Secondary,... if she argues with him,9.2
+143,Angola,Central Africa,2015,M,Higher,... if she goes out without telling him,1.6
+143,Angola,Central Africa,2015,M,No education,... if she goes out without telling him,13.4
+143,Angola,Central Africa,2015,M,Primary,... if she goes out without telling him,11.2
+143,Angola,Central Africa,2015,M,Secondary,... if she goes out without telling him,6.8
+213,Angola,Central Africa,2015,M,Higher,... if she neglects the children,1.8
+213,Angola,Central Africa,2015,M,No education,... if she neglects the children,18.3
+213,Angola,Central Africa,2015,M,Primary,... if she neglects the children,17.1
+213,Angola,Central Africa,2015,M,Secondary,... if she neglects the children,9.1
+283,Angola,Central Africa,2015,M,Higher,... if she refuses to have sex with him,0.6
+283,Angola,Central Africa,2015,M,No education,... if she refuses to have sex with him,11.2
+283,Angola,Central Africa,2015,M,Primary,... if she refuses to have sex with him,7.6
+283,Angola,Central Africa,2015,M,Secondary,... if she refuses to have sex with him,4.4
+7,Benin,West Africa,2017,F,Higher,... if she burns the food,1.0
+7,Benin,West Africa,2017,F,Secondary,... if she burns the food,9.5
+7,Benin,West Africa,2017,F,Primary,... if she burns the food,13.0
+7,Benin,West Africa,2017,F,No education,... if she burns the food,16.5
+7,Benin,West Africa,2017,M,Higher,... if she burns the food,1.1
+7,Benin,West Africa,2017,M,Secondary,... if she burns the food,4.3
+7,Benin,West Africa,2017,M,Primary,... if she burns the food,6.3
+7,Benin,West Africa,2017,M,No education,... if she burns the food,10.7
+357,Benin,West Africa,2017,F,Higher,... for at least one specific reason,4.7
+357,Benin,West Africa,2017,F,No education,... for at least one specific reason,37.3
+357,Benin,West Africa,2017,F,Primary,... for at least one specific reason,29.4
+357,Benin,West Africa,2017,F,Secondary,... for at least one specific reason,23.2
+77,Benin,West Africa,2017,F,Higher,... if she argues with him,3.0
+77,Benin,West Africa,2017,F,No education,... if she argues with him,25.9
+77,Benin,West Africa,2017,F,Primary,... if she argues with him,17.2
+77,Benin,West Africa,2017,F,Secondary,... if she argues with him,13.4
+147,Benin,West Africa,2017,F,Higher,... if she goes out without telling him,2.4
+147,Benin,West Africa,2017,F,No education,... if she goes out without telling him,26.5
+147,Benin,West Africa,2017,F,Primary,... if she goes out without telling him,17.8
+147,Benin,West Africa,2017,F,Secondary,... if she goes out without telling him,13.2
+217,Benin,West Africa,2017,F,Higher,... if she neglects the children,2.8
+217,Benin,West Africa,2017,F,No education,... if she neglects the children,27.2
+217,Benin,West Africa,2017,F,Primary,... if she neglects the children,19.6
+217,Benin,West Africa,2017,F,Secondary,... if she neglects the children,16.0
+287,Benin,West Africa,2017,F,Higher,... if she refuses to have sex with him,1.4
+287,Benin,West Africa,2017,F,No education,... if she refuses to have sex with him,16.5
+287,Benin,West Africa,2017,F,Primary,... if she refuses to have sex with him,10.6
+287,Benin,West Africa,2017,F,Secondary,... if she refuses to have sex with him,6.5
+357,Benin,West Africa,2017,M,Higher,... for at least one specific reason,3.6
+357,Benin,West Africa,2017,M,No education,... for at least one specific reason,21.1
+357,Benin,West Africa,2017,M,Primary,... for at least one specific reason,14.8
+357,Benin,West Africa,2017,M,Secondary,... for at least one specific reason,12.5
+77,Benin,West Africa,2017,M,Higher,... if she argues with him,1.7
+77,Benin,West Africa,2017,M,No education,... if she argues with him,14.0
+77,Benin,West Africa,2017,M,Primary,... if she argues with him,9.4
+77,Benin,West Africa,2017,M,Secondary,... if she argues with him,7.0
+147,Benin,West Africa,2017,M,Higher,... if she goes out without telling him,1.2
+147,Benin,West Africa,2017,M,No education,... if she goes out without telling him,11.6
+147,Benin,West Africa,2017,M,Primary,... if she goes out without telling him,9.3
+147,Benin,West Africa,2017,M,Secondary,... if she goes out without telling him,7.1
+217,Benin,West Africa,2017,M,Higher,... if she neglects the children,0.8
+217,Benin,West Africa,2017,M,No education,... if she neglects the children,13.5
+217,Benin,West Africa,2017,M,Primary,... if she neglects the children,8.4
+217,Benin,West Africa,2017,M,Secondary,... if she neglects the children,7.2
+287,Benin,West Africa,2017,M,Higher,... if she refuses to have sex with him,0.7
+287,Benin,West Africa,2017,M,No education,... if she refuses to have sex with him,11.1
+287,Benin,West Africa,2017,M,Primary,... if she refuses to have sex with him,6.0
+287,Benin,West Africa,2017,M,Secondary,... if she refuses to have sex with him,4.6
+9,Burkina Faso,West Africa,2010,F,Higher,... if she burns the food,1.4
+9,Burkina Faso,West Africa,2010,F,Secondary,... if she burns the food,3.1
+9,Burkina Faso,West Africa,2010,F,Primary,... if she burns the food,8.1
+9,Burkina Faso,West Africa,2010,F,No education,... if she burns the food,11.2
+9,Burkina Faso,West Africa,2010,M,Higher,... if she burns the food,5.7
+9,Burkina Faso,West Africa,2010,M,Secondary,... if she burns the food,6.3
+9,Burkina Faso,West Africa,2010,M,No education,... if she burns the food,7.6
+9,Burkina Faso,West Africa,2010,M,Primary,... if she burns the food,8.3
+359,Burkina Faso,West Africa,2010,F,Higher,... for at least one specific reason,6.3
+359,Burkina Faso,West Africa,2010,F,No education,... for at least one specific reason,47.5
+359,Burkina Faso,West Africa,2010,F,Primary,... for at least one specific reason,38.1
+359,Burkina Faso,West Africa,2010,F,Secondary,... for at least one specific reason,26.6
+79,Burkina Faso,West Africa,2010,F,Higher,... if she argues with him,2.0
+79,Burkina Faso,West Africa,2010,F,No education,... if she argues with him,34.7
+79,Burkina Faso,West Africa,2010,F,Primary,... if she argues with him,26.0
+79,Burkina Faso,West Africa,2010,F,Secondary,... if she argues with him,14.1
+149,Burkina Faso,West Africa,2010,F,Higher,... if she goes out without telling him,0.3
+149,Burkina Faso,West Africa,2010,F,No education,... if she goes out without telling him,34.4
+149,Burkina Faso,West Africa,2010,F,Primary,... if she goes out without telling him,24.6
+149,Burkina Faso,West Africa,2010,F,Secondary,... if she goes out without telling him,13.1
+219,Burkina Faso,West Africa,2010,F,Higher,... if she neglects the children,3.8
+219,Burkina Faso,West Africa,2010,F,No education,... if she neglects the children,33.4
+219,Burkina Faso,West Africa,2010,F,Primary,... if she neglects the children,26.5
+219,Burkina Faso,West Africa,2010,F,Secondary,... if she neglects the children,18.1
+289,Burkina Faso,West Africa,2010,F,Higher,... if she refuses to have sex with him,0.0
+289,Burkina Faso,West Africa,2010,F,No education,... if she refuses to have sex with him,22.7
+289,Burkina Faso,West Africa,2010,F,Primary,... if she refuses to have sex with him,15.2
+289,Burkina Faso,West Africa,2010,F,Secondary,... if she refuses to have sex with him,6.8
+359,Burkina Faso,West Africa,2010,M,Higher,... for at least one specific reason,15.0
+359,Burkina Faso,West Africa,2010,M,No education,... for at least one specific reason,37.7
+359,Burkina Faso,West Africa,2010,M,Primary,... for at least one specific reason,33.5
+359,Burkina Faso,West Africa,2010,M,Secondary,... for at least one specific reason,25.6
+79,Burkina Faso,West Africa,2010,M,Higher,... if she argues with him,3.7
+79,Burkina Faso,West Africa,2010,M,No education,... if she argues with him,22.5
+79,Burkina Faso,West Africa,2010,M,Primary,... if she argues with him,21.7
+79,Burkina Faso,West Africa,2010,M,Secondary,... if she argues with him,12.4
+149,Burkina Faso,West Africa,2010,M,Higher,... if she goes out without telling him,2.8
+149,Burkina Faso,West Africa,2010,M,No education,... if she goes out without telling him,20.6
+149,Burkina Faso,West Africa,2010,M,Primary,... if she goes out without telling him,16.9
+149,Burkina Faso,West Africa,2010,M,Secondary,... if she goes out without telling him,11.1
+219,Burkina Faso,West Africa,2010,M,Higher,... if she neglects the children,9.8
+219,Burkina Faso,West Africa,2010,M,No education,... if she neglects the children,22.2
+219,Burkina Faso,West Africa,2010,M,Primary,... if she neglects the children,18.9
+219,Burkina Faso,West Africa,2010,M,Secondary,... if she neglects the children,15.8
+289,Burkina Faso,West Africa,2010,M,Higher,... if she refuses to have sex with him,0.7
+289,Burkina Faso,West Africa,2010,M,No education,... if she refuses to have sex with him,13.6
+289,Burkina Faso,West Africa,2010,M,Primary,... if she refuses to have sex with him,8.1
+289,Burkina Faso,West Africa,2010,M,Secondary,... if she refuses to have sex with him,6.7
+10,Burundi,East Africa,2016,F,Higher,... if she burns the food,1.1
+10,Burundi,East Africa,2016,F,Secondary,... if she burns the food,14.8
+10,Burundi,East Africa,2016,F,Primary,... if she burns the food,23.9
+10,Burundi,East Africa,2016,F,No education,... if she burns the food,25.3
+10,Burundi,East Africa,2016,M,Higher,... if she burns the food,0.0
+10,Burundi,East Africa,2016,M,Secondary,... if she burns the food,3.5
+10,Burundi,East Africa,2016,M,No education,... if she burns the food,5.6
+10,Burundi,East Africa,2016,M,Primary,... if she burns the food,5.9
+360,Burundi,East Africa,2016,F,Higher,... for at least one specific reason,22.2
+360,Burundi,East Africa,2016,F,No education,... for at least one specific reason,65.9
+360,Burundi,East Africa,2016,F,Primary,... for at least one specific reason,63.9
+360,Burundi,East Africa,2016,F,Secondary,... for at least one specific reason,53.9
+80,Burundi,East Africa,2016,F,Higher,... if she argues with him,1.3
+80,Burundi,East Africa,2016,F,No education,... if she argues with him,34.8
+80,Burundi,East Africa,2016,F,Primary,... if she argues with him,32.3
+80,Burundi,East Africa,2016,F,Secondary,... if she argues with him,20.8
+150,Burundi,East Africa,2016,F,Higher,... if she goes out without telling him,8.7
+150,Burundi,East Africa,2016,F,No education,... if she goes out without telling him,43.6
+150,Burundi,East Africa,2016,F,Primary,... if she goes out without telling him,40.9
+150,Burundi,East Africa,2016,F,Secondary,... if she goes out without telling him,31.3
+220,Burundi,East Africa,2016,F,Higher,... if she neglects the children,20.0
+220,Burundi,East Africa,2016,F,No education,... if she neglects the children,55.1
+220,Burundi,East Africa,2016,F,Primary,... if she neglects the children,53.7
+220,Burundi,East Africa,2016,F,Secondary,... if she neglects the children,45.0
+290,Burundi,East Africa,2016,F,Higher,... if she refuses to have sex with him,8.2
+290,Burundi,East Africa,2016,F,No education,... if she refuses to have sex with him,47.9
+290,Burundi,East Africa,2016,F,Primary,... if she refuses to have sex with him,44.3
+290,Burundi,East Africa,2016,F,Secondary,... if she refuses to have sex with him,29.9
+360,Burundi,East Africa,2016,M,Higher,... for at least one specific reason,5.3
+360,Burundi,East Africa,2016,M,No education,... for at least one specific reason,35.8
+360,Burundi,East Africa,2016,M,Primary,... for at least one specific reason,38.6
+360,Burundi,East Africa,2016,M,Secondary,... for at least one specific reason,31.2
+80,Burundi,East Africa,2016,M,Higher,... if she argues with him,0.2
+80,Burundi,East Africa,2016,M,No education,... if she argues with him,10.7
+80,Burundi,East Africa,2016,M,Primary,... if she argues with him,12.7
+80,Burundi,East Africa,2016,M,Secondary,... if she argues with him,6.7
+150,Burundi,East Africa,2016,M,Higher,... if she goes out without telling him,1.1
+150,Burundi,East Africa,2016,M,No education,... if she goes out without telling him,19.3
+150,Burundi,East Africa,2016,M,Primary,... if she goes out without telling him,18.9
+150,Burundi,East Africa,2016,M,Secondary,... if she goes out without telling him,14.1
+220,Burundi,East Africa,2016,M,Higher,... if she neglects the children,4.0
+220,Burundi,East Africa,2016,M,No education,... if she neglects the children,26.3
+220,Burundi,East Africa,2016,M,Primary,... if she neglects the children,28.9
+220,Burundi,East Africa,2016,M,Secondary,... if she neglects the children,23.6
+290,Burundi,East Africa,2016,M,Higher,... if she refuses to have sex with him,1.5
+290,Burundi,East Africa,2016,M,No education,... if she refuses to have sex with him,13.2
+290,Burundi,East Africa,2016,M,Primary,... if she refuses to have sex with him,14.8
+290,Burundi,East Africa,2016,M,Secondary,... if she refuses to have sex with him,12.6
+12,Cameroon,Central Africa,2011,F,Higher,... if she burns the food,0.9
+12,Cameroon,Central Africa,2011,F,Secondary,... if she burns the food,9.8
+12,Cameroon,Central Africa,2011,F,Primary,... if she burns the food,15.9
+12,Cameroon,Central Africa,2011,F,No education,... if she burns the food,20.9
+12,Cameroon,Central Africa,2011,M,Higher,... if she burns the food,2.4
+12,Cameroon,Central Africa,2011,M,Secondary,... if she burns the food,8.3
+12,Cameroon,Central Africa,2011,M,No education,... if she burns the food,9.5
+12,Cameroon,Central Africa,2011,M,Primary,... if she burns the food,11.8
+362,Cameroon,Central Africa,2011,F,Higher,... for at least one specific reason,13.7
+362,Cameroon,Central Africa,2011,F,No education,... for at least one specific reason,49.6
+362,Cameroon,Central Africa,2011,F,Primary,... for at least one specific reason,51.6
+362,Cameroon,Central Africa,2011,F,Secondary,... for at least one specific reason,45.1
+82,Cameroon,Central Africa,2011,F,Higher,... if she argues with him,3.2
+82,Cameroon,Central Africa,2011,F,No education,... if she argues with him,31.4
+82,Cameroon,Central Africa,2011,F,Primary,... if she argues with him,24.4
+82,Cameroon,Central Africa,2011,F,Secondary,... if she argues with him,14.9
+152,Cameroon,Central Africa,2011,F,Higher,... if she goes out without telling him,2.8
+152,Cameroon,Central Africa,2011,F,No education,... if she goes out without telling him,31.6
+152,Cameroon,Central Africa,2011,F,Primary,... if she goes out without telling him,32.9
+152,Cameroon,Central Africa,2011,F,Secondary,... if she goes out without telling him,21.9
+222,Cameroon,Central Africa,2011,F,Higher,... if she neglects the children,11.4
+222,Cameroon,Central Africa,2011,F,No education,... if she neglects the children,35.9
+222,Cameroon,Central Africa,2011,F,Primary,... if she neglects the children,41.9
+222,Cameroon,Central Africa,2011,F,Secondary,... if she neglects the children,37.9
+292,Cameroon,Central Africa,2011,F,Higher,... if she refuses to have sex with him,1.3
+292,Cameroon,Central Africa,2011,F,No education,... if she refuses to have sex with him,25.6
+292,Cameroon,Central Africa,2011,F,Primary,... if she refuses to have sex with him,17.2
+292,Cameroon,Central Africa,2011,F,Secondary,... if she refuses to have sex with him,7.5
+362,Cameroon,Central Africa,2011,M,Higher,... for at least one specific reason,23.6
+362,Cameroon,Central Africa,2011,M,No education,... for at least one specific reason,37.3
+362,Cameroon,Central Africa,2011,M,Primary,... for at least one specific reason,43.7
+362,Cameroon,Central Africa,2011,M,Secondary,... for at least one specific reason,38.6
+82,Cameroon,Central Africa,2011,M,Higher,... if she argues with him,7.3
+82,Cameroon,Central Africa,2011,M,No education,... if she argues with him,21.7
+82,Cameroon,Central Africa,2011,M,Primary,... if she argues with him,23.1
+82,Cameroon,Central Africa,2011,M,Secondary,... if she argues with him,15.5
+152,Cameroon,Central Africa,2011,M,Higher,... if she goes out without telling him,8.7
+152,Cameroon,Central Africa,2011,M,No education,... if she goes out without telling him,25.3
+152,Cameroon,Central Africa,2011,M,Primary,... if she goes out without telling him,27.5
+152,Cameroon,Central Africa,2011,M,Secondary,... if she goes out without telling him,19.0
+222,Cameroon,Central Africa,2011,M,Higher,... if she neglects the children,17.5
+222,Cameroon,Central Africa,2011,M,No education,... if she neglects the children,26.1
+222,Cameroon,Central Africa,2011,M,Primary,... if she neglects the children,32.2
+222,Cameroon,Central Africa,2011,M,Secondary,... if she neglects the children,29.3
+292,Cameroon,Central Africa,2011,M,Higher,... if she refuses to have sex with him,1.7
+292,Cameroon,Central Africa,2011,M,No education,... if she refuses to have sex with him,13.7
+292,Cameroon,Central Africa,2011,M,Primary,... if she refuses to have sex with him,10.7
+292,Cameroon,Central Africa,2011,M,Secondary,... if she refuses to have sex with him,5.9
+13,Chad,Central Africa,2014,F,Higher,... if she burns the food,24.4
+13,Chad,Central Africa,2014,F,No education,... if she burns the food,45.4
+13,Chad,Central Africa,2014,F,Secondary,... if she burns the food,51.9
+13,Chad,Central Africa,2014,F,Primary,... if she burns the food,56.2
+13,Chad,Central Africa,2014,M,Higher,... if she burns the food,12.4
+13,Chad,Central Africa,2014,M,No education,... if she burns the food,24.7
+13,Chad,Central Africa,2014,M,Secondary,... if she burns the food,28.8
+13,Chad,Central Africa,2014,M,Primary,... if she burns the food,31.9
+363,Chad,Central Africa,2014,F,Higher,... for at least one specific reason,60.1
+363,Chad,Central Africa,2014,F,No education,... for at least one specific reason,70.9
+363,Chad,Central Africa,2014,F,Primary,... for at least one specific reason,79.5
+363,Chad,Central Africa,2014,F,Secondary,... for at least one specific reason,76.7
+83,Chad,Central Africa,2014,F,Higher,... if she argues with him,38.8
+83,Chad,Central Africa,2014,F,No education,... if she argues with him,47.6
+83,Chad,Central Africa,2014,F,Primary,... if she argues with him,55.1
+83,Chad,Central Africa,2014,F,Secondary,... if she argues with him,51.8
+153,Chad,Central Africa,2014,F,Higher,... if she goes out without telling him,37.1
+153,Chad,Central Africa,2014,F,No education,... if she goes out without telling him,56.3
+153,Chad,Central Africa,2014,F,Primary,... if she goes out without telling him,66.5
+153,Chad,Central Africa,2014,F,Secondary,... if she goes out without telling him,60.3
+223,Chad,Central Africa,2014,F,Higher,... if she neglects the children,43.1
+223,Chad,Central Africa,2014,F,No education,... if she neglects the children,56.7
+223,Chad,Central Africa,2014,F,Primary,... if she neglects the children,66.3
+223,Chad,Central Africa,2014,F,Secondary,... if she neglects the children,64.0
+293,Chad,Central Africa,2014,F,Higher,... if she refuses to have sex with him,21.8
+293,Chad,Central Africa,2014,F,No education,... if she refuses to have sex with him,41.5
+293,Chad,Central Africa,2014,F,Primary,... if she refuses to have sex with him,43.2
+293,Chad,Central Africa,2014,F,Secondary,... if she refuses to have sex with him,33.6
+363,Chad,Central Africa,2014,M,Higher,... for at least one specific reason,36.6
+363,Chad,Central Africa,2014,M,No education,... for at least one specific reason,50.2
+363,Chad,Central Africa,2014,M,Primary,... for at least one specific reason,53.0
+363,Chad,Central Africa,2014,M,Secondary,... for at least one specific reason,50.6
+83,Chad,Central Africa,2014,M,Higher,... if she argues with him,10.1
+83,Chad,Central Africa,2014,M,No education,... if she argues with him,24.6
+83,Chad,Central Africa,2014,M,Primary,... if she argues with him,22.8
+83,Chad,Central Africa,2014,M,Secondary,... if she argues with him,20.8
+153,Chad,Central Africa,2014,M,Higher,... if she goes out without telling him,17.7
+153,Chad,Central Africa,2014,M,No education,... if she goes out without telling him,28.6
+153,Chad,Central Africa,2014,M,Primary,... if she goes out without telling him,30.7
+153,Chad,Central Africa,2014,M,Secondary,... if she goes out without telling him,26.9
+223,Chad,Central Africa,2014,M,Higher,... if she neglects the children,27.6
+223,Chad,Central Africa,2014,M,No education,... if she neglects the children,34.6
+223,Chad,Central Africa,2014,M,Primary,... if she neglects the children,40.5
+223,Chad,Central Africa,2014,M,Secondary,... if she neglects the children,37.9
+293,Chad,Central Africa,2014,M,Higher,... if she refuses to have sex with him,9.3
+293,Chad,Central Africa,2014,M,No education,... if she refuses to have sex with him,24.6
+293,Chad,Central Africa,2014,M,Primary,... if she refuses to have sex with him,25.0
+293,Chad,Central Africa,2014,M,Secondary,... if she refuses to have sex with him,23.5
+15,Comoros,East Africa,2012,F,Higher,... if she burns the food,6.7
+15,Comoros,East Africa,2012,F,Secondary,... if she burns the food,11.6
+15,Comoros,East Africa,2012,F,Primary,... if she burns the food,13.7
+15,Comoros,East Africa,2012,F,No education,... if she burns the food,15.3
+15,Comoros,East Africa,2012,M,Higher,... if she burns the food,0.8
+15,Comoros,East Africa,2012,M,Secondary,... if she burns the food,2.5
+15,Comoros,East Africa,2012,M,Primary,... if she burns the food,3.8
+15,Comoros,East Africa,2012,M,No education,... if she burns the food,4.9
+365,Comoros,East Africa,2012,F,Higher,... for at least one specific reason,23.7
+365,Comoros,East Africa,2012,F,No education,... for at least one specific reason,39.7
+365,Comoros,East Africa,2012,F,Primary,... for at least one specific reason,41.8
+365,Comoros,East Africa,2012,F,Secondary,... for at least one specific reason,40.7
+85,Comoros,East Africa,2012,F,Higher,... if she argues with him,6.9
+85,Comoros,East Africa,2012,F,No education,... if she argues with him,18.1
+85,Comoros,East Africa,2012,F,Primary,... if she argues with him,15.3
+85,Comoros,East Africa,2012,F,Secondary,... if she argues with him,16.1
+155,Comoros,East Africa,2012,F,Higher,... if she goes out without telling him,16.1
+155,Comoros,East Africa,2012,F,No education,... if she goes out without telling him,29.1
+155,Comoros,East Africa,2012,F,Primary,... if she goes out without telling him,32.5
+155,Comoros,East Africa,2012,F,Secondary,... if she goes out without telling him,28.7
+225,Comoros,East Africa,2012,F,Higher,... if she neglects the children,17.6
+225,Comoros,East Africa,2012,F,No education,... if she neglects the children,29.6
+225,Comoros,East Africa,2012,F,Primary,... if she neglects the children,33.1
+225,Comoros,East Africa,2012,F,Secondary,... if she neglects the children,31.2
+295,Comoros,East Africa,2012,F,Higher,... if she refuses to have sex with him,12.9
+295,Comoros,East Africa,2012,F,No education,... if she refuses to have sex with him,22.7
+295,Comoros,East Africa,2012,F,Primary,... if she refuses to have sex with him,22.7
+295,Comoros,East Africa,2012,F,Secondary,... if she refuses to have sex with him,18.3
+365,Comoros,East Africa,2012,M,Higher,... for at least one specific reason,6.8
+365,Comoros,East Africa,2012,M,No education,... for at least one specific reason,18.7
+365,Comoros,East Africa,2012,M,Primary,... for at least one specific reason,18.1
+365,Comoros,East Africa,2012,M,Secondary,... for at least one specific reason,19.1
+85,Comoros,East Africa,2012,M,Higher,... if she argues with him,1.4
+85,Comoros,East Africa,2012,M,No education,... if she argues with him,6.7
+85,Comoros,East Africa,2012,M,Primary,... if she argues with him,7.1
+85,Comoros,East Africa,2012,M,Secondary,... if she argues with him,8.0
+155,Comoros,East Africa,2012,M,Higher,... if she goes out without telling him,2.7
+155,Comoros,East Africa,2012,M,No education,... if she goes out without telling him,10.1
+155,Comoros,East Africa,2012,M,Primary,... if she goes out without telling him,6.8
+155,Comoros,East Africa,2012,M,Secondary,... if she goes out without telling him,7.1
+225,Comoros,East Africa,2012,M,Higher,... if she neglects the children,3.5
+225,Comoros,East Africa,2012,M,No education,... if she neglects the children,6.6
+225,Comoros,East Africa,2012,M,Primary,... if she neglects the children,8.1
+225,Comoros,East Africa,2012,M,Secondary,... if she neglects the children,9.6
+295,Comoros,East Africa,2012,M,Higher,... if she refuses to have sex with him,2.0
+295,Comoros,East Africa,2012,M,No education,... if she refuses to have sex with him,10.9
+295,Comoros,East Africa,2012,M,Primary,... if she refuses to have sex with him,7.9
+295,Comoros,East Africa,2012,M,Secondary,... if she refuses to have sex with him,8.7
+16,Congo,Central Africa,2011,F,Higher,... if she burns the food,
+16,Congo,Central Africa,2011,F,No education,... if she burns the food,
+16,Congo,Central Africa,2011,F,Primary,... if she burns the food,
+16,Congo,Central Africa,2011,F,Secondary,... if she burns the food,
+16,Congo,Central Africa,2011,M,Higher,... if she burns the food,
+16,Congo,Central Africa,2011,M,No education,... if she burns the food,
+16,Congo,Central Africa,2011,M,Primary,... if she burns the food,
+16,Congo,Central Africa,2011,M,Secondary,... if she burns the food,
+366,Congo,Central Africa,2011,F,Higher,... for at least one specific reason,48.5
+366,Congo,Central Africa,2011,F,No education,... for at least one specific reason,59.5
+366,Congo,Central Africa,2011,F,Primary,... for at least one specific reason,61.2
+366,Congo,Central Africa,2011,F,Secondary,... for at least one specific reason,61.5
+86,Congo,Central Africa,2011,F,Higher,... if she argues with him,
+86,Congo,Central Africa,2011,F,No education,... if she argues with him,
+86,Congo,Central Africa,2011,F,Primary,... if she argues with him,
+86,Congo,Central Africa,2011,F,Secondary,... if she argues with him,
+156,Congo,Central Africa,2011,F,Higher,... if she goes out without telling him,22.5
+156,Congo,Central Africa,2011,F,No education,... if she goes out without telling him,41.2
+156,Congo,Central Africa,2011,F,Primary,... if she goes out without telling him,44.1
+156,Congo,Central Africa,2011,F,Secondary,... if she goes out without telling him,41.1
+226,Congo,Central Africa,2011,F,Higher,... if she neglects the children,38.3
+226,Congo,Central Africa,2011,F,No education,... if she neglects the children,44.2
+226,Congo,Central Africa,2011,F,Primary,... if she neglects the children,47.6
+226,Congo,Central Africa,2011,F,Secondary,... if she neglects the children,47.4
+296,Congo,Central Africa,2011,F,Higher,... if she refuses to have sex with him,14.4
+296,Congo,Central Africa,2011,F,No education,... if she refuses to have sex with him,35.1
+296,Congo,Central Africa,2011,F,Primary,... if she refuses to have sex with him,31.4
+296,Congo,Central Africa,2011,F,Secondary,... if she refuses to have sex with him,24.6
+366,Congo,Central Africa,2011,M,Higher,... for at least one specific reason,29.4
+366,Congo,Central Africa,2011,M,No education,... for at least one specific reason,32.3
+366,Congo,Central Africa,2011,M,Primary,... for at least one specific reason,44.6
+366,Congo,Central Africa,2011,M,Secondary,... for at least one specific reason,45.3
+86,Congo,Central Africa,2011,M,Higher,... if she argues with him,
+86,Congo,Central Africa,2011,M,No education,... if she argues with him,
+86,Congo,Central Africa,2011,M,Primary,... if she argues with him,
+86,Congo,Central Africa,2011,M,Secondary,... if she argues with him,
+156,Congo,Central Africa,2011,M,Higher,... if she goes out without telling him,13.9
+156,Congo,Central Africa,2011,M,No education,... if she goes out without telling him,18.8
+156,Congo,Central Africa,2011,M,Primary,... if she goes out without telling him,22.5
+156,Congo,Central Africa,2011,M,Secondary,... if she goes out without telling him,23.8
+226,Congo,Central Africa,2011,M,Higher,... if she neglects the children,21.2
+226,Congo,Central Africa,2011,M,No education,... if she neglects the children,24.5
+226,Congo,Central Africa,2011,M,Primary,... if she neglects the children,32.3
+226,Congo,Central Africa,2011,M,Secondary,... if she neglects the children,32.9
+296,Congo,Central Africa,2011,M,Higher,... if she refuses to have sex with him,11.8
+296,Congo,Central Africa,2011,M,No education,... if she refuses to have sex with him,9.3
+296,Congo,Central Africa,2011,M,Primary,... if she refuses to have sex with him,18.0
+296,Congo,Central Africa,2011,M,Secondary,... if she refuses to have sex with him,12.4
+17,Congo Democratic Republic,Central Africa,2013,F,Higher,... if she burns the food,6.1
+17,Congo Democratic Republic,Central Africa,2013,F,Secondary,... if she burns the food,22.5
+17,Congo Democratic Republic,Central Africa,2013,F,No education,... if she burns the food,24.1
+17,Congo Democratic Republic,Central Africa,2013,F,Primary,... if she burns the food,28.5
+17,Congo Democratic Republic,Central Africa,2013,M,Higher,... if she burns the food,3.3
+17,Congo Democratic Republic,Central Africa,2013,M,No education,... if she burns the food,15.6
+17,Congo Democratic Republic,Central Africa,2013,M,Secondary,... if she burns the food,16.0
+17,Congo Democratic Republic,Central Africa,2013,M,Primary,... if she burns the food,17.2
+367,Congo Democratic Republic,Central Africa,2013,F,Higher,... for at least one specific reason,49.8
+367,Congo Democratic Republic,Central Africa,2013,F,No education,... for at least one specific reason,75.4
+367,Congo Democratic Republic,Central Africa,2013,F,Primary,... for at least one specific reason,76.2
+367,Congo Democratic Republic,Central Africa,2013,F,Secondary,... for at least one specific reason,75.4
+87,Congo Democratic Republic,Central Africa,2013,F,Higher,... if she argues with him,33.1
+87,Congo Democratic Republic,Central Africa,2013,F,No education,... if she argues with him,58.7
+87,Congo Democratic Republic,Central Africa,2013,F,Primary,... if she argues with him,59.7
+87,Congo Democratic Republic,Central Africa,2013,F,Secondary,... if she argues with him,57.6
+157,Congo Democratic Republic,Central Africa,2013,F,Higher,... if she goes out without telling him,22.6
+157,Congo Democratic Republic,Central Africa,2013,F,No education,... if she goes out without telling him,49.7
+157,Congo Democratic Republic,Central Africa,2013,F,Primary,... if she goes out without telling him,51.8
+157,Congo Democratic Republic,Central Africa,2013,F,Secondary,... if she goes out without telling him,48.8
+227,Congo Democratic Republic,Central Africa,2013,F,Higher,... if she neglects the children,33.3
+227,Congo Democratic Republic,Central Africa,2013,F,No education,... if she neglects the children,50.2
+227,Congo Democratic Republic,Central Africa,2013,F,Primary,... if she neglects the children,51.6
+227,Congo Democratic Republic,Central Africa,2013,F,Secondary,... if she neglects the children,53.2
+297,Congo Democratic Republic,Central Africa,2013,F,Higher,... if she refuses to have sex with him,18.4
+297,Congo Democratic Republic,Central Africa,2013,F,No education,... if she refuses to have sex with him,50.7
+297,Congo Democratic Republic,Central Africa,2013,F,Primary,... if she refuses to have sex with him,49.3
+297,Congo Democratic Republic,Central Africa,2013,F,Secondary,... if she refuses to have sex with him,38.1
+367,Congo Democratic Republic,Central Africa,2013,M,Higher,... for at least one specific reason,41.7
+367,Congo Democratic Republic,Central Africa,2013,M,No education,... for at least one specific reason,63.9
+367,Congo Democratic Republic,Central Africa,2013,M,Primary,... for at least one specific reason,64.9
+367,Congo Democratic Republic,Central Africa,2013,M,Secondary,... for at least one specific reason,62.1
+87,Congo Democratic Republic,Central Africa,2013,M,Higher,... if she argues with him,25.3
+87,Congo Democratic Republic,Central Africa,2013,M,No education,... if she argues with him,42.0
+87,Congo Democratic Republic,Central Africa,2013,M,Primary,... if she argues with him,46.3
+87,Congo Democratic Republic,Central Africa,2013,M,Secondary,... if she argues with him,43.1
+157,Congo Democratic Republic,Central Africa,2013,M,Higher,... if she goes out without telling him,16.6
+157,Congo Democratic Republic,Central Africa,2013,M,No education,... if she goes out without telling him,32.9
+157,Congo Democratic Republic,Central Africa,2013,M,Primary,... if she goes out without telling him,37.1
+157,Congo Democratic Republic,Central Africa,2013,M,Secondary,... if she goes out without telling him,33.2
+227,Congo Democratic Republic,Central Africa,2013,M,Higher,... if she neglects the children,23.7
+227,Congo Democratic Republic,Central Africa,2013,M,No education,... if she neglects the children,42.5
+227,Congo Democratic Republic,Central Africa,2013,M,Primary,... if she neglects the children,41.3
+227,Congo Democratic Republic,Central Africa,2013,M,Secondary,... if she neglects the children,41.8
+297,Congo Democratic Republic,Central Africa,2013,M,Higher,... if she refuses to have sex with him,6.7
+297,Congo Democratic Republic,Central Africa,2013,M,No education,... if she refuses to have sex with him,30.8
+297,Congo Democratic Republic,Central Africa,2013,M,Primary,... if she refuses to have sex with him,29.7
+297,Congo Democratic Republic,Central Africa,2013,M,Secondary,... if she refuses to have sex with him,23.0
+18,Cote d'Ivoire,West Africa,2011,F,Higher,... if she burns the food,2.3
+18,Cote d'Ivoire,West Africa,2011,F,Secondary,... if she burns the food,9.8
+18,Cote d'Ivoire,West Africa,2011,F,Primary,... if she burns the food,17.9
+18,Cote d'Ivoire,West Africa,2011,F,No education,... if she burns the food,18.7
+18,Cote d'Ivoire,West Africa,2011,M,Higher,... if she burns the food,5.0
+18,Cote d'Ivoire,West Africa,2011,M,Secondary,... if she burns the food,11.8
+18,Cote d'Ivoire,West Africa,2011,M,No education,... if she burns the food,13.3
+18,Cote d'Ivoire,West Africa,2011,M,Primary,... if she burns the food,14.5
+368,Cote d'Ivoire,West Africa,2011,F,Higher,... for at least one specific reason,17.8
+368,Cote d'Ivoire,West Africa,2011,F,No education,... for at least one specific reason,51.3
+368,Cote d'Ivoire,West Africa,2011,F,Primary,... for at least one specific reason,50.1
+368,Cote d'Ivoire,West Africa,2011,F,Secondary,... for at least one specific reason,39.5
+88,Cote d'Ivoire,West Africa,2011,F,Higher,... if she argues with him,7.2
+88,Cote d'Ivoire,West Africa,2011,F,No education,... if she argues with him,38.9
+88,Cote d'Ivoire,West Africa,2011,F,Primary,... if she argues with him,34.7
+88,Cote d'Ivoire,West Africa,2011,F,Secondary,... if she argues with him,24.6
+158,Cote d'Ivoire,West Africa,2011,F,Higher,... if she goes out without telling him,2.7
+158,Cote d'Ivoire,West Africa,2011,F,No education,... if she goes out without telling him,32.0
+158,Cote d'Ivoire,West Africa,2011,F,Primary,... if she goes out without telling him,26.9
+158,Cote d'Ivoire,West Africa,2011,F,Secondary,... if she goes out without telling him,14.0
+228,Cote d'Ivoire,West Africa,2011,F,Higher,... if she neglects the children,8.8
+228,Cote d'Ivoire,West Africa,2011,F,No education,... if she neglects the children,36.3
+228,Cote d'Ivoire,West Africa,2011,F,Primary,... if she neglects the children,32.6
+228,Cote d'Ivoire,West Africa,2011,F,Secondary,... if she neglects the children,26.2
+298,Cote d'Ivoire,West Africa,2011,F,Higher,... if she refuses to have sex with him,2.9
+298,Cote d'Ivoire,West Africa,2011,F,No education,... if she refuses to have sex with him,28.3
+298,Cote d'Ivoire,West Africa,2011,F,Primary,... if she refuses to have sex with him,18.2
+298,Cote d'Ivoire,West Africa,2011,F,Secondary,... if she refuses to have sex with him,9.3
+368,Cote d'Ivoire,West Africa,2011,M,Higher,... for at least one specific reason,19.1
+368,Cote d'Ivoire,West Africa,2011,M,No education,... for at least one specific reason,44.7
+368,Cote d'Ivoire,West Africa,2011,M,Primary,... for at least one specific reason,45.9
+368,Cote d'Ivoire,West Africa,2011,M,Secondary,... for at least one specific reason,40.5
+88,Cote d'Ivoire,West Africa,2011,M,Higher,... if she argues with him,10.8
+88,Cote d'Ivoire,West Africa,2011,M,No education,... if she argues with him,30.4
+88,Cote d'Ivoire,West Africa,2011,M,Primary,... if she argues with him,29.2
+88,Cote d'Ivoire,West Africa,2011,M,Secondary,... if she argues with him,20.9
+158,Cote d'Ivoire,West Africa,2011,M,Higher,... if she goes out without telling him,5.5
+158,Cote d'Ivoire,West Africa,2011,M,No education,... if she goes out without telling him,28.0
+158,Cote d'Ivoire,West Africa,2011,M,Primary,... if she goes out without telling him,24.3
+158,Cote d'Ivoire,West Africa,2011,M,Secondary,... if she goes out without telling him,17.2
+228,Cote d'Ivoire,West Africa,2011,M,Higher,... if she neglects the children,10.9
+228,Cote d'Ivoire,West Africa,2011,M,No education,... if she neglects the children,30.2
+228,Cote d'Ivoire,West Africa,2011,M,Primary,... if she neglects the children,31.5
+228,Cote d'Ivoire,West Africa,2011,M,Secondary,... if she neglects the children,28.6
+298,Cote d'Ivoire,West Africa,2011,M,Higher,... if she refuses to have sex with him,1.3
+298,Cote d'Ivoire,West Africa,2011,M,No education,... if she refuses to have sex with him,15.9
+298,Cote d'Ivoire,West Africa,2011,M,Primary,... if she refuses to have sex with him,14.4
+298,Cote d'Ivoire,West Africa,2011,M,Secondary,... if she refuses to have sex with him,7.4
+20,Egypt,North Africa,2014,F,Higher,... if she burns the food,1.1
+20,Egypt,North Africa,2014,F,Secondary,... if she burns the food,4.9
+20,Egypt,North Africa,2014,F,Primary,... if she burns the food,10.9
+20,Egypt,North Africa,2014,F,No education,... if she burns the food,13.1
+20,Egypt,North Africa,2014,M,Higher,... if she burns the food,
+20,Egypt,North Africa,2014,M,No education,... if she burns the food,
+20,Egypt,North Africa,2014,M,Primary,... if she burns the food,
+20,Egypt,North Africa,2014,M,Secondary,... if she burns the food,
+370,Egypt,North Africa,2014,F,Higher,... for at least one specific reason,13.3
+370,Egypt,North Africa,2014,F,No education,... for at least one specific reason,53.1
+370,Egypt,North Africa,2014,F,Primary,... for at least one specific reason,47.2
+370,Egypt,North Africa,2014,F,Secondary,... for at least one specific reason,31.3
+90,Egypt,North Africa,2014,F,Higher,... if she argues with him,2.5
+90,Egypt,North Africa,2014,F,No education,... if she argues with him,23.4
+90,Egypt,North Africa,2014,F,Primary,... if she argues with him,20.4
+90,Egypt,North Africa,2014,F,Secondary,... if she argues with him,9.0
+160,Egypt,North Africa,2014,F,Higher,... if she goes out without telling him,6.5
+160,Egypt,North Africa,2014,F,No education,... if she goes out without telling him,41.8
+160,Egypt,North Africa,2014,F,Primary,... if she goes out without telling him,36.7
+160,Egypt,North Africa,2014,F,Secondary,... if she goes out without telling him,20.9
+230,Egypt,North Africa,2014,F,Higher,... if she neglects the children,6.0
+230,Egypt,North Africa,2014,F,No education,... if she neglects the children,38.6
+230,Egypt,North Africa,2014,F,Primary,... if she neglects the children,34.8
+230,Egypt,North Africa,2014,F,Secondary,... if she neglects the children,20.2
+300,Egypt,North Africa,2014,F,Higher,... if she refuses to have sex with him,6.7
+300,Egypt,North Africa,2014,F,No education,... if she refuses to have sex with him,33.4
+300,Egypt,North Africa,2014,F,Primary,... if she refuses to have sex with him,28.6
+300,Egypt,North Africa,2014,F,Secondary,... if she refuses to have sex with him,15.4
+370,Egypt,North Africa,2014,M,Higher,... for at least one specific reason,
+370,Egypt,North Africa,2014,M,No education,... for at least one specific reason,
+370,Egypt,North Africa,2014,M,Primary,... for at least one specific reason,
+370,Egypt,North Africa,2014,M,Secondary,... for at least one specific reason,
+90,Egypt,North Africa,2014,M,Higher,... if she argues with him,
+90,Egypt,North Africa,2014,M,No education,... if she argues with him,
+90,Egypt,North Africa,2014,M,Primary,... if she argues with him,
+90,Egypt,North Africa,2014,M,Secondary,... if she argues with him,
+160,Egypt,North Africa,2014,M,Higher,... if she goes out without telling him,
+160,Egypt,North Africa,2014,M,No education,... if she goes out without telling him,
+160,Egypt,North Africa,2014,M,Primary,... if she goes out without telling him,
+160,Egypt,North Africa,2014,M,Secondary,... if she goes out without telling him,
+230,Egypt,North Africa,2014,M,Higher,... if she neglects the children,
+230,Egypt,North Africa,2014,M,No education,... if she neglects the children,
+230,Egypt,North Africa,2014,M,Primary,... if she neglects the children,
+230,Egypt,North Africa,2014,M,Secondary,... if she neglects the children,
+300,Egypt,North Africa,2014,M,Higher,... if she refuses to have sex with him,
+300,Egypt,North Africa,2014,M,No education,... if she refuses to have sex with him,
+300,Egypt,North Africa,2014,M,Primary,... if she refuses to have sex with him,
+300,Egypt,North Africa,2014,M,Secondary,... if she refuses to have sex with him,
+21,Eritrea,East Africa,2002,F,Higher,... if she burns the food,5.1
+21,Eritrea,East Africa,2002,F,Secondary,... if she burns the food,15.7
+21,Eritrea,East Africa,2002,F,Primary,... if she burns the food,31.0
+21,Eritrea,East Africa,2002,F,No education,... if she burns the food,33.8
+21,Eritrea,East Africa,2002,M,Higher,... if she burns the food,
+21,Eritrea,East Africa,2002,M,No education,... if she burns the food,
+21,Eritrea,East Africa,2002,M,Primary,... if she burns the food,
+21,Eritrea,East Africa,2002,M,Secondary,... if she burns the food,
+371,Eritrea,East Africa,2002,F,Higher,... for at least one specific reason,32.1
+371,Eritrea,East Africa,2002,F,No education,... for at least one specific reason,77.5
+371,Eritrea,East Africa,2002,F,Primary,... for at least one specific reason,73.9
+371,Eritrea,East Africa,2002,F,Secondary,... for at least one specific reason,50.3
+91,Eritrea,East Africa,2002,F,Higher,... if she argues with him,9.8
+91,Eritrea,East Africa,2002,F,No education,... if she argues with him,55.1
+91,Eritrea,East Africa,2002,F,Primary,... if she argues with him,43.3
+91,Eritrea,East Africa,2002,F,Secondary,... if she argues with him,20.9
+161,Eritrea,East Africa,2002,F,Higher,... if she goes out without telling him,9.3
+161,Eritrea,East Africa,2002,F,No education,... if she goes out without telling him,61.5
+161,Eritrea,East Africa,2002,F,Primary,... if she goes out without telling him,52.8
+161,Eritrea,East Africa,2002,F,Secondary,... if she goes out without telling him,26.8
+231,Eritrea,East Africa,2002,F,Higher,... if she neglects the children,18.8
+231,Eritrea,East Africa,2002,F,No education,... if she neglects the children,55.2
+231,Eritrea,East Africa,2002,F,Primary,... if she neglects the children,54.7
+231,Eritrea,East Africa,2002,F,Secondary,... if she neglects the children,36.3
+301,Eritrea,East Africa,2002,F,Higher,... if she refuses to have sex with him,9.0
+301,Eritrea,East Africa,2002,F,No education,... if she refuses to have sex with him,58.3
+301,Eritrea,East Africa,2002,F,Primary,... if she refuses to have sex with him,47.3
+301,Eritrea,East Africa,2002,F,Secondary,... if she refuses to have sex with him,23.8
+371,Eritrea,East Africa,2002,M,Higher,... for at least one specific reason,
+371,Eritrea,East Africa,2002,M,No education,... for at least one specific reason,
+371,Eritrea,East Africa,2002,M,Primary,... for at least one specific reason,
+371,Eritrea,East Africa,2002,M,Secondary,... for at least one specific reason,
+91,Eritrea,East Africa,2002,M,Higher,... if she argues with him,
+91,Eritrea,East Africa,2002,M,No education,... if she argues with him,
+91,Eritrea,East Africa,2002,M,Primary,... if she argues with him,
+91,Eritrea,East Africa,2002,M,Secondary,... if she argues with him,
+161,Eritrea,East Africa,2002,M,Higher,... if she goes out without telling him,
+161,Eritrea,East Africa,2002,M,No education,... if she goes out without telling him,
+161,Eritrea,East Africa,2002,M,Primary,... if she goes out without telling him,
+161,Eritrea,East Africa,2002,M,Secondary,... if she goes out without telling him,
+231,Eritrea,East Africa,2002,M,Higher,... if she neglects the children,
+231,Eritrea,East Africa,2002,M,No education,... if she neglects the children,
+231,Eritrea,East Africa,2002,M,Primary,... if she neglects the children,
+231,Eritrea,East Africa,2002,M,Secondary,... if she neglects the children,
+301,Eritrea,East Africa,2002,M,Higher,... if she refuses to have sex with him,
+301,Eritrea,East Africa,2002,M,No education,... if she refuses to have sex with him,
+301,Eritrea,East Africa,2002,M,Primary,... if she refuses to have sex with him,
+301,Eritrea,East Africa,2002,M,Secondary,... if she refuses to have sex with him,
+22,Eswatini,Southern Africa,2006,F,Higher,... if she burns the food,0.2
+22,Eswatini,Southern Africa,2006,F,Secondary,... if she burns the food,1.4
+22,Eswatini,Southern Africa,2006,F,Primary,... if she burns the food,5.2
+22,Eswatini,Southern Africa,2006,F,No education,... if she burns the food,5.3
+22,Eswatini,Southern Africa,2006,M,Higher,... if she burns the food,1.0
+22,Eswatini,Southern Africa,2006,M,Secondary,... if she burns the food,2.8
+22,Eswatini,Southern Africa,2006,M,No education,... if she burns the food,4.1
+22,Eswatini,Southern Africa,2006,M,Primary,... if she burns the food,6.8
+372,Eswatini,Southern Africa,2006,F,Higher,... for at least one specific reason,3.9
+372,Eswatini,Southern Africa,2006,F,No education,... for at least one specific reason,30.1
+372,Eswatini,Southern Africa,2006,F,Primary,... for at least one specific reason,31.4
+372,Eswatini,Southern Africa,2006,F,Secondary,... for at least one specific reason,19.7
+92,Eswatini,Southern Africa,2006,F,Higher,... if she argues with him,2.1
+92,Eswatini,Southern Africa,2006,F,No education,... if she argues with him,23.9
+92,Eswatini,Southern Africa,2006,F,Primary,... if she argues with him,23.9
+92,Eswatini,Southern Africa,2006,F,Secondary,... if she argues with him,13.8
+162,Eswatini,Southern Africa,2006,F,Higher,... if she goes out without telling him,1.2
+162,Eswatini,Southern Africa,2006,F,No education,... if she goes out without telling him,11.8
+162,Eswatini,Southern Africa,2006,F,Primary,... if she goes out without telling him,13.9
+162,Eswatini,Southern Africa,2006,F,Secondary,... if she goes out without telling him,7.1
+232,Eswatini,Southern Africa,2006,F,Higher,... if she neglects the children,1.4
+232,Eswatini,Southern Africa,2006,F,No education,... if she neglects the children,12.2
+232,Eswatini,Southern Africa,2006,F,Primary,... if she neglects the children,14.9
+232,Eswatini,Southern Africa,2006,F,Secondary,... if she neglects the children,10.0
+302,Eswatini,Southern Africa,2006,F,Higher,... if she refuses to have sex with him,0.3
+302,Eswatini,Southern Africa,2006,F,No education,... if she refuses to have sex with him,7.6
+302,Eswatini,Southern Africa,2006,F,Primary,... if she refuses to have sex with him,5.8
+302,Eswatini,Southern Africa,2006,F,Secondary,... if she refuses to have sex with him,1.5
+372,Eswatini,Southern Africa,2006,M,Higher,... for at least one specific reason,10.4
+372,Eswatini,Southern Africa,2006,M,No education,... for at least one specific reason,28.0
+372,Eswatini,Southern Africa,2006,M,Primary,... for at least one specific reason,40.9
+372,Eswatini,Southern Africa,2006,M,Secondary,... for at least one specific reason,28.5
+92,Eswatini,Southern Africa,2006,M,Higher,... if she argues with him,7.7
+92,Eswatini,Southern Africa,2006,M,No education,... if she argues with him,21.1
+92,Eswatini,Southern Africa,2006,M,Primary,... if she argues with him,30.6
+92,Eswatini,Southern Africa,2006,M,Secondary,... if she argues with him,19.8
+162,Eswatini,Southern Africa,2006,M,Higher,... if she goes out without telling him,4.1
+162,Eswatini,Southern Africa,2006,M,No education,... if she goes out without telling him,11.5
+162,Eswatini,Southern Africa,2006,M,Primary,... if she goes out without telling him,21.0
+162,Eswatini,Southern Africa,2006,M,Secondary,... if she goes out without telling him,12.9
+232,Eswatini,Southern Africa,2006,M,Higher,... if she neglects the children,5.1
+232,Eswatini,Southern Africa,2006,M,No education,... if she neglects the children,12.2
+232,Eswatini,Southern Africa,2006,M,Primary,... if she neglects the children,21.0
+232,Eswatini,Southern Africa,2006,M,Secondary,... if she neglects the children,13.3
+302,Eswatini,Southern Africa,2006,M,Higher,... if she refuses to have sex with him,1.5
+302,Eswatini,Southern Africa,2006,M,No education,... if she refuses to have sex with him,6.1
+302,Eswatini,Southern Africa,2006,M,Primary,... if she refuses to have sex with him,6.3
+302,Eswatini,Southern Africa,2006,M,Secondary,... if she refuses to have sex with him,1.9
+23,Ethiopia,East Africa,2016,F,Higher,... if she burns the food,6.4
+23,Ethiopia,East Africa,2016,F,Secondary,... if she burns the food,17.7
+23,Ethiopia,East Africa,2016,F,Primary,... if she burns the food,39.4
+23,Ethiopia,East Africa,2016,F,No education,... if she burns the food,49.3
+23,Ethiopia,East Africa,2016,M,Higher,... if she burns the food,3.2
+23,Ethiopia,East Africa,2016,M,Secondary,... if she burns the food,5.3
+23,Ethiopia,East Africa,2016,M,Primary,... if she burns the food,12.3
+23,Ethiopia,East Africa,2016,M,No education,... if she burns the food,16.7
+373,Ethiopia,East Africa,2016,F,Higher,... for at least one specific reason,26.1
+373,Ethiopia,East Africa,2016,F,No education,... for at least one specific reason,71.9
+373,Ethiopia,East Africa,2016,F,Primary,... for at least one specific reason,63.7
+373,Ethiopia,East Africa,2016,F,Secondary,... for at least one specific reason,41.9
+93,Ethiopia,East Africa,2016,F,Higher,... if she argues with him,9.6
+93,Ethiopia,East Africa,2016,F,No education,... if she argues with him,50.9
+93,Ethiopia,East Africa,2016,F,Primary,... if she argues with him,42.3
+93,Ethiopia,East Africa,2016,F,Secondary,... if she argues with him,21.4
+163,Ethiopia,East Africa,2016,F,Higher,... if she goes out without telling him,11.7
+163,Ethiopia,East Africa,2016,F,No education,... if she goes out without telling him,52.2
+163,Ethiopia,East Africa,2016,F,Primary,... if she goes out without telling him,42.3
+163,Ethiopia,East Africa,2016,F,Secondary,... if she goes out without telling him,25.2
+233,Ethiopia,East Africa,2016,F,Higher,... if she neglects the children,19.6
+233,Ethiopia,East Africa,2016,F,No education,... if she neglects the children,54.5
+233,Ethiopia,East Africa,2016,F,Primary,... if she neglects the children,47.7
+233,Ethiopia,East Africa,2016,F,Secondary,... if she neglects the children,31.2
+303,Ethiopia,East Africa,2016,F,Higher,... if she refuses to have sex with him,5.6
+303,Ethiopia,East Africa,2016,F,No education,... if she refuses to have sex with him,44.0
+303,Ethiopia,East Africa,2016,F,Primary,... if she refuses to have sex with him,32.9
+303,Ethiopia,East Africa,2016,F,Secondary,... if she refuses to have sex with him,16.1
+373,Ethiopia,East Africa,2016,M,Higher,... for at least one specific reason,11.2
+373,Ethiopia,East Africa,2016,M,No education,... for at least one specific reason,36.0
+373,Ethiopia,East Africa,2016,M,Primary,... for at least one specific reason,29.0
+373,Ethiopia,East Africa,2016,M,Secondary,... for at least one specific reason,18.0
+93,Ethiopia,East Africa,2016,M,Higher,... if she argues with him,5.5
+93,Ethiopia,East Africa,2016,M,No education,... if she argues with him,21.5
+93,Ethiopia,East Africa,2016,M,Primary,... if she argues with him,17.4
+93,Ethiopia,East Africa,2016,M,Secondary,... if she argues with him,7.9
+163,Ethiopia,East Africa,2016,M,Higher,... if she goes out without telling him,5.6
+163,Ethiopia,East Africa,2016,M,No education,... if she goes out without telling him,22.4
+163,Ethiopia,East Africa,2016,M,Primary,... if she goes out without telling him,17.7
+163,Ethiopia,East Africa,2016,M,Secondary,... if she goes out without telling him,10.2
+233,Ethiopia,East Africa,2016,M,Higher,... if she neglects the children,7.5
+233,Ethiopia,East Africa,2016,M,No education,... if she neglects the children,25.9
+233,Ethiopia,East Africa,2016,M,Primary,... if she neglects the children,19.3
+233,Ethiopia,East Africa,2016,M,Secondary,... if she neglects the children,13.0
+303,Ethiopia,East Africa,2016,M,Higher,... if she refuses to have sex with him,4.3
+303,Ethiopia,East Africa,2016,M,No education,... if she refuses to have sex with him,17.4
+303,Ethiopia,East Africa,2016,M,Primary,... if she refuses to have sex with him,13.3
+303,Ethiopia,East Africa,2016,M,Secondary,... if she refuses to have sex with him,6.4
+24,Gabon,Central Africa,2012,F,Higher,... if she burns the food,2.2
+24,Gabon,Central Africa,2012,F,Secondary,... if she burns the food,9.6
+24,Gabon,Central Africa,2012,F,No education,... if she burns the food,15.9
+24,Gabon,Central Africa,2012,F,Primary,... if she burns the food,16.6
+24,Gabon,Central Africa,2012,M,Higher,... if she burns the food,3.5
+24,Gabon,Central Africa,2012,M,Primary,... if she burns the food,6.9
+24,Gabon,Central Africa,2012,M,Secondary,... if she burns the food,7.2
+24,Gabon,Central Africa,2012,M,No education,... if she burns the food,9.9
+374,Gabon,Central Africa,2012,F,Higher,... for at least one specific reason,24.1
+374,Gabon,Central Africa,2012,F,No education,... for at least one specific reason,58.7
+374,Gabon,Central Africa,2012,F,Primary,... for at least one specific reason,59.0
+374,Gabon,Central Africa,2012,F,Secondary,... for at least one specific reason,50.7
+94,Gabon,Central Africa,2012,F,Higher,... if she argues with him,10.9
+94,Gabon,Central Africa,2012,F,No education,... if she argues with him,37.1
+94,Gabon,Central Africa,2012,F,Primary,... if she argues with him,35.0
+94,Gabon,Central Africa,2012,F,Secondary,... if she argues with him,24.7
+164,Gabon,Central Africa,2012,F,Higher,... if she goes out without telling him,3.8
+164,Gabon,Central Africa,2012,F,No education,... if she goes out without telling him,35.6
+164,Gabon,Central Africa,2012,F,Primary,... if she goes out without telling him,32.6
+164,Gabon,Central Africa,2012,F,Secondary,... if she goes out without telling him,15.7
+234,Gabon,Central Africa,2012,F,Higher,... if she neglects the children,17.1
+234,Gabon,Central Africa,2012,F,No education,... if she neglects the children,50.2
+234,Gabon,Central Africa,2012,F,Primary,... if she neglects the children,46.2
+234,Gabon,Central Africa,2012,F,Secondary,... if she neglects the children,41.1
+304,Gabon,Central Africa,2012,F,Higher,... if she refuses to have sex with him,2.2
+304,Gabon,Central Africa,2012,F,No education,... if she refuses to have sex with him,23.2
+304,Gabon,Central Africa,2012,F,Primary,... if she refuses to have sex with him,16.3
+304,Gabon,Central Africa,2012,F,Secondary,... if she refuses to have sex with him,6.4
+374,Gabon,Central Africa,2012,M,Higher,... for at least one specific reason,23.5
+374,Gabon,Central Africa,2012,M,No education,... for at least one specific reason,37.4
+374,Gabon,Central Africa,2012,M,Primary,... for at least one specific reason,40.1
+374,Gabon,Central Africa,2012,M,Secondary,... for at least one specific reason,43.6
+94,Gabon,Central Africa,2012,M,Higher,... if she argues with him,11.3
+94,Gabon,Central Africa,2012,M,No education,... if she argues with him,21.3
+94,Gabon,Central Africa,2012,M,Primary,... if she argues with him,20.7
+94,Gabon,Central Africa,2012,M,Secondary,... if she argues with him,21.0
+164,Gabon,Central Africa,2012,M,Higher,... if she goes out without telling him,6.3
+164,Gabon,Central Africa,2012,M,No education,... if she goes out without telling him,16.3
+164,Gabon,Central Africa,2012,M,Primary,... if she goes out without telling him,17.7
+164,Gabon,Central Africa,2012,M,Secondary,... if she goes out without telling him,14.8
+234,Gabon,Central Africa,2012,M,Higher,... if she neglects the children,16.4
+234,Gabon,Central Africa,2012,M,No education,... if she neglects the children,26.3
+234,Gabon,Central Africa,2012,M,Primary,... if she neglects the children,28.3
+234,Gabon,Central Africa,2012,M,Secondary,... if she neglects the children,32.4
+304,Gabon,Central Africa,2012,M,Higher,... if she refuses to have sex with him,1.7
+304,Gabon,Central Africa,2012,M,No education,... if she refuses to have sex with him,15.7
+304,Gabon,Central Africa,2012,M,Primary,... if she refuses to have sex with him,7.3
+304,Gabon,Central Africa,2012,M,Secondary,... if she refuses to have sex with him,5.5
+25,Gambia,West Africa,2013,F,Higher,... if she burns the food,1.9
+25,Gambia,West Africa,2013,F,Secondary,... if she burns the food,7.0
+25,Gambia,West Africa,2013,F,No education,... if she burns the food,13.4
+25,Gambia,West Africa,2013,F,Primary,... if she burns the food,13.7
+25,Gambia,West Africa,2013,M,Higher,... if she burns the food,2.3
+25,Gambia,West Africa,2013,M,No education,... if she burns the food,4.7
+25,Gambia,West Africa,2013,M,Secondary,... if she burns the food,7.0
+25,Gambia,West Africa,2013,M,Primary,... if she burns the food,10.2
+375,Gambia,West Africa,2013,F,Higher,... for at least one specific reason,28.2
+375,Gambia,West Africa,2013,F,No education,... for at least one specific reason,67.8
+375,Gambia,West Africa,2013,F,Primary,... for at least one specific reason,66.8
+375,Gambia,West Africa,2013,F,Secondary,... for at least one specific reason,47.1
+95,Gambia,West Africa,2013,F,Higher,... if she argues with him,4.2
+95,Gambia,West Africa,2013,F,No education,... if she argues with him,29.8
+95,Gambia,West Africa,2013,F,Primary,... if she argues with him,29.8
+95,Gambia,West Africa,2013,F,Secondary,... if she argues with him,17.3
+165,Gambia,West Africa,2013,F,Higher,... if she goes out without telling him,11.9
+165,Gambia,West Africa,2013,F,No education,... if she goes out without telling him,52.0
+165,Gambia,West Africa,2013,F,Primary,... if she goes out without telling him,49.7
+165,Gambia,West Africa,2013,F,Secondary,... if she goes out without telling him,30.1
+235,Gambia,West Africa,2013,F,Higher,... if she neglects the children,12.8
+235,Gambia,West Africa,2013,F,No education,... if she neglects the children,42.1
+235,Gambia,West Africa,2013,F,Primary,... if she neglects the children,40.9
+235,Gambia,West Africa,2013,F,Secondary,... if she neglects the children,27.3
+305,Gambia,West Africa,2013,F,Higher,... if she refuses to have sex with him,17.4
+305,Gambia,West Africa,2013,F,No education,... if she refuses to have sex with him,54.7
+305,Gambia,West Africa,2013,F,Primary,... if she refuses to have sex with him,53.3
+305,Gambia,West Africa,2013,F,Secondary,... if she refuses to have sex with him,32.0
+375,Gambia,West Africa,2013,M,Higher,... for at least one specific reason,15.4
+375,Gambia,West Africa,2013,M,No education,... for at least one specific reason,35.2
+375,Gambia,West Africa,2013,M,Primary,... for at least one specific reason,41.9
+375,Gambia,West Africa,2013,M,Secondary,... for at least one specific reason,32.5
+95,Gambia,West Africa,2013,M,Higher,... if she argues with him,2.7
+95,Gambia,West Africa,2013,M,No education,... if she argues with him,12.0
+95,Gambia,West Africa,2013,M,Primary,... if she argues with him,16.6
+95,Gambia,West Africa,2013,M,Secondary,... if she argues with him,11.1
+165,Gambia,West Africa,2013,M,Higher,... if she goes out without telling him,8.3
+165,Gambia,West Africa,2013,M,No education,... if she goes out without telling him,24.6
+165,Gambia,West Africa,2013,M,Primary,... if she goes out without telling him,27.9
+165,Gambia,West Africa,2013,M,Secondary,... if she goes out without telling him,18.8
+235,Gambia,West Africa,2013,M,Higher,... if she neglects the children,10.2
+235,Gambia,West Africa,2013,M,No education,... if she neglects the children,19.9
+235,Gambia,West Africa,2013,M,Primary,... if she neglects the children,23.0
+235,Gambia,West Africa,2013,M,Secondary,... if she neglects the children,18.8
+305,Gambia,West Africa,2013,M,Higher,... if she refuses to have sex with him,4.6
+305,Gambia,West Africa,2013,M,No education,... if she refuses to have sex with him,23.4
+305,Gambia,West Africa,2013,M,Primary,... if she refuses to have sex with him,26.4
+305,Gambia,West Africa,2013,M,Secondary,... if she refuses to have sex with him,17.4
+26,Ghana,West Africa,2014,F,Higher,... if she burns the food,1.1
+26,Ghana,West Africa,2014,F,Secondary,... if she burns the food,4.7
+26,Ghana,West Africa,2014,F,Primary,... if she burns the food,9.7
+26,Ghana,West Africa,2014,F,No education,... if she burns the food,15.4
+26,Ghana,West Africa,2014,M,Higher,... if she burns the food,0.9
+26,Ghana,West Africa,2014,M,Secondary,... if she burns the food,2.8
+26,Ghana,West Africa,2014,M,No education,... if she burns the food,4.0
+26,Ghana,West Africa,2014,M,Primary,... if she burns the food,4.1
+376,Ghana,West Africa,2014,F,Higher,... for at least one specific reason,4.2
+376,Ghana,West Africa,2014,F,No education,... for at least one specific reason,47.1
+376,Ghana,West Africa,2014,F,Primary,... for at least one specific reason,34.7
+376,Ghana,West Africa,2014,F,Secondary,... for at least one specific reason,22.6
+96,Ghana,West Africa,2014,F,Higher,... if she argues with him,1.6
+96,Ghana,West Africa,2014,F,No education,... if she argues with him,30.3
+96,Ghana,West Africa,2014,F,Primary,... if she argues with him,20.0
+96,Ghana,West Africa,2014,F,Secondary,... if she argues with him,10.9
+166,Ghana,West Africa,2014,F,Higher,... if she goes out without telling him,2.3
+166,Ghana,West Africa,2014,F,No education,... if she goes out without telling him,30.8
+166,Ghana,West Africa,2014,F,Primary,... if she goes out without telling him,22.4
+166,Ghana,West Africa,2014,F,Secondary,... if she goes out without telling him,11.4
+236,Ghana,West Africa,2014,F,Higher,... if she neglects the children,3.1
+236,Ghana,West Africa,2014,F,No education,... if she neglects the children,36.6
+236,Ghana,West Africa,2014,F,Primary,... if she neglects the children,26.1
+236,Ghana,West Africa,2014,F,Secondary,... if she neglects the children,16.1
+306,Ghana,West Africa,2014,F,Higher,... if she refuses to have sex with him,1.1
+306,Ghana,West Africa,2014,F,No education,... if she refuses to have sex with him,29.0
+306,Ghana,West Africa,2014,F,Primary,... if she refuses to have sex with him,14.0
+306,Ghana,West Africa,2014,F,Secondary,... if she refuses to have sex with him,7.2
+376,Ghana,West Africa,2014,M,Higher,... for at least one specific reason,3.1
+376,Ghana,West Africa,2014,M,No education,... for at least one specific reason,23.5
+376,Ghana,West Africa,2014,M,Primary,... for at least one specific reason,18.4
+376,Ghana,West Africa,2014,M,Secondary,... for at least one specific reason,12.0
+96,Ghana,West Africa,2014,M,Higher,... if she argues with him,1.6
+96,Ghana,West Africa,2014,M,No education,... if she argues with him,9.0
+96,Ghana,West Africa,2014,M,Primary,... if she argues with him,9.6
+96,Ghana,West Africa,2014,M,Secondary,... if she argues with him,5.4
+166,Ghana,West Africa,2014,M,Higher,... if she goes out without telling him,1.7
+166,Ghana,West Africa,2014,M,No education,... if she goes out without telling him,15.5
+166,Ghana,West Africa,2014,M,Primary,... if she goes out without telling him,8.8
+166,Ghana,West Africa,2014,M,Secondary,... if she goes out without telling him,5.8
+236,Ghana,West Africa,2014,M,Higher,... if she neglects the children,1.8
+236,Ghana,West Africa,2014,M,No education,... if she neglects the children,15.7
+236,Ghana,West Africa,2014,M,Primary,... if she neglects the children,12.8
+236,Ghana,West Africa,2014,M,Secondary,... if she neglects the children,7.6
+306,Ghana,West Africa,2014,M,Higher,... if she refuses to have sex with him,1.5
+306,Ghana,West Africa,2014,M,No education,... if she refuses to have sex with him,12.8
+306,Ghana,West Africa,2014,M,Primary,... if she refuses to have sex with him,6.7
+306,Ghana,West Africa,2014,M,Secondary,... if she refuses to have sex with him,3.8
+28,Guinea,West Africa,2018,F,Higher,... if she burns the food,8.2
+28,Guinea,West Africa,2018,F,Secondary,... if she burns the food,15.8
+28,Guinea,West Africa,2018,F,Primary,... if she burns the food,23.3
+28,Guinea,West Africa,2018,F,No education,... if she burns the food,26.3
+28,Guinea,West Africa,2018,M,Higher,... if she burns the food,9.2
+28,Guinea,West Africa,2018,M,Secondary,... if she burns the food,13.0
+28,Guinea,West Africa,2018,M,No education,... if she burns the food,19.7
+28,Guinea,West Africa,2018,M,Primary,... if she burns the food,22.0
+378,Guinea,West Africa,2018,F,Higher,... for at least one specific reason,46.8
+378,Guinea,West Africa,2018,F,No education,... for at least one specific reason,70.9
+378,Guinea,West Africa,2018,F,Primary,... for at least one specific reason,65.3
+378,Guinea,West Africa,2018,F,Secondary,... for at least one specific reason,57.8
+98,Guinea,West Africa,2018,F,Higher,... if she argues with him,19.4
+98,Guinea,West Africa,2018,F,No education,... if she argues with him,53.0
+98,Guinea,West Africa,2018,F,Primary,... if she argues with him,49.5
+98,Guinea,West Africa,2018,F,Secondary,... if she argues with him,38.4
+168,Guinea,West Africa,2018,F,Higher,... if she goes out without telling him,28.9
+168,Guinea,West Africa,2018,F,No education,... if she goes out without telling him,58.3
+168,Guinea,West Africa,2018,F,Primary,... if she goes out without telling him,51.7
+168,Guinea,West Africa,2018,F,Secondary,... if she goes out without telling him,41.7
+238,Guinea,West Africa,2018,F,Higher,... if she neglects the children,32.9
+238,Guinea,West Africa,2018,F,No education,... if she neglects the children,55.8
+238,Guinea,West Africa,2018,F,Primary,... if she neglects the children,49.7
+238,Guinea,West Africa,2018,F,Secondary,... if she neglects the children,44.1
+308,Guinea,West Africa,2018,F,Higher,... if she refuses to have sex with him,25.4
+308,Guinea,West Africa,2018,F,No education,... if she refuses to have sex with him,51.9
+308,Guinea,West Africa,2018,F,Primary,... if she refuses to have sex with him,45.7
+308,Guinea,West Africa,2018,F,Secondary,... if she refuses to have sex with him,35.8
+378,Guinea,West Africa,2018,M,Higher,... for at least one specific reason,39.9
+378,Guinea,West Africa,2018,M,No education,... for at least one specific reason,64.5
+378,Guinea,West Africa,2018,M,Primary,... for at least one specific reason,54.8
+378,Guinea,West Africa,2018,M,Secondary,... for at least one specific reason,47.3
+98,Guinea,West Africa,2018,M,Higher,... if she argues with him,20.4
+98,Guinea,West Africa,2018,M,No education,... if she argues with him,39.8
+98,Guinea,West Africa,2018,M,Primary,... if she argues with him,29.8
+98,Guinea,West Africa,2018,M,Secondary,... if she argues with him,26.4
+168,Guinea,West Africa,2018,M,Higher,... if she goes out without telling him,23.8
+168,Guinea,West Africa,2018,M,No education,... if she goes out without telling him,47.3
+168,Guinea,West Africa,2018,M,Primary,... if she goes out without telling him,35.9
+168,Guinea,West Africa,2018,M,Secondary,... if she goes out without telling him,28.7
+238,Guinea,West Africa,2018,M,Higher,... if she neglects the children,30.9
+238,Guinea,West Africa,2018,M,No education,... if she neglects the children,50.2
+238,Guinea,West Africa,2018,M,Primary,... if she neglects the children,43.0
+238,Guinea,West Africa,2018,M,Secondary,... if she neglects the children,37.5
+308,Guinea,West Africa,2018,M,Higher,... if she refuses to have sex with him,10.7
+308,Guinea,West Africa,2018,M,No education,... if she refuses to have sex with him,34.0
+308,Guinea,West Africa,2018,M,Primary,... if she refuses to have sex with him,27.5
+308,Guinea,West Africa,2018,M,Secondary,... if she refuses to have sex with him,17.0
+385,Kenya,East Africa,2014,F,Higher,... for at least one specific reason,14.9
+385,Kenya,East Africa,2014,F,No education,... for at least one specific reason,59.1
+385,Kenya,East Africa,2014,F,Primary,... for at least one specific reason,49.0
+385,Kenya,East Africa,2014,F,Secondary,... for at least one specific reason,35.8
+105,Kenya,East Africa,2014,F,Higher,... if she argues with him,3.7
+105,Kenya,East Africa,2014,F,No education,... if she argues with him,36.9
+105,Kenya,East Africa,2014,F,Primary,... if she argues with him,26.1
+105,Kenya,East Africa,2014,F,Secondary,... if she argues with him,15.3
+35,Kenya,East Africa,2014,F,Higher,... if she burns the food,0.8
+35,Kenya,East Africa,2014,F,No education,... if she burns the food,16.0
+35,Kenya,East Africa,2014,F,Primary,... if she burns the food,8.8
+35,Kenya,East Africa,2014,F,Secondary,... if she burns the food,4.4
+175,Kenya,East Africa,2014,F,Higher,... if she goes out without telling him,4.6
+175,Kenya,East Africa,2014,F,No education,... if she goes out without telling him,38.3
+175,Kenya,East Africa,2014,F,Primary,... if she goes out without telling him,26.8
+175,Kenya,East Africa,2014,F,Secondary,... if she goes out without telling him,16.2
+245,Kenya,East Africa,2014,F,Higher,... if she neglects the children,11.3
+245,Kenya,East Africa,2014,F,No education,... if she neglects the children,49.4
+245,Kenya,East Africa,2014,F,Primary,... if she neglects the children,39.0
+245,Kenya,East Africa,2014,F,Secondary,... if she neglects the children,28.3
+315,Kenya,East Africa,2014,F,Higher,... if she refuses to have sex with him,2.5
+315,Kenya,East Africa,2014,F,No education,... if she refuses to have sex with him,36.0
+315,Kenya,East Africa,2014,F,Primary,... if she refuses to have sex with him,19.0
+315,Kenya,East Africa,2014,F,Secondary,... if she refuses to have sex with him,8.8
+385,Kenya,East Africa,2014,M,Higher,... for at least one specific reason,23.1
+385,Kenya,East Africa,2014,M,No education,... for at least one specific reason,60.4
+385,Kenya,East Africa,2014,M,Primary,... for at least one specific reason,40.5
+385,Kenya,East Africa,2014,M,Secondary,... for at least one specific reason,34.1
+105,Kenya,East Africa,2014,M,Higher,... if she argues with him,9.0
+105,Kenya,East Africa,2014,M,No education,... if she argues with him,45.4
+105,Kenya,East Africa,2014,M,Primary,... if she argues with him,24.0
+105,Kenya,East Africa,2014,M,Secondary,... if she argues with him,18.2
+35,Kenya,East Africa,2014,M,Higher,... if she burns the food,1.9
+35,Kenya,East Africa,2014,M,No education,... if she burns the food,15.5
+35,Kenya,East Africa,2014,M,Primary,... if she burns the food,5.2
+35,Kenya,East Africa,2014,M,Secondary,... if she burns the food,3.8
+175,Kenya,East Africa,2014,M,Higher,... if she goes out without telling him,9.0
+175,Kenya,East Africa,2014,M,No education,... if she goes out without telling him,48.2
+175,Kenya,East Africa,2014,M,Primary,... if she goes out without telling him,22.1
+175,Kenya,East Africa,2014,M,Secondary,... if she goes out without telling him,15.0
+245,Kenya,East Africa,2014,M,Higher,... if she neglects the children,18.6
+245,Kenya,East Africa,2014,M,No education,... if she neglects the children,51.1
+245,Kenya,East Africa,2014,M,Primary,... if she neglects the children,30.3
+245,Kenya,East Africa,2014,M,Secondary,... if she neglects the children,24.8
+315,Kenya,East Africa,2014,M,Higher,... if she refuses to have sex with him,4.1
+315,Kenya,East Africa,2014,M,No education,... if she refuses to have sex with him,34.8
+315,Kenya,East Africa,2014,M,Primary,... if she refuses to have sex with him,11.7
+315,Kenya,East Africa,2014,M,Secondary,... if she refuses to have sex with him,7.6
+387,Lesotho,Southern Africa,2014,F,Higher,... for at least one specific reason,5.4
+387,Lesotho,Southern Africa,2014,F,No education,... for at least one specific reason,41.7
+387,Lesotho,Southern Africa,2014,F,Primary,... for at least one specific reason,44.7
+387,Lesotho,Southern Africa,2014,F,Secondary,... for at least one specific reason,29.4
+107,Lesotho,Southern Africa,2014,F,Higher,... if she argues with him,2.6
+107,Lesotho,Southern Africa,2014,F,No education,... if she argues with him,32.6
+107,Lesotho,Southern Africa,2014,F,Primary,... if she argues with him,34.4
+107,Lesotho,Southern Africa,2014,F,Secondary,... if she argues with him,20.8
+37,Lesotho,Southern Africa,2014,F,Higher,... if she burns the food,0.5
+37,Lesotho,Southern Africa,2014,F,No education,... if she burns the food,9.9
+37,Lesotho,Southern Africa,2014,F,Primary,... if she burns the food,10.0
+37,Lesotho,Southern Africa,2014,F,Secondary,... if she burns the food,4.5
+177,Lesotho,Southern Africa,2014,F,Higher,... if she goes out without telling him,1.3
+177,Lesotho,Southern Africa,2014,F,No education,... if she goes out without telling him,13.8
+177,Lesotho,Southern Africa,2014,F,Primary,... if she goes out without telling him,17.1
+177,Lesotho,Southern Africa,2014,F,Secondary,... if she goes out without telling him,7.5
+247,Lesotho,Southern Africa,2014,F,Higher,... if she neglects the children,2.3
+247,Lesotho,Southern Africa,2014,F,No education,... if she neglects the children,29.6
+247,Lesotho,Southern Africa,2014,F,Primary,... if she neglects the children,30.4
+247,Lesotho,Southern Africa,2014,F,Secondary,... if she neglects the children,18.9
+317,Lesotho,Southern Africa,2014,F,Higher,... if she refuses to have sex with him,0.5
+317,Lesotho,Southern Africa,2014,F,No education,... if she refuses to have sex with him,15.0
+317,Lesotho,Southern Africa,2014,F,Primary,... if she refuses to have sex with him,15.6
+317,Lesotho,Southern Africa,2014,F,Secondary,... if she refuses to have sex with him,6.2
+387,Lesotho,Southern Africa,2014,M,Higher,... for at least one specific reason,17.1
+387,Lesotho,Southern Africa,2014,M,No education,... for at least one specific reason,52.5
+387,Lesotho,Southern Africa,2014,M,Primary,... for at least one specific reason,47.4
+387,Lesotho,Southern Africa,2014,M,Secondary,... for at least one specific reason,32.7
+107,Lesotho,Southern Africa,2014,M,Higher,... if she argues with him,9.9
+107,Lesotho,Southern Africa,2014,M,No education,... if she argues with him,38.2
+107,Lesotho,Southern Africa,2014,M,Primary,... if she argues with him,32.8
+107,Lesotho,Southern Africa,2014,M,Secondary,... if she argues with him,18.6
+37,Lesotho,Southern Africa,2014,M,Higher,... if she burns the food,1.7
+37,Lesotho,Southern Africa,2014,M,No education,... if she burns the food,8.9
+37,Lesotho,Southern Africa,2014,M,Primary,... if she burns the food,8.2
+37,Lesotho,Southern Africa,2014,M,Secondary,... if she burns the food,4.7
+177,Lesotho,Southern Africa,2014,M,Higher,... if she goes out without telling him,4.6
+177,Lesotho,Southern Africa,2014,M,No education,... if she goes out without telling him,28.8
+177,Lesotho,Southern Africa,2014,M,Primary,... if she goes out without telling him,20.9
+177,Lesotho,Southern Africa,2014,M,Secondary,... if she goes out without telling him,9.2
+247,Lesotho,Southern Africa,2014,M,Higher,... if she neglects the children,10.4
+247,Lesotho,Southern Africa,2014,M,No education,... if she neglects the children,35.9
+247,Lesotho,Southern Africa,2014,M,Primary,... if she neglects the children,32.7
+247,Lesotho,Southern Africa,2014,M,Secondary,... if she neglects the children,19.8
+317,Lesotho,Southern Africa,2014,M,Higher,... if she refuses to have sex with him,2.1
+317,Lesotho,Southern Africa,2014,M,No education,... if she refuses to have sex with him,19.7
+317,Lesotho,Southern Africa,2014,M,Primary,... if she refuses to have sex with him,13.0
+317,Lesotho,Southern Africa,2014,M,Secondary,... if she refuses to have sex with him,4.2
+388,Liberia,West Africa,2013,F,Higher,... for at least one specific reason,18.5
+388,Liberia,West Africa,2013,F,No education,... for at least one specific reason,45.8
+388,Liberia,West Africa,2013,F,Primary,... for at least one specific reason,47.8
+388,Liberia,West Africa,2013,F,Secondary,... for at least one specific reason,37.0
+108,Liberia,West Africa,2013,F,Higher,... if she argues with him,14.4
+108,Liberia,West Africa,2013,F,No education,... if she argues with him,35.0
+108,Liberia,West Africa,2013,F,Primary,... if she argues with him,38.8
+108,Liberia,West Africa,2013,F,Secondary,... if she argues with him,28.1
+38,Liberia,West Africa,2013,F,Higher,... if she burns the food,0.1
+38,Liberia,West Africa,2013,F,No education,... if she burns the food,8.6
+38,Liberia,West Africa,2013,F,Primary,... if she burns the food,8.4
+38,Liberia,West Africa,2013,F,Secondary,... if she burns the food,6.2
+178,Liberia,West Africa,2013,F,Higher,... if she goes out without telling him,15.1
+178,Liberia,West Africa,2013,F,No education,... if she goes out without telling him,30.7
+178,Liberia,West Africa,2013,F,Primary,... if she goes out without telling him,31.5
+178,Liberia,West Africa,2013,F,Secondary,... if she goes out without telling him,24.9
+248,Liberia,West Africa,2013,F,Higher,... if she neglects the children,14.0
+248,Liberia,West Africa,2013,F,No education,... if she neglects the children,34.5
+248,Liberia,West Africa,2013,F,Primary,... if she neglects the children,37.1
+248,Liberia,West Africa,2013,F,Secondary,... if she neglects the children,27.6
+318,Liberia,West Africa,2013,F,Higher,... if she refuses to have sex with him,6.5
+318,Liberia,West Africa,2013,F,No education,... if she refuses to have sex with him,13.4
+318,Liberia,West Africa,2013,F,Primary,... if she refuses to have sex with him,11.6
+318,Liberia,West Africa,2013,F,Secondary,... if she refuses to have sex with him,7.5
+388,Liberia,West Africa,2013,M,Higher,... for at least one specific reason,11.1
+388,Liberia,West Africa,2013,M,No education,... for at least one specific reason,28.0
+388,Liberia,West Africa,2013,M,Primary,... for at least one specific reason,30.0
+388,Liberia,West Africa,2013,M,Secondary,... for at least one specific reason,22.3
+108,Liberia,West Africa,2013,M,Higher,... if she argues with him,8.8
+108,Liberia,West Africa,2013,M,No education,... if she argues with him,21.2
+108,Liberia,West Africa,2013,M,Primary,... if she argues with him,23.4
+108,Liberia,West Africa,2013,M,Secondary,... if she argues with him,15.9
+38,Liberia,West Africa,2013,M,Higher,... if she burns the food,0.0
+38,Liberia,West Africa,2013,M,No education,... if she burns the food,1.9
+38,Liberia,West Africa,2013,M,Primary,... if she burns the food,3.9
+38,Liberia,West Africa,2013,M,Secondary,... if she burns the food,2.5
+178,Liberia,West Africa,2013,M,Higher,... if she goes out without telling him,9.2
+178,Liberia,West Africa,2013,M,No education,... if she goes out without telling him,17.8
+178,Liberia,West Africa,2013,M,Primary,... if she goes out without telling him,16.2
+178,Liberia,West Africa,2013,M,Secondary,... if she goes out without telling him,12.6
+248,Liberia,West Africa,2013,M,Higher,... if she neglects the children,7.6
+248,Liberia,West Africa,2013,M,No education,... if she neglects the children,18.7
+248,Liberia,West Africa,2013,M,Primary,... if she neglects the children,18.1
+248,Liberia,West Africa,2013,M,Secondary,... if she neglects the children,12.7
+318,Liberia,West Africa,2013,M,Higher,... if she refuses to have sex with him,0.0
+318,Liberia,West Africa,2013,M,No education,... if she refuses to have sex with him,8.7
+318,Liberia,West Africa,2013,M,Primary,... if she refuses to have sex with him,5.3
+318,Liberia,West Africa,2013,M,Secondary,... if she refuses to have sex with him,2.9
+389,Madagascar,East Africa,2008,F,Higher,... for at least one specific reason,20.0
+389,Madagascar,East Africa,2008,F,No education,... for at least one specific reason,29.0
+389,Madagascar,East Africa,2008,F,Primary,... for at least one specific reason,32.4
+389,Madagascar,East Africa,2008,F,Secondary,... for at least one specific reason,35.3
+109,Madagascar,East Africa,2008,F,Higher,... if she argues with him,1.6
+109,Madagascar,East Africa,2008,F,No education,... if she argues with him,6.4
+109,Madagascar,East Africa,2008,F,Primary,... if she argues with him,6.6
+109,Madagascar,East Africa,2008,F,Secondary,... if she argues with him,5.1
+39,Madagascar,East Africa,2008,F,Higher,... if she burns the food,1.9
+39,Madagascar,East Africa,2008,F,No education,... if she burns the food,7.3
+39,Madagascar,East Africa,2008,F,Primary,... if she burns the food,7.8
+39,Madagascar,East Africa,2008,F,Secondary,... if she burns the food,6.8
+179,Madagascar,East Africa,2008,F,Higher,... if she goes out without telling him,8.1
+179,Madagascar,East Africa,2008,F,No education,... if she goes out without telling him,17.9
+179,Madagascar,East Africa,2008,F,Primary,... if she goes out without telling him,20.0
+179,Madagascar,East Africa,2008,F,Secondary,... if she goes out without telling him,19.7
+249,Madagascar,East Africa,2008,F,Higher,... if she neglects the children,16.6
+249,Madagascar,East Africa,2008,F,No education,... if she neglects the children,25.1
+249,Madagascar,East Africa,2008,F,Primary,... if she neglects the children,28.0
+249,Madagascar,East Africa,2008,F,Secondary,... if she neglects the children,31.5
+319,Madagascar,East Africa,2008,F,Higher,... if she refuses to have sex with him,2.1
+319,Madagascar,East Africa,2008,F,No education,... if she refuses to have sex with him,10.6
+319,Madagascar,East Africa,2008,F,Primary,... if she refuses to have sex with him,9.9
+319,Madagascar,East Africa,2008,F,Secondary,... if she refuses to have sex with him,7.7
+389,Madagascar,East Africa,2008,M,Higher,... for at least one specific reason,16.8
+389,Madagascar,East Africa,2008,M,No education,... for at least one specific reason,30.5
+389,Madagascar,East Africa,2008,M,Primary,... for at least one specific reason,30.8
+389,Madagascar,East Africa,2008,M,Secondary,... for at least one specific reason,30.0
+109,Madagascar,East Africa,2008,M,Higher,... if she argues with him,2.1
+109,Madagascar,East Africa,2008,M,No education,... if she argues with him,9.8
+109,Madagascar,East Africa,2008,M,Primary,... if she argues with him,9.7
+109,Madagascar,East Africa,2008,M,Secondary,... if she argues with him,7.9
+39,Madagascar,East Africa,2008,M,Higher,... if she burns the food,0.4
+39,Madagascar,East Africa,2008,M,No education,... if she burns the food,8.1
+39,Madagascar,East Africa,2008,M,Primary,... if she burns the food,6.8
+39,Madagascar,East Africa,2008,M,Secondary,... if she burns the food,5.4
+179,Madagascar,East Africa,2008,M,Higher,... if she goes out without telling him,7.9
+179,Madagascar,East Africa,2008,M,No education,... if she goes out without telling him,21.3
+179,Madagascar,East Africa,2008,M,Primary,... if she goes out without telling him,19.7
+179,Madagascar,East Africa,2008,M,Secondary,... if she goes out without telling him,17.6
+249,Madagascar,East Africa,2008,M,Higher,... if she neglects the children,13.4
+249,Madagascar,East Africa,2008,M,No education,... if she neglects the children,23.7
+249,Madagascar,East Africa,2008,M,Primary,... if she neglects the children,25.1
+249,Madagascar,East Africa,2008,M,Secondary,... if she neglects the children,24.1
+319,Madagascar,East Africa,2008,M,Higher,... if she refuses to have sex with him,1.1
+319,Madagascar,East Africa,2008,M,No education,... if she refuses to have sex with him,10.4
+319,Madagascar,East Africa,2008,M,Primary,... if she refuses to have sex with him,8.8
+319,Madagascar,East Africa,2008,M,Secondary,... if she refuses to have sex with him,6.6
+390,Malawi,Southern Africa,2015,F,Higher,... for at least one specific reason,4.0
+390,Malawi,Southern Africa,2015,F,No education,... for at least one specific reason,18.2
+390,Malawi,Southern Africa,2015,F,Primary,... for at least one specific reason,18.1
+390,Malawi,Southern Africa,2015,F,Secondary,... for at least one specific reason,12.2
+110,Malawi,Southern Africa,2015,F,Higher,... if she argues with him,0.9
+110,Malawi,Southern Africa,2015,F,No education,... if she argues with him,7.6
+110,Malawi,Southern Africa,2015,F,Primary,... if she argues with him,7.7
+110,Malawi,Southern Africa,2015,F,Secondary,... if she argues with him,4.4
+40,Malawi,Southern Africa,2015,F,Higher,... if she burns the food,0.8
+40,Malawi,Southern Africa,2015,F,No education,... if she burns the food,6.1
+40,Malawi,Southern Africa,2015,F,Primary,... if she burns the food,6.5
+40,Malawi,Southern Africa,2015,F,Secondary,... if she burns the food,3.3
+180,Malawi,Southern Africa,2015,F,Higher,... if she goes out without telling him,1.0
+180,Malawi,Southern Africa,2015,F,No education,... if she goes out without telling him,7.5
+180,Malawi,Southern Africa,2015,F,Primary,... if she goes out without telling him,7.6
+180,Malawi,Southern Africa,2015,F,Secondary,... if she goes out without telling him,5.3
+250,Malawi,Southern Africa,2015,F,Higher,... if she neglects the children,1.6
+250,Malawi,Southern Africa,2015,F,No education,... if she neglects the children,9.0
+250,Malawi,Southern Africa,2015,F,Primary,... if she neglects the children,9.9
+250,Malawi,Southern Africa,2015,F,Secondary,... if she neglects the children,6.5
+320,Malawi,Southern Africa,2015,F,Higher,... if she refuses to have sex with him,0.7
+320,Malawi,Southern Africa,2015,F,No education,... if she refuses to have sex with him,10.7
+320,Malawi,Southern Africa,2015,F,Primary,... if she refuses to have sex with him,9.5
+320,Malawi,Southern Africa,2015,F,Secondary,... if she refuses to have sex with him,4.9
+390,Malawi,Southern Africa,2015,M,Higher,... for at least one specific reason,4.5
+390,Malawi,Southern Africa,2015,M,No education,... for at least one specific reason,9.6
+390,Malawi,Southern Africa,2015,M,Primary,... for at least one specific reason,16.2
+390,Malawi,Southern Africa,2015,M,Secondary,... for at least one specific reason,8.9
+110,Malawi,Southern Africa,2015,M,Higher,... if she argues with him,2.1
+110,Malawi,Southern Africa,2015,M,No education,... if she argues with him,4.3
+110,Malawi,Southern Africa,2015,M,Primary,... if she argues with him,6.9
+110,Malawi,Southern Africa,2015,M,Secondary,... if she argues with him,3.0
+40,Malawi,Southern Africa,2015,M,Higher,... if she burns the food,0.7
+40,Malawi,Southern Africa,2015,M,No education,... if she burns the food,2.2
+40,Malawi,Southern Africa,2015,M,Primary,... if she burns the food,3.2
+40,Malawi,Southern Africa,2015,M,Secondary,... if she burns the food,0.9
+180,Malawi,Southern Africa,2015,M,Higher,... if she goes out without telling him,2.9
+180,Malawi,Southern Africa,2015,M,No education,... if she goes out without telling him,3.5
+180,Malawi,Southern Africa,2015,M,Primary,... if she goes out without telling him,6.5
+180,Malawi,Southern Africa,2015,M,Secondary,... if she goes out without telling him,2.2
+250,Malawi,Southern Africa,2015,M,Higher,... if she neglects the children,1.5
+250,Malawi,Southern Africa,2015,M,No education,... if she neglects the children,3.9
+250,Malawi,Southern Africa,2015,M,Primary,... if she neglects the children,8.0
+250,Malawi,Southern Africa,2015,M,Secondary,... if she neglects the children,4.7
+320,Malawi,Southern Africa,2015,M,Higher,... if she refuses to have sex with him,0.6
+320,Malawi,Southern Africa,2015,M,No education,... if she refuses to have sex with him,5.0
+320,Malawi,Southern Africa,2015,M,Primary,... if she refuses to have sex with him,6.4
+320,Malawi,Southern Africa,2015,M,Secondary,... if she refuses to have sex with him,2.6
+392,Mali,West Africa,2018,F,Higher,... for at least one specific reason,55.6
+392,Mali,West Africa,2018,F,No education,... for at least one specific reason,82.0
+392,Mali,West Africa,2018,F,Primary,... for at least one specific reason,80.5
+392,Mali,West Africa,2018,F,Secondary,... for at least one specific reason,72.5
+112,Mali,West Africa,2018,F,Higher,... if she argues with him,44.0
+112,Mali,West Africa,2018,F,No education,... if she argues with him,71.0
+112,Mali,West Africa,2018,F,Primary,... if she argues with him,69.5
+112,Mali,West Africa,2018,F,Secondary,... if she argues with him,61.8
+42,Mali,West Africa,2018,F,Higher,... if she burns the food,3.9
+42,Mali,West Africa,2018,F,No education,... if she burns the food,24.7
+42,Mali,West Africa,2018,F,Primary,... if she burns the food,25.3
+42,Mali,West Africa,2018,F,Secondary,... if she burns the food,15.8
+182,Mali,West Africa,2018,F,Higher,... if she goes out without telling him,28.6
+182,Mali,West Africa,2018,F,No education,... if she goes out without telling him,57.8
+182,Mali,West Africa,2018,F,Primary,... if she goes out without telling him,55.2
+182,Mali,West Africa,2018,F,Secondary,... if she goes out without telling him,41.9
+252,Mali,West Africa,2018,F,Higher,... if she neglects the children,28.2
+252,Mali,West Africa,2018,F,No education,... if she neglects the children,54.8
+252,Mali,West Africa,2018,F,Primary,... if she neglects the children,54.4
+252,Mali,West Africa,2018,F,Secondary,... if she neglects the children,42.0
+322,Mali,West Africa,2018,F,Higher,... if she refuses to have sex with him,34.9
+322,Mali,West Africa,2018,F,No education,... if she refuses to have sex with him,66.7
+322,Mali,West Africa,2018,F,Primary,... if she refuses to have sex with him,65.4
+322,Mali,West Africa,2018,F,Secondary,... if she refuses to have sex with him,51.0
+392,Mali,West Africa,2018,M,Higher,... for at least one specific reason,16.6
+392,Mali,West Africa,2018,M,No education,... for at least one specific reason,50.4
+392,Mali,West Africa,2018,M,Primary,... for at least one specific reason,51.4
+392,Mali,West Africa,2018,M,Secondary,... for at least one specific reason,44.8
+112,Mali,West Africa,2018,M,Higher,... if she argues with him,8.2
+112,Mali,West Africa,2018,M,No education,... if she argues with him,41.6
+112,Mali,West Africa,2018,M,Primary,... if she argues with him,44.1
+112,Mali,West Africa,2018,M,Secondary,... if she argues with him,35.9
+42,Mali,West Africa,2018,M,Higher,... if she burns the food,2.6
+42,Mali,West Africa,2018,M,No education,... if she burns the food,13.0
+42,Mali,West Africa,2018,M,Primary,... if she burns the food,10.7
+42,Mali,West Africa,2018,M,Secondary,... if she burns the food,10.5
+182,Mali,West Africa,2018,M,Higher,... if she goes out without telling him,5.6
+182,Mali,West Africa,2018,M,No education,... if she goes out without telling him,23.6
+182,Mali,West Africa,2018,M,Primary,... if she goes out without telling him,24.9
+182,Mali,West Africa,2018,M,Secondary,... if she goes out without telling him,21.1
+252,Mali,West Africa,2018,M,Higher,... if she neglects the children,8.5
+252,Mali,West Africa,2018,M,No education,... if she neglects the children,26.3
+252,Mali,West Africa,2018,M,Primary,... if she neglects the children,30.7
+252,Mali,West Africa,2018,M,Secondary,... if she neglects the children,23.8
+322,Mali,West Africa,2018,M,Higher,... if she refuses to have sex with him,3.1
+322,Mali,West Africa,2018,M,No education,... if she refuses to have sex with him,27.8
+322,Mali,West Africa,2018,M,Primary,... if she refuses to have sex with him,27.8
+322,Mali,West Africa,2018,M,Secondary,... if she refuses to have sex with him,18.7
+394,Morocco,North Africa,2003,F,Higher,... for at least one specific reason,20.8
+394,Morocco,North Africa,2003,F,No education,... for at least one specific reason,78.5
+394,Morocco,North Africa,2003,F,Primary,... for at least one specific reason,65.9
+394,Morocco,North Africa,2003,F,Secondary,... for at least one specific reason,42.0
+114,Morocco,North Africa,2003,F,Higher,... if she argues with him,9.8
+114,Morocco,North Africa,2003,F,No education,... if she argues with him,66.1
+114,Morocco,North Africa,2003,F,Primary,... if she argues with him,52.0
+114,Morocco,North Africa,2003,F,Secondary,... if she argues with him,27.7
+44,Morocco,North Africa,2003,F,Higher,... if she burns the food,1.1
+44,Morocco,North Africa,2003,F,No education,... if she burns the food,36.4
+44,Morocco,North Africa,2003,F,Primary,... if she burns the food,19.5
+44,Morocco,North Africa,2003,F,Secondary,... if she burns the food,6.0
+184,Morocco,North Africa,2003,F,Higher,... if she goes out without telling him,6.5
+184,Morocco,North Africa,2003,F,No education,... if she goes out without telling him,67.5
+184,Morocco,North Africa,2003,F,Primary,... if she goes out without telling him,49.6
+184,Morocco,North Africa,2003,F,Secondary,... if she goes out without telling him,22.6
+254,Morocco,North Africa,2003,F,Higher,... if she neglects the children,10.6
+254,Morocco,North Africa,2003,F,No education,... if she neglects the children,65.3
+254,Morocco,North Africa,2003,F,Primary,... if she neglects the children,49.3
+254,Morocco,North Africa,2003,F,Secondary,... if she neglects the children,25.7
+324,Morocco,North Africa,2003,F,Higher,... if she refuses to have sex with him,9.4
+324,Morocco,North Africa,2003,F,No education,... if she refuses to have sex with him,58.9
+324,Morocco,North Africa,2003,F,Primary,... if she refuses to have sex with him,40.6
+324,Morocco,North Africa,2003,F,Secondary,... if she refuses to have sex with him,19.3
+394,Morocco,North Africa,2003,M,Higher,... for at least one specific reason,
+394,Morocco,North Africa,2003,M,No education,... for at least one specific reason,
+394,Morocco,North Africa,2003,M,Primary,... for at least one specific reason,
+394,Morocco,North Africa,2003,M,Secondary,... for at least one specific reason,
+114,Morocco,North Africa,2003,M,Higher,... if she argues with him,
+114,Morocco,North Africa,2003,M,No education,... if she argues with him,
+114,Morocco,North Africa,2003,M,Primary,... if she argues with him,
+114,Morocco,North Africa,2003,M,Secondary,... if she argues with him,
+44,Morocco,North Africa,2003,M,Higher,... if she burns the food,
+44,Morocco,North Africa,2003,M,No education,... if she burns the food,
+44,Morocco,North Africa,2003,M,Primary,... if she burns the food,
+44,Morocco,North Africa,2003,M,Secondary,... if she burns the food,
+184,Morocco,North Africa,2003,M,Higher,... if she goes out without telling him,
+184,Morocco,North Africa,2003,M,No education,... if she goes out without telling him,
+184,Morocco,North Africa,2003,M,Primary,... if she goes out without telling him,
+184,Morocco,North Africa,2003,M,Secondary,... if she goes out without telling him,
+254,Morocco,North Africa,2003,M,Higher,... if she neglects the children,
+254,Morocco,North Africa,2003,M,No education,... if she neglects the children,
+254,Morocco,North Africa,2003,M,Primary,... if she neglects the children,
+254,Morocco,North Africa,2003,M,Secondary,... if she neglects the children,
+324,Morocco,North Africa,2003,M,Higher,... if she refuses to have sex with him,
+324,Morocco,North Africa,2003,M,No education,... if she refuses to have sex with him,
+324,Morocco,North Africa,2003,M,Primary,... if she refuses to have sex with him,
+324,Morocco,North Africa,2003,M,Secondary,... if she refuses to have sex with him,
+395,Mozambique,Southern Africa,2015,F,Higher,... for at least one specific reason,8.6
+395,Mozambique,Southern Africa,2015,F,No education,... for at least one specific reason,14.2
+395,Mozambique,Southern Africa,2015,F,Primary,... for at least one specific reason,14.3
+395,Mozambique,Southern Africa,2015,F,Secondary,... for at least one specific reason,9.9
+115,Mozambique,Southern Africa,2015,F,Higher,... if she argues with him,5.5
+115,Mozambique,Southern Africa,2015,F,No education,... if she argues with him,7.9
+115,Mozambique,Southern Africa,2015,F,Primary,... if she argues with him,6.4
+115,Mozambique,Southern Africa,2015,F,Secondary,... if she argues with him,5.2
+45,Mozambique,Southern Africa,2015,F,Higher,... if she burns the food,0.4
+45,Mozambique,Southern Africa,2015,F,No education,... if she burns the food,2.5
+45,Mozambique,Southern Africa,2015,F,Primary,... if she burns the food,2.5
+45,Mozambique,Southern Africa,2015,F,Secondary,... if she burns the food,2.2
+185,Mozambique,Southern Africa,2015,F,Higher,... if she goes out without telling him,1.0
+185,Mozambique,Southern Africa,2015,F,No education,... if she goes out without telling him,8.7
+185,Mozambique,Southern Africa,2015,F,Primary,... if she goes out without telling him,8.1
+185,Mozambique,Southern Africa,2015,F,Secondary,... if she goes out without telling him,4.9
+255,Mozambique,Southern Africa,2015,F,Higher,... if she neglects the children,1.0
+255,Mozambique,Southern Africa,2015,F,No education,... if she neglects the children,3.4
+255,Mozambique,Southern Africa,2015,F,Primary,... if she neglects the children,4.8
+255,Mozambique,Southern Africa,2015,F,Secondary,... if she neglects the children,4.3
+325,Mozambique,Southern Africa,2015,F,Higher,... if she refuses to have sex with him,1.0
+325,Mozambique,Southern Africa,2015,F,No education,... if she refuses to have sex with him,5.2
+325,Mozambique,Southern Africa,2015,F,Primary,... if she refuses to have sex with him,6.4
+325,Mozambique,Southern Africa,2015,F,Secondary,... if she refuses to have sex with him,3.5
+395,Mozambique,Southern Africa,2015,M,Higher,... for at least one specific reason,3.9
+395,Mozambique,Southern Africa,2015,M,No education,... for at least one specific reason,26.2
+395,Mozambique,Southern Africa,2015,M,Primary,... for at least one specific reason,17.7
+395,Mozambique,Southern Africa,2015,M,Secondary,... for at least one specific reason,13.2
+115,Mozambique,Southern Africa,2015,M,Higher,... if she argues with him,1.7
+115,Mozambique,Southern Africa,2015,M,No education,... if she argues with him,14.2
+115,Mozambique,Southern Africa,2015,M,Primary,... if she argues with him,9.7
+115,Mozambique,Southern Africa,2015,M,Secondary,... if she argues with him,5.8
+45,Mozambique,Southern Africa,2015,M,Higher,... if she burns the food,0.0
+45,Mozambique,Southern Africa,2015,M,No education,... if she burns the food,10.6
+45,Mozambique,Southern Africa,2015,M,Primary,... if she burns the food,6.5
+45,Mozambique,Southern Africa,2015,M,Secondary,... if she burns the food,2.8
+185,Mozambique,Southern Africa,2015,M,Higher,... if she goes out without telling him,0.9
+185,Mozambique,Southern Africa,2015,M,No education,... if she goes out without telling him,10.1
+185,Mozambique,Southern Africa,2015,M,Primary,... if she goes out without telling him,8.5
+185,Mozambique,Southern Africa,2015,M,Secondary,... if she goes out without telling him,6.3
+255,Mozambique,Southern Africa,2015,M,Higher,... if she neglects the children,0.4
+255,Mozambique,Southern Africa,2015,M,No education,... if she neglects the children,10.8
+255,Mozambique,Southern Africa,2015,M,Primary,... if she neglects the children,8.4
+255,Mozambique,Southern Africa,2015,M,Secondary,... if she neglects the children,5.6
+325,Mozambique,Southern Africa,2015,M,Higher,... if she refuses to have sex with him,1.3
+325,Mozambique,Southern Africa,2015,M,No education,... if she refuses to have sex with him,10.1
+325,Mozambique,Southern Africa,2015,M,Primary,... if she refuses to have sex with him,8.1
+325,Mozambique,Southern Africa,2015,M,Secondary,... if she refuses to have sex with him,3.8
+397,Namibia,Southern Africa,2013,F,Higher,... for at least one specific reason,9.8
+397,Namibia,Southern Africa,2013,F,No education,... for at least one specific reason,43.5
+397,Namibia,Southern Africa,2013,F,Primary,... for at least one specific reason,40.2
+397,Namibia,Southern Africa,2013,F,Secondary,... for at least one specific reason,26.4
+117,Namibia,Southern Africa,2013,F,Higher,... if she argues with him,2.9
+117,Namibia,Southern Africa,2013,F,No education,... if she argues with him,23.2
+117,Namibia,Southern Africa,2013,F,Primary,... if she argues with him,19.9
+117,Namibia,Southern Africa,2013,F,Secondary,... if she argues with him,9.6
+47,Namibia,Southern Africa,2013,F,Higher,... if she burns the food,1.4
+47,Namibia,Southern Africa,2013,F,No education,... if she burns the food,20.3
+47,Namibia,Southern Africa,2013,F,Primary,... if she burns the food,16.6
+47,Namibia,Southern Africa,2013,F,Secondary,... if she burns the food,8.7
+187,Namibia,Southern Africa,2013,F,Higher,... if she goes out without telling him,2.6
+187,Namibia,Southern Africa,2013,F,No education,... if she goes out without telling him,23.3
+187,Namibia,Southern Africa,2013,F,Primary,... if she goes out without telling him,20.4
+187,Namibia,Southern Africa,2013,F,Secondary,... if she goes out without telling him,11.6
+257,Namibia,Southern Africa,2013,F,Higher,... if she neglects the children,6.1
+257,Namibia,Southern Africa,2013,F,No education,... if she neglects the children,29.6
+257,Namibia,Southern Africa,2013,F,Primary,... if she neglects the children,27.8
+257,Namibia,Southern Africa,2013,F,Secondary,... if she neglects the children,19.0
+327,Namibia,Southern Africa,2013,F,Higher,... if she refuses to have sex with him,1.8
+327,Namibia,Southern Africa,2013,F,No education,... if she refuses to have sex with him,17.4
+327,Namibia,Southern Africa,2013,F,Primary,... if she refuses to have sex with him,14.4
+327,Namibia,Southern Africa,2013,F,Secondary,... if she refuses to have sex with him,6.1
+397,Namibia,Southern Africa,2013,M,Higher,... for at least one specific reason,12.8
+397,Namibia,Southern Africa,2013,M,No education,... for at least one specific reason,21.6
+397,Namibia,Southern Africa,2013,M,Primary,... for at least one specific reason,29.5
+397,Namibia,Southern Africa,2013,M,Secondary,... for at least one specific reason,20.4
+117,Namibia,Southern Africa,2013,M,Higher,... if she argues with him,3.0
+117,Namibia,Southern Africa,2013,M,No education,... if she argues with him,11.0
+117,Namibia,Southern Africa,2013,M,Primary,... if she argues with him,11.7
+117,Namibia,Southern Africa,2013,M,Secondary,... if she argues with him,9.2
+47,Namibia,Southern Africa,2013,M,Higher,... if she burns the food,1.0
+47,Namibia,Southern Africa,2013,M,No education,... if she burns the food,7.4
+47,Namibia,Southern Africa,2013,M,Primary,... if she burns the food,7.7
+47,Namibia,Southern Africa,2013,M,Secondary,... if she burns the food,3.6
+187,Namibia,Southern Africa,2013,M,Higher,... if she goes out without telling him,5.3
+187,Namibia,Southern Africa,2013,M,No education,... if she goes out without telling him,11.9
+187,Namibia,Southern Africa,2013,M,Primary,... if she goes out without telling him,13.9
+187,Namibia,Southern Africa,2013,M,Secondary,... if she goes out without telling him,8.4
+257,Namibia,Southern Africa,2013,M,Higher,... if she neglects the children,8.1
+257,Namibia,Southern Africa,2013,M,No education,... if she neglects the children,14.9
+257,Namibia,Southern Africa,2013,M,Primary,... if she neglects the children,19.6
+257,Namibia,Southern Africa,2013,M,Secondary,... if she neglects the children,13.2
+327,Namibia,Southern Africa,2013,M,Higher,... if she refuses to have sex with him,3.0
+327,Namibia,Southern Africa,2013,M,No education,... if she refuses to have sex with him,1.1
+327,Namibia,Southern Africa,2013,M,Primary,... if she refuses to have sex with him,5.4
+327,Namibia,Southern Africa,2013,M,Secondary,... if she refuses to have sex with him,2.1
+400,Niger,West Africa,2012,F,Higher,... for at least one specific reason,17.6
+400,Niger,West Africa,2012,F,No education,... for at least one specific reason,60.1
+400,Niger,West Africa,2012,F,Primary,... for at least one specific reason,63.2
+400,Niger,West Africa,2012,F,Secondary,... for at least one specific reason,51.8
+120,Niger,West Africa,2012,F,Higher,... if she argues with him,7.4
+120,Niger,West Africa,2012,F,No education,... if she argues with him,51.4
+120,Niger,West Africa,2012,F,Primary,... if she argues with him,52.8
+120,Niger,West Africa,2012,F,Secondary,... if she argues with him,39.5
+50,Niger,West Africa,2012,F,Higher,... if she burns the food,3.8
+50,Niger,West Africa,2012,F,No education,... if she burns the food,36.0
+50,Niger,West Africa,2012,F,Primary,... if she burns the food,34.8
+50,Niger,West Africa,2012,F,Secondary,... if she burns the food,21.6
+190,Niger,West Africa,2012,F,Higher,... if she goes out without telling him,3.8
+190,Niger,West Africa,2012,F,No education,... if she goes out without telling him,44.1
+190,Niger,West Africa,2012,F,Primary,... if she goes out without telling him,43.1
+190,Niger,West Africa,2012,F,Secondary,... if she goes out without telling him,30.1
+260,Niger,West Africa,2012,F,Higher,... if she neglects the children,5.6
+260,Niger,West Africa,2012,F,No education,... if she neglects the children,43.4
+260,Niger,West Africa,2012,F,Primary,... if she neglects the children,41.0
+260,Niger,West Africa,2012,F,Secondary,... if she neglects the children,31.4
+330,Niger,West Africa,2012,F,Higher,... if she refuses to have sex with him,2.1
+330,Niger,West Africa,2012,F,No education,... if she refuses to have sex with him,51.4
+330,Niger,West Africa,2012,F,Primary,... if she refuses to have sex with him,52.5
+330,Niger,West Africa,2012,F,Secondary,... if she refuses to have sex with him,36.8
+400,Niger,West Africa,2012,M,Higher,... for at least one specific reason,8.0
+400,Niger,West Africa,2012,M,No education,... for at least one specific reason,24.8
+400,Niger,West Africa,2012,M,Primary,... for at least one specific reason,34.4
+400,Niger,West Africa,2012,M,Secondary,... for at least one specific reason,27.5
+120,Niger,West Africa,2012,M,Higher,... if she argues with him,2.2
+120,Niger,West Africa,2012,M,No education,... if she argues with him,18.1
+120,Niger,West Africa,2012,M,Primary,... if she argues with him,25.8
+120,Niger,West Africa,2012,M,Secondary,... if she argues with him,20.5
+50,Niger,West Africa,2012,M,Higher,... if she burns the food,4.7
+50,Niger,West Africa,2012,M,No education,... if she burns the food,8.2
+50,Niger,West Africa,2012,M,Primary,... if she burns the food,12.7
+50,Niger,West Africa,2012,M,Secondary,... if she burns the food,8.7
+190,Niger,West Africa,2012,M,Higher,... if she goes out without telling him,2.9
+190,Niger,West Africa,2012,M,No education,... if she goes out without telling him,14.7
+190,Niger,West Africa,2012,M,Primary,... if she goes out without telling him,20.2
+190,Niger,West Africa,2012,M,Secondary,... if she goes out without telling him,16.3
+260,Niger,West Africa,2012,M,Higher,... if she neglects the children,5.1
+260,Niger,West Africa,2012,M,No education,... if she neglects the children,13.6
+260,Niger,West Africa,2012,M,Primary,... if she neglects the children,20.2
+260,Niger,West Africa,2012,M,Secondary,... if she neglects the children,18.5
+330,Niger,West Africa,2012,M,Higher,... if she refuses to have sex with him,0.0
+330,Niger,West Africa,2012,M,No education,... if she refuses to have sex with him,13.1
+330,Niger,West Africa,2012,M,Primary,... if she refuses to have sex with him,17.9
+330,Niger,West Africa,2012,M,Secondary,... if she refuses to have sex with him,13.9
+401,Nigeria,West Africa,2013,F,Higher,... for at least one specific reason,16.9
+401,Nigeria,West Africa,2013,F,No education,... for at least one specific reason,41.6
+401,Nigeria,West Africa,2013,F,Primary,... for at least one specific reason,38.5
+401,Nigeria,West Africa,2013,F,Secondary,... for at least one specific reason,30.2
+121,Nigeria,West Africa,2013,F,Higher,... if she argues with him,8.7
+121,Nigeria,West Africa,2013,F,No education,... if she argues with him,26.3
+121,Nigeria,West Africa,2013,F,Primary,... if she argues with him,24.8
+121,Nigeria,West Africa,2013,F,Secondary,... if she argues with him,17.6
+51,Nigeria,West Africa,2013,F,Higher,... if she burns the food,4.4
+51,Nigeria,West Africa,2013,F,No education,... if she burns the food,20.2
+51,Nigeria,West Africa,2013,F,Primary,... if she burns the food,15.7
+51,Nigeria,West Africa,2013,F,Secondary,... if she burns the food,9.7
+191,Nigeria,West Africa,2013,F,Higher,... if she goes out without telling him,9.7
+191,Nigeria,West Africa,2013,F,No education,... if she goes out without telling him,32.7
+191,Nigeria,West Africa,2013,F,Primary,... if she goes out without telling him,28.1
+191,Nigeria,West Africa,2013,F,Secondary,... if she goes out without telling him,20.0
+261,Nigeria,West Africa,2013,F,Higher,... if she neglects the children,11.6
+261,Nigeria,West Africa,2013,F,No education,... if she neglects the children,28.0
+261,Nigeria,West Africa,2013,F,Primary,... if she neglects the children,28.7
+261,Nigeria,West Africa,2013,F,Secondary,... if she neglects the children,22.3
+331,Nigeria,West Africa,2013,F,Higher,... if she refuses to have sex with him,7.0
+331,Nigeria,West Africa,2013,F,No education,... if she refuses to have sex with him,27.8
+331,Nigeria,West Africa,2013,F,Primary,... if she refuses to have sex with him,19.1
+331,Nigeria,West Africa,2013,F,Secondary,... if she refuses to have sex with him,12.2
+401,Nigeria,West Africa,2013,M,Higher,... for at least one specific reason,13.8
+401,Nigeria,West Africa,2013,M,No education,... for at least one specific reason,27.9
+401,Nigeria,West Africa,2013,M,Primary,... for at least one specific reason,28.5
+401,Nigeria,West Africa,2013,M,Secondary,... for at least one specific reason,25.1
+121,Nigeria,West Africa,2013,M,Higher,... if she argues with him,5.3
+121,Nigeria,West Africa,2013,M,No education,... if she argues with him,16.3
+121,Nigeria,West Africa,2013,M,Primary,... if she argues with him,16.6
+121,Nigeria,West Africa,2013,M,Secondary,... if she argues with him,12.7
+51,Nigeria,West Africa,2013,M,Higher,... if she burns the food,3.1
+51,Nigeria,West Africa,2013,M,No education,... if she burns the food,11.6
+51,Nigeria,West Africa,2013,M,Primary,... if she burns the food,9.0
+51,Nigeria,West Africa,2013,M,Secondary,... if she burns the food,7.1
+191,Nigeria,West Africa,2013,M,Higher,... if she goes out without telling him,6.0
+191,Nigeria,West Africa,2013,M,No education,... if she goes out without telling him,15.1
+191,Nigeria,West Africa,2013,M,Primary,... if she goes out without telling him,16.4
+191,Nigeria,West Africa,2013,M,Secondary,... if she goes out without telling him,13.6
+261,Nigeria,West Africa,2013,M,Higher,... if she neglects the children,7.3
+261,Nigeria,West Africa,2013,M,No education,... if she neglects the children,13.8
+261,Nigeria,West Africa,2013,M,Primary,... if she neglects the children,15.8
+261,Nigeria,West Africa,2013,M,Secondary,... if she neglects the children,15.1
+331,Nigeria,West Africa,2013,M,Higher,... if she refuses to have sex with him,6.2
+331,Nigeria,West Africa,2013,M,No education,... if she refuses to have sex with him,18.3
+331,Nigeria,West Africa,2013,M,Primary,... if she refuses to have sex with him,12.5
+331,Nigeria,West Africa,2013,M,Secondary,... if she refuses to have sex with him,9.0
+405,Rwanda,East Africa,2014,F,Higher,... for at least one specific reason,11.3
+405,Rwanda,East Africa,2014,F,No education,... for at least one specific reason,46.1
+405,Rwanda,East Africa,2014,F,Primary,... for at least one specific reason,43.8
+405,Rwanda,East Africa,2014,F,Secondary,... for at least one specific reason,35.0
+125,Rwanda,East Africa,2014,F,Higher,... if she argues with him,3.7
+125,Rwanda,East Africa,2014,F,No education,... if she argues with him,24.9
+125,Rwanda,East Africa,2014,F,Primary,... if she argues with him,21.8
+125,Rwanda,East Africa,2014,F,Secondary,... if she argues with him,15.7
+55,Rwanda,East Africa,2014,F,Higher,... if she burns the food,0.9
+55,Rwanda,East Africa,2014,F,No education,... if she burns the food,11.0
+55,Rwanda,East Africa,2014,F,Primary,... if she burns the food,9.7
+55,Rwanda,East Africa,2014,F,Secondary,... if she burns the food,6.1
+195,Rwanda,East Africa,2014,F,Higher,... if she goes out without telling him,4.1
+195,Rwanda,East Africa,2014,F,No education,... if she goes out without telling him,25.0
+195,Rwanda,East Africa,2014,F,Primary,... if she goes out without telling him,23.7
+195,Rwanda,East Africa,2014,F,Secondary,... if she goes out without telling him,18.7
+265,Rwanda,East Africa,2014,F,Higher,... if she neglects the children,6.5
+265,Rwanda,East Africa,2014,F,No education,... if she neglects the children,31.3
+265,Rwanda,East Africa,2014,F,Primary,... if she neglects the children,30.9
+265,Rwanda,East Africa,2014,F,Secondary,... if she neglects the children,26.8
+335,Rwanda,East Africa,2014,F,Higher,... if she refuses to have sex with him,3.3
+335,Rwanda,East Africa,2014,F,No education,... if she refuses to have sex with him,31.4
+335,Rwanda,East Africa,2014,F,Primary,... if she refuses to have sex with him,26.0
+335,Rwanda,East Africa,2014,F,Secondary,... if she refuses to have sex with him,18.0
+405,Rwanda,East Africa,2014,M,Higher,... for at least one specific reason,5.2
+405,Rwanda,East Africa,2014,M,No education,... for at least one specific reason,21.1
+405,Rwanda,East Africa,2014,M,Primary,... for at least one specific reason,18.4
+405,Rwanda,East Africa,2014,M,Secondary,... for at least one specific reason,17.5
+125,Rwanda,East Africa,2014,M,Higher,... if she argues with him,0.6
+125,Rwanda,East Africa,2014,M,No education,... if she argues with him,7.5
+125,Rwanda,East Africa,2014,M,Primary,... if she argues with him,5.6
+125,Rwanda,East Africa,2014,M,Secondary,... if she argues with him,5.0
+55,Rwanda,East Africa,2014,M,Higher,... if she burns the food,0.0
+55,Rwanda,East Africa,2014,M,No education,... if she burns the food,1.2
+55,Rwanda,East Africa,2014,M,Primary,... if she burns the food,1.7
+55,Rwanda,East Africa,2014,M,Secondary,... if she burns the food,2.2
+195,Rwanda,East Africa,2014,M,Higher,... if she goes out without telling him,2.3
+195,Rwanda,East Africa,2014,M,No education,... if she goes out without telling him,8.6
+195,Rwanda,East Africa,2014,M,Primary,... if she goes out without telling him,7.1
+195,Rwanda,East Africa,2014,M,Secondary,... if she goes out without telling him,6.8
+265,Rwanda,East Africa,2014,M,Higher,... if she neglects the children,3.9
+265,Rwanda,East Africa,2014,M,No education,... if she neglects the children,14.9
+265,Rwanda,East Africa,2014,M,Primary,... if she neglects the children,12.3
+265,Rwanda,East Africa,2014,M,Secondary,... if she neglects the children,12.4
+335,Rwanda,East Africa,2014,M,Higher,... if she refuses to have sex with him,1.0
+335,Rwanda,East Africa,2014,M,No education,... if she refuses to have sex with him,8.0
+335,Rwanda,East Africa,2014,M,Primary,... if she refuses to have sex with him,7.0
+335,Rwanda,East Africa,2014,M,Secondary,... if she refuses to have sex with him,6.3
+406,Sao Tome and Principe,Central Africa,2008,F,Higher,... for at least one specific reason,
+406,Sao Tome and Principe,Central Africa,2008,F,No education,... for at least one specific reason,27.5
+406,Sao Tome and Principe,Central Africa,2008,F,Primary,... for at least one specific reason,21.7
+406,Sao Tome and Principe,Central Africa,2008,F,Secondary,... for at least one specific reason,14.7
+126,Sao Tome and Principe,Central Africa,2008,F,Higher,... if she argues with him,
+126,Sao Tome and Principe,Central Africa,2008,F,No education,... if she argues with him,7.3
+126,Sao Tome and Principe,Central Africa,2008,F,Primary,... if she argues with him,8.2
+126,Sao Tome and Principe,Central Africa,2008,F,Secondary,... if she argues with him,5.0
+56,Sao Tome and Principe,Central Africa,2008,F,Higher,... if she burns the food,
+56,Sao Tome and Principe,Central Africa,2008,F,No education,... if she burns the food,10.5
+56,Sao Tome and Principe,Central Africa,2008,F,Primary,... if she burns the food,6.5
+56,Sao Tome and Principe,Central Africa,2008,F,Secondary,... if she burns the food,5.6
+196,Sao Tome and Principe,Central Africa,2008,F,Higher,... if she goes out without telling him,
+196,Sao Tome and Principe,Central Africa,2008,F,No education,... if she goes out without telling him,18.4
+196,Sao Tome and Principe,Central Africa,2008,F,Primary,... if she goes out without telling him,11.5
+196,Sao Tome and Principe,Central Africa,2008,F,Secondary,... if she goes out without telling him,6.8
+266,Sao Tome and Principe,Central Africa,2008,F,Higher,... if she neglects the children,
+266,Sao Tome and Principe,Central Africa,2008,F,No education,... if she neglects the children,14.5
+266,Sao Tome and Principe,Central Africa,2008,F,Primary,... if she neglects the children,13.2
+266,Sao Tome and Principe,Central Africa,2008,F,Secondary,... if she neglects the children,8.9
+336,Sao Tome and Principe,Central Africa,2008,F,Higher,... if she refuses to have sex with him,
+336,Sao Tome and Principe,Central Africa,2008,F,No education,... if she refuses to have sex with him,12.0
+336,Sao Tome and Principe,Central Africa,2008,F,Primary,... if she refuses to have sex with him,6.6
+336,Sao Tome and Principe,Central Africa,2008,F,Secondary,... if she refuses to have sex with him,3.0
+406,Sao Tome and Principe,Central Africa,2008,M,Higher,... for at least one specific reason,13.4
+406,Sao Tome and Principe,Central Africa,2008,M,No education,... for at least one specific reason,21.4
+406,Sao Tome and Principe,Central Africa,2008,M,Primary,... for at least one specific reason,26.3
+406,Sao Tome and Principe,Central Africa,2008,M,Secondary,... for at least one specific reason,16.0
+126,Sao Tome and Principe,Central Africa,2008,M,Higher,... if she argues with him,7.7
+126,Sao Tome and Principe,Central Africa,2008,M,No education,... if she argues with him,4.3
+126,Sao Tome and Principe,Central Africa,2008,M,Primary,... if she argues with him,11.5
+126,Sao Tome and Principe,Central Africa,2008,M,Secondary,... if she argues with him,8.6
+56,Sao Tome and Principe,Central Africa,2008,M,Higher,... if she burns the food,10.4
+56,Sao Tome and Principe,Central Africa,2008,M,No education,... if she burns the food,8.4
+56,Sao Tome and Principe,Central Africa,2008,M,Primary,... if she burns the food,7.7
+56,Sao Tome and Principe,Central Africa,2008,M,Secondary,... if she burns the food,4.7
+196,Sao Tome and Principe,Central Africa,2008,M,Higher,... if she goes out without telling him,11.0
+196,Sao Tome and Principe,Central Africa,2008,M,No education,... if she goes out without telling him,13.5
+196,Sao Tome and Principe,Central Africa,2008,M,Primary,... if she goes out without telling him,15.3
+196,Sao Tome and Principe,Central Africa,2008,M,Secondary,... if she goes out without telling him,6.9
+266,Sao Tome and Principe,Central Africa,2008,M,Higher,... if she neglects the children,3.8
+266,Sao Tome and Principe,Central Africa,2008,M,No education,... if she neglects the children,18.4
+266,Sao Tome and Principe,Central Africa,2008,M,Primary,... if she neglects the children,17.5
+266,Sao Tome and Principe,Central Africa,2008,M,Secondary,... if she neglects the children,9.7
+336,Sao Tome and Principe,Central Africa,2008,M,Higher,... if she refuses to have sex with him,7.7
+336,Sao Tome and Principe,Central Africa,2008,M,No education,... if she refuses to have sex with him,7.7
+336,Sao Tome and Principe,Central Africa,2008,M,Primary,... if she refuses to have sex with him,6.2
+336,Sao Tome and Principe,Central Africa,2008,M,Secondary,... if she refuses to have sex with him,4.3
+407,Senegal,West Africa,2017,F,Higher,... for at least one specific reason,9.7
+407,Senegal,West Africa,2017,F,No education,... for at least one specific reason,59.0
+407,Senegal,West Africa,2017,F,Primary,... for at least one specific reason,39.5
+407,Senegal,West Africa,2017,F,Secondary,... for at least one specific reason,34.0
+127,Senegal,West Africa,2017,F,Higher,... if she argues with him,2.9
+127,Senegal,West Africa,2017,F,No education,... if she argues with him,48.6
+127,Senegal,West Africa,2017,F,Primary,... if she argues with him,29.6
+127,Senegal,West Africa,2017,F,Secondary,... if she argues with him,22.9
+57,Senegal,West Africa,2017,F,Higher,... if she burns the food,1.4
+57,Senegal,West Africa,2017,F,No education,... if she burns the food,30.9
+57,Senegal,West Africa,2017,F,Primary,... if she burns the food,19.1
+57,Senegal,West Africa,2017,F,Secondary,... if she burns the food,12.7
+197,Senegal,West Africa,2017,F,Higher,... if she goes out without telling him,2.4
+197,Senegal,West Africa,2017,F,No education,... if she goes out without telling him,46.9
+197,Senegal,West Africa,2017,F,Primary,... if she goes out without telling him,27.7
+197,Senegal,West Africa,2017,F,Secondary,... if she goes out without telling him,19.3
+267,Senegal,West Africa,2017,F,Higher,... if she neglects the children,8.4
+267,Senegal,West Africa,2017,F,No education,... if she neglects the children,46.8
+267,Senegal,West Africa,2017,F,Primary,... if she neglects the children,29.8
+267,Senegal,West Africa,2017,F,Secondary,... if she neglects the children,24.7
+337,Senegal,West Africa,2017,F,Higher,... if she refuses to have sex with him,2.9
+337,Senegal,West Africa,2017,F,No education,... if she refuses to have sex with him,50.7
+337,Senegal,West Africa,2017,F,Primary,... if she refuses to have sex with him,28.3
+337,Senegal,West Africa,2017,F,Secondary,... if she refuses to have sex with him,19.4
+407,Senegal,West Africa,2017,M,Higher,... for at least one specific reason,7.8
+407,Senegal,West Africa,2017,M,No education,... for at least one specific reason,33.2
+407,Senegal,West Africa,2017,M,Primary,... for at least one specific reason,27.6
+407,Senegal,West Africa,2017,M,Secondary,... for at least one specific reason,26.7
+127,Senegal,West Africa,2017,M,Higher,... if she argues with him,3.3
+127,Senegal,West Africa,2017,M,No education,... if she argues with him,22.9
+127,Senegal,West Africa,2017,M,Primary,... if she argues with him,18.9
+127,Senegal,West Africa,2017,M,Secondary,... if she argues with him,17.7
+57,Senegal,West Africa,2017,M,Higher,... if she burns the food,1.1
+57,Senegal,West Africa,2017,M,No education,... if she burns the food,7.5
+57,Senegal,West Africa,2017,M,Primary,... if she burns the food,6.5
+57,Senegal,West Africa,2017,M,Secondary,... if she burns the food,6.3
+197,Senegal,West Africa,2017,M,Higher,... if she goes out without telling him,3.3
+197,Senegal,West Africa,2017,M,No education,... if she goes out without telling him,18.3
+197,Senegal,West Africa,2017,M,Primary,... if she goes out without telling him,13.9
+197,Senegal,West Africa,2017,M,Secondary,... if she goes out without telling him,12.1
+267,Senegal,West Africa,2017,M,Higher,... if she neglects the children,3.1
+267,Senegal,West Africa,2017,M,No education,... if she neglects the children,20.9
+267,Senegal,West Africa,2017,M,Primary,... if she neglects the children,15.8
+267,Senegal,West Africa,2017,M,Secondary,... if she neglects the children,16.8
+337,Senegal,West Africa,2017,M,Higher,... if she refuses to have sex with him,0.8
+337,Senegal,West Africa,2017,M,No education,... if she refuses to have sex with him,15.7
+337,Senegal,West Africa,2017,M,Primary,... if she refuses to have sex with him,11.7
+337,Senegal,West Africa,2017,M,Secondary,... if she refuses to have sex with him,8.8
+408,Sierra Leone,West Africa,2013,F,Higher,... for at least one specific reason,32.3
+408,Sierra Leone,West Africa,2013,F,No education,... for at least one specific reason,69.3
+408,Sierra Leone,West Africa,2013,F,Primary,... for at least one specific reason,59.4
+408,Sierra Leone,West Africa,2013,F,Secondary,... for at least one specific reason,54.6
+128,Sierra Leone,West Africa,2013,F,Higher,... if she argues with him,17.0
+128,Sierra Leone,West Africa,2013,F,No education,... if she argues with him,55.0
+128,Sierra Leone,West Africa,2013,F,Primary,... if she argues with him,43.0
+128,Sierra Leone,West Africa,2013,F,Secondary,... if she argues with him,37.9
+58,Sierra Leone,West Africa,2013,F,Higher,... if she burns the food,4.0
+58,Sierra Leone,West Africa,2013,F,No education,... if she burns the food,22.0
+58,Sierra Leone,West Africa,2013,F,Primary,... if she burns the food,17.6
+58,Sierra Leone,West Africa,2013,F,Secondary,... if she burns the food,12.7
+198,Sierra Leone,West Africa,2013,F,Higher,... if she goes out without telling him,25.3
+198,Sierra Leone,West Africa,2013,F,No education,... if she goes out without telling him,59.4
+198,Sierra Leone,West Africa,2013,F,Primary,... if she goes out without telling him,50.3
+198,Sierra Leone,West Africa,2013,F,Secondary,... if she goes out without telling him,44.1
+268,Sierra Leone,West Africa,2013,F,Higher,... if she neglects the children,24.2
+268,Sierra Leone,West Africa,2013,F,No education,... if she neglects the children,59.3
+268,Sierra Leone,West Africa,2013,F,Primary,... if she neglects the children,50.9
+268,Sierra Leone,West Africa,2013,F,Secondary,... if she neglects the children,44.2
+338,Sierra Leone,West Africa,2013,F,Higher,... if she refuses to have sex with him,6.0
+338,Sierra Leone,West Africa,2013,F,No education,... if she refuses to have sex with him,32.0
+338,Sierra Leone,West Africa,2013,F,Primary,... if she refuses to have sex with him,24.2
+338,Sierra Leone,West Africa,2013,F,Secondary,... if she refuses to have sex with him,16.1
+408,Sierra Leone,West Africa,2013,M,Higher,... for at least one specific reason,20.0
+408,Sierra Leone,West Africa,2013,M,No education,... for at least one specific reason,39.0
+408,Sierra Leone,West Africa,2013,M,Primary,... for at least one specific reason,34.1
+408,Sierra Leone,West Africa,2013,M,Secondary,... for at least one specific reason,31.6
+128,Sierra Leone,West Africa,2013,M,Higher,... if she argues with him,12.2
+128,Sierra Leone,West Africa,2013,M,No education,... if she argues with him,27.9
+128,Sierra Leone,West Africa,2013,M,Primary,... if she argues with him,24.8
+128,Sierra Leone,West Africa,2013,M,Secondary,... if she argues with him,22.4
+58,Sierra Leone,West Africa,2013,M,Higher,... if she burns the food,4.8
+58,Sierra Leone,West Africa,2013,M,No education,... if she burns the food,5.0
+58,Sierra Leone,West Africa,2013,M,Primary,... if she burns the food,5.2
+58,Sierra Leone,West Africa,2013,M,Secondary,... if she burns the food,4.6
+198,Sierra Leone,West Africa,2013,M,Higher,... if she goes out without telling him,9.2
+198,Sierra Leone,West Africa,2013,M,No education,... if she goes out without telling him,23.7
+198,Sierra Leone,West Africa,2013,M,Primary,... if she goes out without telling him,20.8
+198,Sierra Leone,West Africa,2013,M,Secondary,... if she goes out without telling him,17.2
+268,Sierra Leone,West Africa,2013,M,Higher,... if she neglects the children,10.9
+268,Sierra Leone,West Africa,2013,M,No education,... if she neglects the children,26.9
+268,Sierra Leone,West Africa,2013,M,Primary,... if she neglects the children,20.2
+268,Sierra Leone,West Africa,2013,M,Secondary,... if she neglects the children,20.1
+338,Sierra Leone,West Africa,2013,M,Higher,... if she refuses to have sex with him,4.7
+338,Sierra Leone,West Africa,2013,M,No education,... if she refuses to have sex with him,11.8
+338,Sierra Leone,West Africa,2013,M,Primary,... if she refuses to have sex with him,10.0
+338,Sierra Leone,West Africa,2013,M,Secondary,... if she refuses to have sex with him,8.0
+409,South Africa,Southern Africa,2016,F,Higher,... for at least one specific reason,1.1
+409,South Africa,Southern Africa,2016,F,No education,... for at least one specific reason,6.8
+409,South Africa,Southern Africa,2016,F,Primary,... for at least one specific reason,9.9
+409,South Africa,Southern Africa,2016,F,Secondary,... for at least one specific reason,5.6
+129,South Africa,Southern Africa,2016,F,Higher,... if she argues with him,0.5
+129,South Africa,Southern Africa,2016,F,No education,... if she argues with him,2.9
+129,South Africa,Southern Africa,2016,F,Primary,... if she argues with him,4.2
+129,South Africa,Southern Africa,2016,F,Secondary,... if she argues with him,2.2
+59,South Africa,Southern Africa,2016,F,Higher,... if she burns the food,0.2
+59,South Africa,Southern Africa,2016,F,No education,... if she burns the food,1.6
+59,South Africa,Southern Africa,2016,F,Primary,... if she burns the food,2.4
+59,South Africa,Southern Africa,2016,F,Secondary,... if she burns the food,0.9
+199,South Africa,Southern Africa,2016,F,Higher,... if she goes out without telling him,0.3
+199,South Africa,Southern Africa,2016,F,No education,... if she goes out without telling him,2.2
+199,South Africa,Southern Africa,2016,F,Primary,... if she goes out without telling him,4.8
+199,South Africa,Southern Africa,2016,F,Secondary,... if she goes out without telling him,2.1
+269,South Africa,Southern Africa,2016,F,Higher,... if she neglects the children,0.6
+269,South Africa,Southern Africa,2016,F,No education,... if she neglects the children,2.8
+269,South Africa,Southern Africa,2016,F,Primary,... if she neglects the children,6.9
+269,South Africa,Southern Africa,2016,F,Secondary,... if she neglects the children,4.0
+339,South Africa,Southern Africa,2016,F,Higher,... if she refuses to have sex with him,0.1
+339,South Africa,Southern Africa,2016,F,No education,... if she refuses to have sex with him,2.2
+339,South Africa,Southern Africa,2016,F,Primary,... if she refuses to have sex with him,1.9
+339,South Africa,Southern Africa,2016,F,Secondary,... if she refuses to have sex with him,1.0
+409,South Africa,Southern Africa,2016,M,Higher,... for at least one specific reason,5.8
+409,South Africa,Southern Africa,2016,M,No education,... for at least one specific reason,10.6
+409,South Africa,Southern Africa,2016,M,Primary,... for at least one specific reason,11.0
+409,South Africa,Southern Africa,2016,M,Secondary,... for at least one specific reason,9.4
+129,South Africa,Southern Africa,2016,M,Higher,... if she argues with him,0.7
+129,South Africa,Southern Africa,2016,M,No education,... if she argues with him,6.3
+129,South Africa,Southern Africa,2016,M,Primary,... if she argues with him,6.3
+129,South Africa,Southern Africa,2016,M,Secondary,... if she argues with him,3.7
+59,South Africa,Southern Africa,2016,M,Higher,... if she burns the food,1.2
+59,South Africa,Southern Africa,2016,M,No education,... if she burns the food,3.8
+59,South Africa,Southern Africa,2016,M,Primary,... if she burns the food,3.2
+59,South Africa,Southern Africa,2016,M,Secondary,... if she burns the food,1.5
+199,South Africa,Southern Africa,2016,M,Higher,... if she goes out without telling him,1.7
+199,South Africa,Southern Africa,2016,M,No education,... if she goes out without telling him,4.5
+199,South Africa,Southern Africa,2016,M,Primary,... if she goes out without telling him,5.6
+199,South Africa,Southern Africa,2016,M,Secondary,... if she goes out without telling him,3.7
+269,South Africa,Southern Africa,2016,M,Higher,... if she neglects the children,3.2
+269,South Africa,Southern Africa,2016,M,No education,... if she neglects the children,8.2
+269,South Africa,Southern Africa,2016,M,Primary,... if she neglects the children,7.5
+269,South Africa,Southern Africa,2016,M,Secondary,... if she neglects the children,6.2
+339,South Africa,Southern Africa,2016,M,Higher,... if she refuses to have sex with him,0.7
+339,South Africa,Southern Africa,2016,M,No education,... if she refuses to have sex with him,1.1
+339,South Africa,Southern Africa,2016,M,Primary,... if she refuses to have sex with him,2.5
+339,South Africa,Southern Africa,2016,M,Secondary,... if she refuses to have sex with him,1.6
+411,Tanzania,East Africa,2015,F,Higher,... for at least one specific reason,10.4
+411,Tanzania,East Africa,2015,F,No education,... for at least one specific reason,65.0
+411,Tanzania,East Africa,2015,F,Primary,... for at least one specific reason,62.2
+411,Tanzania,East Africa,2015,F,Secondary,... for at least one specific reason,44.7
+131,Tanzania,East Africa,2015,F,Higher,... if she argues with him,1.9
+131,Tanzania,East Africa,2015,F,No education,... if she argues with him,51.1
+131,Tanzania,East Africa,2015,F,Primary,... if she argues with him,45.6
+131,Tanzania,East Africa,2015,F,Secondary,... if she argues with him,28.2
+61,Tanzania,East Africa,2015,F,Higher,... if she burns the food,0.3
+61,Tanzania,East Africa,2015,F,No education,... if she burns the food,29.3
+61,Tanzania,East Africa,2015,F,Primary,... if she burns the food,22.7
+61,Tanzania,East Africa,2015,F,Secondary,... if she burns the food,8.2
+201,Tanzania,East Africa,2015,F,Higher,... if she goes out without telling him,2.4
+201,Tanzania,East Africa,2015,F,No education,... if she goes out without telling him,51.3
+201,Tanzania,East Africa,2015,F,Primary,... if she goes out without telling him,44.5
+201,Tanzania,East Africa,2015,F,Secondary,... if she goes out without telling him,26.3
+271,Tanzania,East Africa,2015,F,Higher,... if she neglects the children,9.9
+271,Tanzania,East Africa,2015,F,No education,... if she neglects the children,55.4
+271,Tanzania,East Africa,2015,F,Primary,... if she neglects the children,51.2
+271,Tanzania,East Africa,2015,F,Secondary,... if she neglects the children,35.9
+341,Tanzania,East Africa,2015,F,Higher,... if she refuses to have sex with him,1.2
+341,Tanzania,East Africa,2015,F,No education,... if she refuses to have sex with him,41.9
+341,Tanzania,East Africa,2015,F,Primary,... if she refuses to have sex with him,34.1
+341,Tanzania,East Africa,2015,F,Secondary,... if she refuses to have sex with him,14.5
+411,Tanzania,East Africa,2015,M,Higher,... for at least one specific reason,12.5
+411,Tanzania,East Africa,2015,M,No education,... for at least one specific reason,38.9
+411,Tanzania,East Africa,2015,M,Primary,... for at least one specific reason,42.6
+411,Tanzania,East Africa,2015,M,Secondary,... for at least one specific reason,35.3
+131,Tanzania,East Africa,2015,M,Higher,... if she argues with him,2.4
+131,Tanzania,East Africa,2015,M,No education,... if she argues with him,24.3
+131,Tanzania,East Africa,2015,M,Primary,... if she argues with him,27.4
+131,Tanzania,East Africa,2015,M,Secondary,... if she argues with him,19.7
+61,Tanzania,East Africa,2015,M,Higher,... if she burns the food,0.0
+61,Tanzania,East Africa,2015,M,No education,... if she burns the food,8.8
+61,Tanzania,East Africa,2015,M,Primary,... if she burns the food,6.8
+61,Tanzania,East Africa,2015,M,Secondary,... if she burns the food,5.3
+201,Tanzania,East Africa,2015,M,Higher,... if she goes out without telling him,3.2
+201,Tanzania,East Africa,2015,M,No education,... if she goes out without telling him,20.6
+201,Tanzania,East Africa,2015,M,Primary,... if she goes out without telling him,26.3
+201,Tanzania,East Africa,2015,M,Secondary,... if she goes out without telling him,16.6
+271,Tanzania,East Africa,2015,M,Higher,... if she neglects the children,8.4
+271,Tanzania,East Africa,2015,M,No education,... if she neglects the children,30.9
+271,Tanzania,East Africa,2015,M,Primary,... if she neglects the children,33.0
+271,Tanzania,East Africa,2015,M,Secondary,... if she neglects the children,27.4
+341,Tanzania,East Africa,2015,M,Higher,... if she refuses to have sex with him,2.0
+341,Tanzania,East Africa,2015,M,No education,... if she refuses to have sex with him,13.7
+341,Tanzania,East Africa,2015,M,Primary,... if she refuses to have sex with him,16.4
+341,Tanzania,East Africa,2015,M,Secondary,... if she refuses to have sex with him,8.5
+413,Togo,West Africa,2013,F,Higher,... for at least one specific reason,8.8
+413,Togo,West Africa,2013,F,No education,... for at least one specific reason,38.4
+413,Togo,West Africa,2013,F,Primary,... for at least one specific reason,27.5
+413,Togo,West Africa,2013,F,Secondary,... for at least one specific reason,22.4
+133,Togo,West Africa,2013,F,Higher,... if she argues with him,4.8
+133,Togo,West Africa,2013,F,No education,... if she argues with him,26.4
+133,Togo,West Africa,2013,F,Primary,... if she argues with him,18.8
+133,Togo,West Africa,2013,F,Secondary,... if she argues with him,14.9
+63,Togo,West Africa,2013,F,Higher,... if she burns the food,3.4
+63,Togo,West Africa,2013,F,No education,... if she burns the food,17.7
+63,Togo,West Africa,2013,F,Primary,... if she burns the food,9.7
+63,Togo,West Africa,2013,F,Secondary,... if she burns the food,7.2
+203,Togo,West Africa,2013,F,Higher,... if she goes out without telling him,4.3
+203,Togo,West Africa,2013,F,No education,... if she goes out without telling him,24.8
+203,Togo,West Africa,2013,F,Primary,... if she goes out without telling him,17.0
+203,Togo,West Africa,2013,F,Secondary,... if she goes out without telling him,13.1
+273,Togo,West Africa,2013,F,Higher,... if she neglects the children,4.5
+273,Togo,West Africa,2013,F,No education,... if she neglects the children,27.2
+273,Togo,West Africa,2013,F,Primary,... if she neglects the children,17.5
+273,Togo,West Africa,2013,F,Secondary,... if she neglects the children,13.6
+343,Togo,West Africa,2013,F,Higher,... if she refuses to have sex with him,0.8
+343,Togo,West Africa,2013,F,No education,... if she refuses to have sex with him,16.5
+343,Togo,West Africa,2013,F,Primary,... if she refuses to have sex with him,8.1
+343,Togo,West Africa,2013,F,Secondary,... if she refuses to have sex with him,5.1
+413,Togo,West Africa,2013,M,Higher,... for at least one specific reason,6.3
+413,Togo,West Africa,2013,M,No education,... for at least one specific reason,28.5
+413,Togo,West Africa,2013,M,Primary,... for at least one specific reason,22.6
+413,Togo,West Africa,2013,M,Secondary,... for at least one specific reason,15.6
+133,Togo,West Africa,2013,M,Higher,... if she argues with him,3.9
+133,Togo,West Africa,2013,M,No education,... if she argues with him,14.0
+133,Togo,West Africa,2013,M,Primary,... if she argues with him,11.8
+133,Togo,West Africa,2013,M,Secondary,... if she argues with him,9.4
+63,Togo,West Africa,2013,M,Higher,... if she burns the food,0.9
+63,Togo,West Africa,2013,M,No education,... if she burns the food,10.8
+63,Togo,West Africa,2013,M,Primary,... if she burns the food,6.7
+63,Togo,West Africa,2013,M,Secondary,... if she burns the food,5.2
+203,Togo,West Africa,2013,M,Higher,... if she goes out without telling him,1.6
+203,Togo,West Africa,2013,M,No education,... if she goes out without telling him,13.9
+203,Togo,West Africa,2013,M,Primary,... if she goes out without telling him,13.6
+203,Togo,West Africa,2013,M,Secondary,... if she goes out without telling him,8.0
+273,Togo,West Africa,2013,M,Higher,... if she neglects the children,4.2
+273,Togo,West Africa,2013,M,No education,... if she neglects the children,21.8
+273,Togo,West Africa,2013,M,Primary,... if she neglects the children,14.4
+273,Togo,West Africa,2013,M,Secondary,... if she neglects the children,9.5
+343,Togo,West Africa,2013,M,Higher,... if she refuses to have sex with him,1.0
+343,Togo,West Africa,2013,M,No education,... if she refuses to have sex with him,9.8
+343,Togo,West Africa,2013,M,Primary,... if she refuses to have sex with him,6.4
+343,Togo,West Africa,2013,M,Secondary,... if she refuses to have sex with him,4.1
+416,Uganda,East Africa,2016,F,Higher,... for at least one specific reason,21.7
+416,Uganda,East Africa,2016,F,No education,... for at least one specific reason,55.2
+416,Uganda,East Africa,2016,F,Primary,... for at least one specific reason,54.4
+416,Uganda,East Africa,2016,F,Secondary,... for at least one specific reason,42.9
+136,Uganda,East Africa,2016,F,Higher,... if she argues with him,7.8
+136,Uganda,East Africa,2016,F,No education,... if she argues with him,33.6
+136,Uganda,East Africa,2016,F,Primary,... if she argues with him,30.2
+136,Uganda,East Africa,2016,F,Secondary,... if she argues with him,19.7
+66,Uganda,East Africa,2016,F,Higher,... if she burns the food,3.1
+66,Uganda,East Africa,2016,F,No education,... if she burns the food,18.3
+66,Uganda,East Africa,2016,F,Primary,... if she burns the food,16.4
+66,Uganda,East Africa,2016,F,Secondary,... if she burns the food,8.9
+206,Uganda,East Africa,2016,F,Higher,... if she goes out without telling him,9.5
+206,Uganda,East Africa,2016,F,No education,... if she goes out without telling him,34.8
+206,Uganda,East Africa,2016,F,Primary,... if she goes out without telling him,34.3
+206,Uganda,East Africa,2016,F,Secondary,... if she goes out without telling him,24.8
+276,Uganda,East Africa,2016,F,Higher,... if she neglects the children,17.7
+276,Uganda,East Africa,2016,F,No education,... if she neglects the children,43.6
+276,Uganda,East Africa,2016,F,Primary,... if she neglects the children,42.8
+276,Uganda,East Africa,2016,F,Secondary,... if she neglects the children,33.2
+346,Uganda,East Africa,2016,F,Higher,... if she refuses to have sex with him,4.0
+346,Uganda,East Africa,2016,F,No education,... if she refuses to have sex with him,24.6
+346,Uganda,East Africa,2016,F,Primary,... if she refuses to have sex with him,22.1
+346,Uganda,East Africa,2016,F,Secondary,... if she refuses to have sex with him,10.7
+416,Uganda,East Africa,2016,M,Higher,... for at least one specific reason,20.2
+416,Uganda,East Africa,2016,M,No education,... for at least one specific reason,36.5
+416,Uganda,East Africa,2016,M,Primary,... for at least one specific reason,47.5
+416,Uganda,East Africa,2016,M,Secondary,... for at least one specific reason,36.4
+136,Uganda,East Africa,2016,M,Higher,... if she argues with him,9.8
+136,Uganda,East Africa,2016,M,No education,... if she argues with him,15.1
+136,Uganda,East Africa,2016,M,Primary,... if she argues with him,28.7
+136,Uganda,East Africa,2016,M,Secondary,... if she argues with him,19.9
+66,Uganda,East Africa,2016,M,Higher,... if she burns the food,1.5
+66,Uganda,East Africa,2016,M,No education,... if she burns the food,5.6
+66,Uganda,East Africa,2016,M,Primary,... if she burns the food,10.1
+66,Uganda,East Africa,2016,M,Secondary,... if she burns the food,4.7
+206,Uganda,East Africa,2016,M,Higher,... if she goes out without telling him,10.3
+206,Uganda,East Africa,2016,M,No education,... if she goes out without telling him,23.8
+206,Uganda,East Africa,2016,M,Primary,... if she goes out without telling him,27.4
+206,Uganda,East Africa,2016,M,Secondary,... if she goes out without telling him,17.0
+276,Uganda,East Africa,2016,M,Higher,... if she neglects the children,13.5
+276,Uganda,East Africa,2016,M,No education,... if she neglects the children,28.3
+276,Uganda,East Africa,2016,M,Primary,... if she neglects the children,33.4
+276,Uganda,East Africa,2016,M,Secondary,... if she neglects the children,24.9
+346,Uganda,East Africa,2016,M,Higher,... if she refuses to have sex with him,1.9
+346,Uganda,East Africa,2016,M,No education,... if she refuses to have sex with him,11.5
+346,Uganda,East Africa,2016,M,Primary,... if she refuses to have sex with him,16.1
+346,Uganda,East Africa,2016,M,Secondary,... if she refuses to have sex with him,7.2
+419,Zambia,Southern Africa,2013,F,Higher,... for at least one specific reason,15.0
+419,Zambia,Southern Africa,2013,F,No education,... for at least one specific reason,54.1
+419,Zambia,Southern Africa,2013,F,Primary,... for at least one specific reason,54.6
+419,Zambia,Southern Africa,2013,F,Secondary,... for at least one specific reason,40.3
+139,Zambia,Southern Africa,2013,F,Higher,... if she argues with him,6.2
+139,Zambia,Southern Africa,2013,F,No education,... if she argues with him,40.2
+139,Zambia,Southern Africa,2013,F,Primary,... if she argues with him,40.5
+139,Zambia,Southern Africa,2013,F,Secondary,... if she argues with him,27.3
+69,Zambia,Southern Africa,2013,F,Higher,... if she burns the food,2.5
+69,Zambia,Southern Africa,2013,F,No education,... if she burns the food,32.3
+69,Zambia,Southern Africa,2013,F,Primary,... if she burns the food,29.5
+69,Zambia,Southern Africa,2013,F,Secondary,... if she burns the food,17.3
+209,Zambia,Southern Africa,2013,F,Higher,... if she goes out without telling him,7.0
+209,Zambia,Southern Africa,2013,F,No education,... if she goes out without telling him,33.8
+209,Zambia,Southern Africa,2013,F,Primary,... if she goes out without telling him,35.9
+209,Zambia,Southern Africa,2013,F,Secondary,... if she goes out without telling him,24.5
+279,Zambia,Southern Africa,2013,F,Higher,... if she neglects the children,10.5
+279,Zambia,Southern Africa,2013,F,No education,... if she neglects the children,37.2
+279,Zambia,Southern Africa,2013,F,Primary,... if she neglects the children,38.8
+279,Zambia,Southern Africa,2013,F,Secondary,... if she neglects the children,28.4
+349,Zambia,Southern Africa,2013,F,Higher,... if she refuses to have sex with him,3.5
+349,Zambia,Southern Africa,2013,F,No education,... if she refuses to have sex with him,39.2
+349,Zambia,Southern Africa,2013,F,Primary,... if she refuses to have sex with him,36.7
+349,Zambia,Southern Africa,2013,F,Secondary,... if she refuses to have sex with him,20.8
+419,Zambia,Southern Africa,2013,M,Higher,... for at least one specific reason,9.1
+419,Zambia,Southern Africa,2013,M,No education,... for at least one specific reason,29.9
+419,Zambia,Southern Africa,2013,M,Primary,... for at least one specific reason,38.8
+419,Zambia,Southern Africa,2013,M,Secondary,... for at least one specific reason,29.7
+139,Zambia,Southern Africa,2013,M,Higher,... if she argues with him,3.9
+139,Zambia,Southern Africa,2013,M,No education,... if she argues with him,20.0
+139,Zambia,Southern Africa,2013,M,Primary,... if she argues with him,25.2
+139,Zambia,Southern Africa,2013,M,Secondary,... if she argues with him,18.3
+69,Zambia,Southern Africa,2013,M,Higher,... if she burns the food,0.7
+69,Zambia,Southern Africa,2013,M,No education,... if she burns the food,7.1
+69,Zambia,Southern Africa,2013,M,Primary,... if she burns the food,10.4
+69,Zambia,Southern Africa,2013,M,Secondary,... if she burns the food,6.0
+209,Zambia,Southern Africa,2013,M,Higher,... if she goes out without telling him,2.9
+209,Zambia,Southern Africa,2013,M,No education,... if she goes out without telling him,14.0
+209,Zambia,Southern Africa,2013,M,Primary,... if she goes out without telling him,20.9
+209,Zambia,Southern Africa,2013,M,Secondary,... if she goes out without telling him,14.4
+279,Zambia,Southern Africa,2013,M,Higher,... if she neglects the children,5.7
+279,Zambia,Southern Africa,2013,M,No education,... if she neglects the children,19.3
+279,Zambia,Southern Africa,2013,M,Primary,... if she neglects the children,24.1
+279,Zambia,Southern Africa,2013,M,Secondary,... if she neglects the children,18.5
+349,Zambia,Southern Africa,2013,M,Higher,... if she refuses to have sex with him,1.7
+349,Zambia,Southern Africa,2013,M,No education,... if she refuses to have sex with him,10.9
+349,Zambia,Southern Africa,2013,M,Primary,... if she refuses to have sex with him,15.2
+349,Zambia,Southern Africa,2013,M,Secondary,... if she refuses to have sex with him,8.3
+420,Zimbabwe,Southern Africa,2015,F,Higher,... for at least one specific reason,10.0
+420,Zimbabwe,Southern Africa,2015,F,No education,... for at least one specific reason,55.2
+420,Zimbabwe,Southern Africa,2015,F,Primary,... for at least one specific reason,48.9
+420,Zimbabwe,Southern Africa,2015,F,Secondary,... for at least one specific reason,37.6
+140,Zimbabwe,Southern Africa,2015,F,Higher,... if she argues with him,2.4
+140,Zimbabwe,Southern Africa,2015,F,No education,... if she argues with him,26.4
+140,Zimbabwe,Southern Africa,2015,F,Primary,... if she argues with him,25.5
+140,Zimbabwe,Southern Africa,2015,F,Secondary,... if she argues with him,14.7
+70,Zimbabwe,Southern Africa,2015,F,Higher,... if she burns the food,1.1
+70,Zimbabwe,Southern Africa,2015,F,No education,... if she burns the food,17.0
+70,Zimbabwe,Southern Africa,2015,F,Primary,... if she burns the food,12.1
+70,Zimbabwe,Southern Africa,2015,F,Secondary,... if she burns the food,7.1
+210,Zimbabwe,Southern Africa,2015,F,Higher,... if she goes out without telling him,2.9
+210,Zimbabwe,Southern Africa,2015,F,No education,... if she goes out without telling him,35.0
+210,Zimbabwe,Southern Africa,2015,F,Primary,... if she goes out without telling him,31.2
+210,Zimbabwe,Southern Africa,2015,F,Secondary,... if she goes out without telling him,21.6
+280,Zimbabwe,Southern Africa,2015,F,Higher,... if she neglects the children,4.6
+280,Zimbabwe,Southern Africa,2015,F,No education,... if she neglects the children,33.3
+280,Zimbabwe,Southern Africa,2015,F,Primary,... if she neglects the children,26.3
+280,Zimbabwe,Southern Africa,2015,F,Secondary,... if she neglects the children,21.1
+350,Zimbabwe,Southern Africa,2015,F,Higher,... if she refuses to have sex with him,3.9
+350,Zimbabwe,Southern Africa,2015,F,No education,... if she refuses to have sex with him,28.5
+350,Zimbabwe,Southern Africa,2015,F,Primary,... if she refuses to have sex with him,22.1
+350,Zimbabwe,Southern Africa,2015,F,Secondary,... if she refuses to have sex with him,12.4
+420,Zimbabwe,Southern Africa,2015,M,Higher,... for at least one specific reason,13.7
+420,Zimbabwe,Southern Africa,2015,M,No education,... for at least one specific reason,45.4
+420,Zimbabwe,Southern Africa,2015,M,Primary,... for at least one specific reason,40.1
+420,Zimbabwe,Southern Africa,2015,M,Secondary,... for at least one specific reason,33.3
+140,Zimbabwe,Southern Africa,2015,M,Higher,... if she argues with him,4.3
+140,Zimbabwe,Southern Africa,2015,M,No education,... if she argues with him,22.0
+140,Zimbabwe,Southern Africa,2015,M,Primary,... if she argues with him,19.8
+140,Zimbabwe,Southern Africa,2015,M,Secondary,... if she argues with him,13.5
+70,Zimbabwe,Southern Africa,2015,M,Higher,... if she burns the food,1.3
+70,Zimbabwe,Southern Africa,2015,M,No education,... if she burns the food,9.4
+70,Zimbabwe,Southern Africa,2015,M,Primary,... if she burns the food,8.9
+70,Zimbabwe,Southern Africa,2015,M,Secondary,... if she burns the food,5.6
+210,Zimbabwe,Southern Africa,2015,M,Higher,... if she goes out without telling him,4.7
+210,Zimbabwe,Southern Africa,2015,M,No education,... if she goes out without telling him,37.8
+210,Zimbabwe,Southern Africa,2015,M,Primary,... if she goes out without telling him,23.2
+210,Zimbabwe,Southern Africa,2015,M,Secondary,... if she goes out without telling him,17.8
+280,Zimbabwe,Southern Africa,2015,M,Higher,... if she neglects the children,8.2
+280,Zimbabwe,Southern Africa,2015,M,No education,... if she neglects the children,30.5
+280,Zimbabwe,Southern Africa,2015,M,Primary,... if she neglects the children,23.6
+280,Zimbabwe,Southern Africa,2015,M,Secondary,... if she neglects the children,18.0
+350,Zimbabwe,Southern Africa,2015,M,Higher,... if she refuses to have sex with him,2.9
+350,Zimbabwe,Southern Africa,2015,M,No education,... if she refuses to have sex with him,16.2
+350,Zimbabwe,Southern Africa,2015,M,Primary,... if she refuses to have sex with him,8.6
+350,Zimbabwe,Southern Africa,2015,M,Secondary,... if she refuses to have sex with him,5.5

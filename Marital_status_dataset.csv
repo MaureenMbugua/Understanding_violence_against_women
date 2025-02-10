@@ -1,0 +1,1405 @@
+RecordID,Country,Region,Year,Gender,Demographics Response,Question,Value
+3,Angola,Central Africa,2015,F,Never married,... if she burns the food,9.8
+3,Angola,Central Africa,2015,F,Married or living together,... if she burns the food,10.8
+3,Angola,Central Africa,2015,F,"Widowed, divorced, separated",... if she burns the food,12.2
+3,Angola,Central Africa,2015,M,Married or living together,... if she burns the food,4.4
+3,Angola,Central Africa,2015,M,Never married,... if she burns the food,7.3
+3,Angola,Central Africa,2015,M,"Widowed, divorced, separated",... if she burns the food,9.3
+353,Angola,Central Africa,2015,F,Married or living together,... for at least one specific reason,27.2
+353,Angola,Central Africa,2015,F,Never married,... for at least one specific reason,21.1
+353,Angola,Central Africa,2015,F,"Widowed, divorced, separated",... for at least one specific reason,28.5
+73,Angola,Central Africa,2015,F,Married or living together,... if she argues with him,16.7
+73,Angola,Central Africa,2015,F,Never married,... if she argues with him,12.3
+73,Angola,Central Africa,2015,F,"Widowed, divorced, separated",... if she argues with him,17.3
+143,Angola,Central Africa,2015,F,Married or living together,... if she goes out without telling him,15.9
+143,Angola,Central Africa,2015,F,Never married,... if she goes out without telling him,11.9
+143,Angola,Central Africa,2015,F,"Widowed, divorced, separated",... if she goes out without telling him,15.4
+213,Angola,Central Africa,2015,F,Married or living together,... if she neglects the children,17.2
+213,Angola,Central Africa,2015,F,Never married,... if she neglects the children,14.1
+213,Angola,Central Africa,2015,F,"Widowed, divorced, separated",... if she neglects the children,19.0
+283,Angola,Central Africa,2015,F,Married or living together,... if she refuses to have sex with him,12.5
+283,Angola,Central Africa,2015,F,Never married,... if she refuses to have sex with him,8.6
+283,Angola,Central Africa,2015,F,"Widowed, divorced, separated",... if she refuses to have sex with him,16.2
+353,Angola,Central Africa,2015,M,Married or living together,... for at least one specific reason,19.1
+353,Angola,Central Africa,2015,M,Never married,... for at least one specific reason,20.6
+353,Angola,Central Africa,2015,M,"Widowed, divorced, separated",... for at least one specific reason,25.1
+73,Angola,Central Africa,2015,M,Married or living together,... if she argues with him,10.5
+73,Angola,Central Africa,2015,M,Never married,... if she argues with him,10.6
+73,Angola,Central Africa,2015,M,"Widowed, divorced, separated",... if she argues with him,17.4
+143,Angola,Central Africa,2015,M,Married or living together,... if she goes out without telling him,8.1
+143,Angola,Central Africa,2015,M,Never married,... if she goes out without telling him,8.0
+143,Angola,Central Africa,2015,M,"Widowed, divorced, separated",... if she goes out without telling him,12.8
+213,Angola,Central Africa,2015,M,Married or living together,... if she neglects the children,11.7
+213,Angola,Central Africa,2015,M,Never married,... if she neglects the children,11.2
+213,Angola,Central Africa,2015,M,"Widowed, divorced, separated",... if she neglects the children,16.7
+283,Angola,Central Africa,2015,M,Married or living together,... if she refuses to have sex with him,5.1
+283,Angola,Central Africa,2015,M,Never married,... if she refuses to have sex with him,5.8
+283,Angola,Central Africa,2015,M,"Widowed, divorced, separated",... if she refuses to have sex with him,9.8
+7,Benin,West Africa,2017,F,Never married,... if she burns the food,11.8
+7,Benin,West Africa,2017,F,Married or living together,... if she burns the food,14.6
+7,Benin,West Africa,2017,F,"Widowed, divorced, separated",... if she burns the food,15.1
+7,Benin,West Africa,2017,M,Married or living together,... if she burns the food,5.9
+7,Benin,West Africa,2017,M,"Widowed, divorced, separated",... if she burns the food,7.0
+7,Benin,West Africa,2017,M,Never married,... if she burns the food,8.0
+357,Benin,West Africa,2017,F,Married or living together,... for at least one specific reason,34.0
+357,Benin,West Africa,2017,F,Never married,... for at least one specific reason,25.7
+357,Benin,West Africa,2017,F,"Widowed, divorced, separated",... for at least one specific reason,31.3
+77,Benin,West Africa,2017,F,Married or living together,... if she argues with him,22.6
+77,Benin,West Africa,2017,F,Never married,... if she argues with him,16.1
+77,Benin,West Africa,2017,F,"Widowed, divorced, separated",... if she argues with him,18.5
+147,Benin,West Africa,2017,F,Married or living together,... if she goes out without telling him,23.4
+147,Benin,West Africa,2017,F,Never married,... if she goes out without telling him,15.3
+147,Benin,West Africa,2017,F,"Widowed, divorced, separated",... if she goes out without telling him,20.3
+217,Benin,West Africa,2017,F,Married or living together,... if she neglects the children,24.7
+217,Benin,West Africa,2017,F,Never married,... if she neglects the children,17.3
+217,Benin,West Africa,2017,F,"Widowed, divorced, separated",... if she neglects the children,19.7
+287,Benin,West Africa,2017,F,Married or living together,... if she refuses to have sex with him,14.2
+287,Benin,West Africa,2017,F,Never married,... if she refuses to have sex with him,8.4
+287,Benin,West Africa,2017,F,"Widowed, divorced, separated",... if she refuses to have sex with him,13.1
+357,Benin,West Africa,2017,M,Married or living together,... for at least one specific reason,14.5
+357,Benin,West Africa,2017,M,Never married,... for at least one specific reason,16.9
+357,Benin,West Africa,2017,M,"Widowed, divorced, separated",... for at least one specific reason,15.0
+77,Benin,West Africa,2017,M,Married or living together,... if she argues with him,8.6
+77,Benin,West Africa,2017,M,Never married,... if she argues with him,11.0
+77,Benin,West Africa,2017,M,"Widowed, divorced, separated",... if she argues with him,12.0
+147,Benin,West Africa,2017,M,Married or living together,... if she goes out without telling him,7.6
+147,Benin,West Africa,2017,M,Never married,... if she goes out without telling him,10.3
+147,Benin,West Africa,2017,M,"Widowed, divorced, separated",... if she goes out without telling him,10.1
+217,Benin,West Africa,2017,M,Married or living together,... if she neglects the children,8.1
+217,Benin,West Africa,2017,M,Never married,... if she neglects the children,11.0
+217,Benin,West Africa,2017,M,"Widowed, divorced, separated",... if she neglects the children,8.8
+287,Benin,West Africa,2017,M,Married or living together,... if she refuses to have sex with him,6.3
+287,Benin,West Africa,2017,M,Never married,... if she refuses to have sex with him,7.8
+287,Benin,West Africa,2017,M,"Widowed, divorced, separated",... if she refuses to have sex with him,7.6
+9,Burkina Faso,West Africa,2010,F,Never married,... if she burns the food,7.4
+9,Burkina Faso,West Africa,2010,F,"Widowed, divorced, separated",... if she burns the food,8.3
+9,Burkina Faso,West Africa,2010,F,Married or living together,... if she burns the food,10.4
+9,Burkina Faso,West Africa,2010,M,Married or living together,... if she burns the food,6.4
+9,Burkina Faso,West Africa,2010,M,Never married,... if she burns the food,9.0
+9,Burkina Faso,West Africa,2010,M,"Widowed, divorced, separated",... if she burns the food,9.3
+359,Burkina Faso,West Africa,2010,F,Married or living together,... for at least one specific reason,46.0
+359,Burkina Faso,West Africa,2010,F,Never married,... for at least one specific reason,33.3
+359,Burkina Faso,West Africa,2010,F,"Widowed, divorced, separated",... for at least one specific reason,35.2
+79,Burkina Faso,West Africa,2010,F,Married or living together,... if she argues with him,33.1
+79,Burkina Faso,West Africa,2010,F,Never married,... if she argues with him,21.9
+79,Burkina Faso,West Africa,2010,F,"Widowed, divorced, separated",... if she argues with him,22.9
+149,Burkina Faso,West Africa,2010,F,Married or living together,... if she goes out without telling him,32.6
+149,Burkina Faso,West Africa,2010,F,Never married,... if she goes out without telling him,20.4
+149,Burkina Faso,West Africa,2010,F,"Widowed, divorced, separated",... if she goes out without telling him,26.3
+219,Burkina Faso,West Africa,2010,F,Married or living together,... if she neglects the children,32.3
+219,Burkina Faso,West Africa,2010,F,Never married,... if she neglects the children,22.5
+219,Burkina Faso,West Africa,2010,F,"Widowed, divorced, separated",... if she neglects the children,27.1
+289,Burkina Faso,West Africa,2010,F,Married or living together,... if she refuses to have sex with him,21.5
+289,Burkina Faso,West Africa,2010,F,Never married,... if she refuses to have sex with him,12.4
+289,Burkina Faso,West Africa,2010,F,"Widowed, divorced, separated",... if she refuses to have sex with him,13.6
+359,Burkina Faso,West Africa,2010,M,Married or living together,... for at least one specific reason,32.7
+359,Burkina Faso,West Africa,2010,M,Never married,... for at least one specific reason,35.9
+359,Burkina Faso,West Africa,2010,M,"Widowed, divorced, separated",... for at least one specific reason,39.5
+79,Burkina Faso,West Africa,2010,M,Married or living together,... if she argues with him,19.7
+79,Burkina Faso,West Africa,2010,M,Never married,... if she argues with him,20.1
+79,Burkina Faso,West Africa,2010,M,"Widowed, divorced, separated",... if she argues with him,29.1
+149,Burkina Faso,West Africa,2010,M,Married or living together,... if she goes out without telling him,17.0
+149,Burkina Faso,West Africa,2010,M,Never married,... if she goes out without telling him,18.5
+149,Burkina Faso,West Africa,2010,M,"Widowed, divorced, separated",... if she goes out without telling him,23.7
+219,Burkina Faso,West Africa,2010,M,Married or living together,... if she neglects the children,19.3
+219,Burkina Faso,West Africa,2010,M,Never married,... if she neglects the children,21.0
+219,Burkina Faso,West Africa,2010,M,"Widowed, divorced, separated",... if she neglects the children,25.4
+289,Burkina Faso,West Africa,2010,M,Married or living together,... if she refuses to have sex with him,10.1
+289,Burkina Faso,West Africa,2010,M,Never married,... if she refuses to have sex with him,12.1
+289,Burkina Faso,West Africa,2010,M,"Widowed, divorced, separated",... if she refuses to have sex with him,11.6
+10,Burundi,East Africa,2016,F,Married or living together,... if she burns the food,20.6
+10,Burundi,East Africa,2016,F,Never married,... if she burns the food,22.2
+10,Burundi,East Africa,2016,F,"Widowed, divorced, separated",... if she burns the food,30.4
+10,Burundi,East Africa,2016,M,Married or living together,... if she burns the food,3.6
+10,Burundi,East Africa,2016,M,"Widowed, divorced, separated",... if she burns the food,5.6
+10,Burundi,East Africa,2016,M,Never married,... if she burns the food,6.7
+360,Burundi,East Africa,2016,F,Married or living together,... for at least one specific reason,61.2
+360,Burundi,East Africa,2016,F,Never married,... for at least one specific reason,60.9
+360,Burundi,East Africa,2016,F,"Widowed, divorced, separated",... for at least one specific reason,69.1
+80,Burundi,East Africa,2016,F,Married or living together,... if she argues with him,29.6
+80,Burundi,East Africa,2016,F,Never married,... if she argues with him,29.2
+80,Burundi,East Africa,2016,F,"Widowed, divorced, separated",... if she argues with him,36.7
+150,Burundi,East Africa,2016,F,Married or living together,... if she goes out without telling him,38.4
+150,Burundi,East Africa,2016,F,Never married,... if she goes out without telling him,38.4
+150,Burundi,East Africa,2016,F,"Widowed, divorced, separated",... if she goes out without telling him,47.5
+220,Burundi,East Africa,2016,F,Married or living together,... if she neglects the children,50.5
+220,Burundi,East Africa,2016,F,Never married,... if she neglects the children,51.7
+220,Burundi,East Africa,2016,F,"Widowed, divorced, separated",... if she neglects the children,59.9
+290,Burundi,East Africa,2016,F,Married or living together,... if she refuses to have sex with him,42.3
+290,Burundi,East Africa,2016,F,Never married,... if she refuses to have sex with him,38.4
+290,Burundi,East Africa,2016,F,"Widowed, divorced, separated",... if she refuses to have sex with him,52.2
+360,Burundi,East Africa,2016,M,Married or living together,... for at least one specific reason,29.2
+360,Burundi,East Africa,2016,M,Never married,... for at least one specific reason,41.5
+360,Burundi,East Africa,2016,M,"Widowed, divorced, separated",... for at least one specific reason,45.9
+80,Burundi,East Africa,2016,M,Married or living together,... if she argues with him,8.6
+80,Burundi,East Africa,2016,M,Never married,... if she argues with him,12.0
+80,Burundi,East Africa,2016,M,"Widowed, divorced, separated",... if she argues with him,18.0
+150,Burundi,East Africa,2016,M,Married or living together,... if she goes out without telling him,14.7
+150,Burundi,East Africa,2016,M,Never married,... if she goes out without telling him,19.6
+150,Burundi,East Africa,2016,M,"Widowed, divorced, separated",... if she goes out without telling him,32.9
+220,Burundi,East Africa,2016,M,Married or living together,... if she neglects the children,21.7
+220,Burundi,East Africa,2016,M,Never married,... if she neglects the children,31.1
+220,Burundi,East Africa,2016,M,"Widowed, divorced, separated",... if she neglects the children,34.0
+290,Burundi,East Africa,2016,M,Married or living together,... if she refuses to have sex with him,9.8
+290,Burundi,East Africa,2016,M,Never married,... if she refuses to have sex with him,17.6
+290,Burundi,East Africa,2016,M,"Widowed, divorced, separated",... if she refuses to have sex with him,22.8
+12,Cameroon,Central Africa,2011,F,Never married,... if she burns the food,11.3
+12,Cameroon,Central Africa,2011,F,"Widowed, divorced, separated",... if she burns the food,12.5
+12,Cameroon,Central Africa,2011,F,Married or living together,... if she burns the food,14.8
+12,Cameroon,Central Africa,2011,M,Married or living together,... if she burns the food,8.3
+12,Cameroon,Central Africa,2011,M,Never married,... if she burns the food,9.5
+12,Cameroon,Central Africa,2011,M,"Widowed, divorced, separated",... if she burns the food,10.7
+362,Cameroon,Central Africa,2011,F,Married or living together,... for at least one specific reason,47.5
+362,Cameroon,Central Africa,2011,F,Never married,... for at least one specific reason,44.6
+362,Cameroon,Central Africa,2011,F,"Widowed, divorced, separated",... for at least one specific reason,44.5
+82,Cameroon,Central Africa,2011,F,Married or living together,... if she argues with him,23.1
+82,Cameroon,Central Africa,2011,F,Never married,... if she argues with him,15.9
+82,Cameroon,Central Africa,2011,F,"Widowed, divorced, separated",... if she argues with him,19.1
+152,Cameroon,Central Africa,2011,F,Married or living together,... if she goes out without telling him,28.8
+152,Cameroon,Central Africa,2011,F,Never married,... if she goes out without telling him,21.5
+152,Cameroon,Central Africa,2011,F,"Widowed, divorced, separated",... if she goes out without telling him,25.9
+222,Cameroon,Central Africa,2011,F,Married or living together,... if she neglects the children,37.5
+222,Cameroon,Central Africa,2011,F,Never married,... if she neglects the children,37.3
+222,Cameroon,Central Africa,2011,F,"Widowed, divorced, separated",... if she neglects the children,37.2
+292,Cameroon,Central Africa,2011,F,Married or living together,... if she refuses to have sex with him,16.8
+292,Cameroon,Central Africa,2011,F,Never married,... if she refuses to have sex with him,8.5
+292,Cameroon,Central Africa,2011,F,"Widowed, divorced, separated",... if she refuses to have sex with him,12.2
+362,Cameroon,Central Africa,2011,M,Married or living together,... for at least one specific reason,36.7
+362,Cameroon,Central Africa,2011,M,Never married,... for at least one specific reason,40.5
+362,Cameroon,Central Africa,2011,M,"Widowed, divorced, separated",... for at least one specific reason,40.0
+82,Cameroon,Central Africa,2011,M,Married or living together,... if she argues with him,17.3
+82,Cameroon,Central Africa,2011,M,Never married,... if she argues with him,17.9
+82,Cameroon,Central Africa,2011,M,"Widowed, divorced, separated",... if she argues with him,18.5
+152,Cameroon,Central Africa,2011,M,Married or living together,... if she goes out without telling him,21.8
+152,Cameroon,Central Africa,2011,M,Never married,... if she goes out without telling him,20.4
+152,Cameroon,Central Africa,2011,M,"Widowed, divorced, separated",... if she goes out without telling him,25.4
+222,Cameroon,Central Africa,2011,M,Married or living together,... if she neglects the children,27.4
+222,Cameroon,Central Africa,2011,M,Never married,... if she neglects the children,30.1
+222,Cameroon,Central Africa,2011,M,"Widowed, divorced, separated",... if she neglects the children,30.7
+292,Cameroon,Central Africa,2011,M,Married or living together,... if she refuses to have sex with him,7.4
+292,Cameroon,Central Africa,2011,M,Never married,... if she refuses to have sex with him,7.8
+292,Cameroon,Central Africa,2011,M,"Widowed, divorced, separated",... if she refuses to have sex with him,10.1
+13,Chad,Central Africa,2014,F,Never married,... if she burns the food,40.9
+13,Chad,Central Africa,2014,F,"Widowed, divorced, separated",... if she burns the food,45.9
+13,Chad,Central Africa,2014,F,Married or living together,... if she burns the food,50.5
+13,Chad,Central Africa,2014,M,Married or living together,... if she burns the food,26.0
+13,Chad,Central Africa,2014,M,Never married,... if she burns the food,28.8
+13,Chad,Central Africa,2014,M,"Widowed, divorced, separated",... if she burns the food,38.7
+363,Chad,Central Africa,2014,F,Married or living together,... for at least one specific reason,76.0
+363,Chad,Central Africa,2014,F,Never married,... for at least one specific reason,63.7
+363,Chad,Central Africa,2014,F,"Widowed, divorced, separated",... for at least one specific reason,71.0
+83,Chad,Central Africa,2014,F,Married or living together,... if she argues with him,52.1
+83,Chad,Central Africa,2014,F,Never married,... if she argues with him,39.5
+83,Chad,Central Africa,2014,F,"Widowed, divorced, separated",... if she argues with him,49.3
+153,Chad,Central Africa,2014,F,Married or living together,... if she goes out without telling him,62.1
+153,Chad,Central Africa,2014,F,Never married,... if she goes out without telling him,46.3
+153,Chad,Central Africa,2014,F,"Widowed, divorced, separated",... if she goes out without telling him,56.9
+223,Chad,Central Africa,2014,F,Married or living together,... if she neglects the children,62.1
+223,Chad,Central Africa,2014,F,Never married,... if she neglects the children,49.6
+223,Chad,Central Africa,2014,F,"Widowed, divorced, separated",... if she neglects the children,58.8
+293,Chad,Central Africa,2014,F,Married or living together,... if she refuses to have sex with him,43.7
+293,Chad,Central Africa,2014,F,Never married,... if she refuses to have sex with him,26.5
+293,Chad,Central Africa,2014,F,"Widowed, divorced, separated",... if she refuses to have sex with him,40.8
+363,Chad,Central Africa,2014,M,Married or living together,... for at least one specific reason,48.4
+363,Chad,Central Africa,2014,M,Never married,... for at least one specific reason,53.1
+363,Chad,Central Africa,2014,M,"Widowed, divorced, separated",... for at least one specific reason,55.3
+83,Chad,Central Africa,2014,M,Married or living together,... if she argues with him,21.0
+83,Chad,Central Africa,2014,M,Never married,... if she argues with him,23.8
+83,Chad,Central Africa,2014,M,"Widowed, divorced, separated",... if she argues with him,26.8
+153,Chad,Central Africa,2014,M,Married or living together,... if she goes out without telling him,26.7
+153,Chad,Central Africa,2014,M,Never married,... if she goes out without telling him,29.8
+153,Chad,Central Africa,2014,M,"Widowed, divorced, separated",... if she goes out without telling him,35.2
+223,Chad,Central Africa,2014,M,Married or living together,... if she neglects the children,35.6
+223,Chad,Central Africa,2014,M,Never married,... if she neglects the children,38.8
+223,Chad,Central Africa,2014,M,"Widowed, divorced, separated",... if she neglects the children,39.2
+293,Chad,Central Africa,2014,M,Married or living together,... if she refuses to have sex with him,22.3
+293,Chad,Central Africa,2014,M,Never married,... if she refuses to have sex with him,25.2
+293,Chad,Central Africa,2014,M,"Widowed, divorced, separated",... if she refuses to have sex with him,32.6
+15,Comoros,East Africa,2012,F,"Widowed, divorced, separated",... if she burns the food,11.1
+15,Comoros,East Africa,2012,F,Married or living together,... if she burns the food,12.2
+15,Comoros,East Africa,2012,F,Never married,... if she burns the food,14.0
+15,Comoros,East Africa,2012,M,Married or living together,... if she burns the food,2.2
+15,Comoros,East Africa,2012,M,"Widowed, divorced, separated",... if she burns the food,3.6
+15,Comoros,East Africa,2012,M,Never married,... if she burns the food,4.1
+365,Comoros,East Africa,2012,F,Married or living together,... for at least one specific reason,38.7
+365,Comoros,East Africa,2012,F,Never married,... for at least one specific reason,40.5
+365,Comoros,East Africa,2012,F,"Widowed, divorced, separated",... for at least one specific reason,34.1
+85,Comoros,East Africa,2012,F,Married or living together,... if she argues with him,15.0
+85,Comoros,East Africa,2012,F,Never married,... if she argues with him,17.2
+85,Comoros,East Africa,2012,F,"Widowed, divorced, separated",... if she argues with him,14.3
+155,Comoros,East Africa,2012,F,Married or living together,... if she goes out without telling him,28.1
+155,Comoros,East Africa,2012,F,Never married,... if she goes out without telling him,29.1
+155,Comoros,East Africa,2012,F,"Widowed, divorced, separated",... if she goes out without telling him,27.1
+225,Comoros,East Africa,2012,F,Married or living together,... if she neglects the children,29.2
+225,Comoros,East Africa,2012,F,Never married,... if she neglects the children,31.2
+225,Comoros,East Africa,2012,F,"Widowed, divorced, separated",... if she neglects the children,26.9
+295,Comoros,East Africa,2012,F,Married or living together,... if she refuses to have sex with him,20.6
+295,Comoros,East Africa,2012,F,Never married,... if she refuses to have sex with him,19.3
+295,Comoros,East Africa,2012,F,"Widowed, divorced, separated",... if she refuses to have sex with him,17.8
+365,Comoros,East Africa,2012,M,Married or living together,... for at least one specific reason,10.5
+365,Comoros,East Africa,2012,M,Never married,... for at least one specific reason,25.4
+365,Comoros,East Africa,2012,M,"Widowed, divorced, separated",... for at least one specific reason,20.3
+85,Comoros,East Africa,2012,M,Married or living together,... if she argues with him,4.0
+85,Comoros,East Africa,2012,M,Never married,... if she argues with him,10.5
+85,Comoros,East Africa,2012,M,"Widowed, divorced, separated",... if she argues with him,4.3
+155,Comoros,East Africa,2012,M,Married or living together,... if she goes out without telling him,4.2
+155,Comoros,East Africa,2012,M,Never married,... if she goes out without telling him,10.7
+155,Comoros,East Africa,2012,M,"Widowed, divorced, separated",... if she goes out without telling him,4.8
+225,Comoros,East Africa,2012,M,Married or living together,... if she neglects the children,5.6
+225,Comoros,East Africa,2012,M,Never married,... if she neglects the children,10.9
+225,Comoros,East Africa,2012,M,"Widowed, divorced, separated",... if she neglects the children,7.7
+295,Comoros,East Africa,2012,M,Married or living together,... if she refuses to have sex with him,4.8
+295,Comoros,East Africa,2012,M,Never married,... if she refuses to have sex with him,11.7
+295,Comoros,East Africa,2012,M,"Widowed, divorced, separated",... if she refuses to have sex with him,11.0
+16,Congo,Central Africa,2011,F,Married or living together,... if she burns the food,
+16,Congo,Central Africa,2011,F,Never married,... if she burns the food,
+16,Congo,Central Africa,2011,F,"Widowed, divorced, separated",... if she burns the food,
+16,Congo,Central Africa,2011,M,Married or living together,... if she burns the food,
+16,Congo,Central Africa,2011,M,Never married,... if she burns the food,
+16,Congo,Central Africa,2011,M,"Widowed, divorced, separated",... if she burns the food,
+366,Congo,Central Africa,2011,F,Married or living together,... for at least one specific reason,60.6
+366,Congo,Central Africa,2011,F,Never married,... for at least one specific reason,60.5
+366,Congo,Central Africa,2011,F,"Widowed, divorced, separated",... for at least one specific reason,61.0
+86,Congo,Central Africa,2011,F,Married or living together,... if she argues with him,
+86,Congo,Central Africa,2011,F,Never married,... if she argues with him,
+86,Congo,Central Africa,2011,F,"Widowed, divorced, separated",... if she argues with him,
+156,Congo,Central Africa,2011,F,Married or living together,... if she goes out without telling him,41.1
+156,Congo,Central Africa,2011,F,Never married,... if she goes out without telling him,39.2
+156,Congo,Central Africa,2011,F,"Widowed, divorced, separated",... if she goes out without telling him,42.7
+226,Congo,Central Africa,2011,F,Married or living together,... if she neglects the children,46.6
+226,Congo,Central Africa,2011,F,Never married,... if she neglects the children,47.7
+226,Congo,Central Africa,2011,F,"Widowed, divorced, separated",... if she neglects the children,45.8
+296,Congo,Central Africa,2011,F,Married or living together,... if she refuses to have sex with him,28.2
+296,Congo,Central Africa,2011,F,Never married,... if she refuses to have sex with him,20.7
+296,Congo,Central Africa,2011,F,"Widowed, divorced, separated",... if she refuses to have sex with him,28.5
+366,Congo,Central Africa,2011,M,Married or living together,... for at least one specific reason,40.0
+366,Congo,Central Africa,2011,M,Never married,... for at least one specific reason,46.1
+366,Congo,Central Africa,2011,M,"Widowed, divorced, separated",... for at least one specific reason,42.3
+86,Congo,Central Africa,2011,M,Married or living together,... if she argues with him,
+86,Congo,Central Africa,2011,M,Never married,... if she argues with him,
+86,Congo,Central Africa,2011,M,"Widowed, divorced, separated",... if she argues with him,
+156,Congo,Central Africa,2011,M,Married or living together,... if she goes out without telling him,22.8
+156,Congo,Central Africa,2011,M,Never married,... if she goes out without telling him,21.4
+156,Congo,Central Africa,2011,M,"Widowed, divorced, separated",... if she goes out without telling him,23.2
+226,Congo,Central Africa,2011,M,Married or living together,... if she neglects the children,28.7
+226,Congo,Central Africa,2011,M,Never married,... if she neglects the children,33.0
+226,Congo,Central Africa,2011,M,"Widowed, divorced, separated",... if she neglects the children,35.8
+296,Congo,Central Africa,2011,M,Married or living together,... if she refuses to have sex with him,11.7
+296,Congo,Central Africa,2011,M,Never married,... if she refuses to have sex with him,14.8
+296,Congo,Central Africa,2011,M,"Widowed, divorced, separated",... if she refuses to have sex with him,12.9
+17,Congo Democratic Republic,Central Africa,2013,F,Never married,... if she burns the food,23.5
+17,Congo Democratic Republic,Central Africa,2013,F,"Widowed, divorced, separated",... if she burns the food,24.5
+17,Congo Democratic Republic,Central Africa,2013,F,Married or living together,... if she burns the food,24.7
+17,Congo Democratic Republic,Central Africa,2013,M,Married or living together,... if she burns the food,12.3
+17,Congo Democratic Republic,Central Africa,2013,M,"Widowed, divorced, separated",... if she burns the food,14.8
+17,Congo Democratic Republic,Central Africa,2013,M,Never married,... if she burns the food,18.8
+367,Congo Democratic Republic,Central Africa,2013,F,Married or living together,... for at least one specific reason,76.1
+367,Congo Democratic Republic,Central Africa,2013,F,Never married,... for at least one specific reason,72.1
+367,Congo Democratic Republic,Central Africa,2013,F,"Widowed, divorced, separated",... for at least one specific reason,72.7
+87,Congo Democratic Republic,Central Africa,2013,F,Married or living together,... if she argues with him,59.4
+87,Congo Democratic Republic,Central Africa,2013,F,Never married,... if she argues with him,54.5
+87,Congo Democratic Republic,Central Africa,2013,F,"Widowed, divorced, separated",... if she argues with him,54.9
+157,Congo Democratic Republic,Central Africa,2013,F,Married or living together,... if she goes out without telling him,51.2
+157,Congo Democratic Republic,Central Africa,2013,F,Never married,... if she goes out without telling him,44.4
+157,Congo Democratic Republic,Central Africa,2013,F,"Widowed, divorced, separated",... if she goes out without telling him,47.4
+227,Congo Democratic Republic,Central Africa,2013,F,Married or living together,... if she neglects the children,51.9
+227,Congo Democratic Republic,Central Africa,2013,F,Never married,... if she neglects the children,50.5
+227,Congo Democratic Republic,Central Africa,2013,F,"Widowed, divorced, separated",... if she neglects the children,50.9
+297,Congo Democratic Republic,Central Africa,2013,F,Married or living together,... if she refuses to have sex with him,47.0
+297,Congo Democratic Republic,Central Africa,2013,F,Never married,... if she refuses to have sex with him,33.6
+297,Congo Democratic Republic,Central Africa,2013,F,"Widowed, divorced, separated",... if she refuses to have sex with him,46.5
+367,Congo Democratic Republic,Central Africa,2013,M,Married or living together,... for at least one specific reason,56.5
+367,Congo Democratic Republic,Central Africa,2013,M,Never married,... for at least one specific reason,67.0
+367,Congo Democratic Republic,Central Africa,2013,M,"Widowed, divorced, separated",... for at least one specific reason,59.9
+87,Congo Democratic Republic,Central Africa,2013,M,Married or living together,... if she argues with him,38.8
+87,Congo Democratic Republic,Central Africa,2013,M,Never married,... if she argues with him,46.3
+87,Congo Democratic Republic,Central Africa,2013,M,"Widowed, divorced, separated",... if she argues with him,46.0
+157,Congo Democratic Republic,Central Africa,2013,M,Married or living together,... if she goes out without telling him,29.5
+157,Congo Democratic Republic,Central Africa,2013,M,Never married,... if she goes out without telling him,36.9
+157,Congo Democratic Republic,Central Africa,2013,M,"Widowed, divorced, separated",... if she goes out without telling him,29.3
+227,Congo Democratic Republic,Central Africa,2013,M,Married or living together,... if she neglects the children,36.8
+227,Congo Democratic Republic,Central Africa,2013,M,Never married,... if she neglects the children,44.5
+227,Congo Democratic Republic,Central Africa,2013,M,"Widowed, divorced, separated",... if she neglects the children,40.4
+297,Congo Democratic Republic,Central Africa,2013,M,Married or living together,... if she refuses to have sex with him,21.4
+297,Congo Democratic Republic,Central Africa,2013,M,Never married,... if she refuses to have sex with him,25.6
+297,Congo Democratic Republic,Central Africa,2013,M,"Widowed, divorced, separated",... if she refuses to have sex with him,26.6
+18,Cote d'Ivoire,West Africa,2011,F,Never married,... if she burns the food,12.1
+18,Cote d'Ivoire,West Africa,2011,F,"Widowed, divorced, separated",... if she burns the food,15.9
+18,Cote d'Ivoire,West Africa,2011,F,Married or living together,... if she burns the food,18.4
+18,Cote d'Ivoire,West Africa,2011,M,"Widowed, divorced, separated",... if she burns the food,7.3
+18,Cote d'Ivoire,West Africa,2011,M,Married or living together,... if she burns the food,9.7
+18,Cote d'Ivoire,West Africa,2011,M,Never married,... if she burns the food,16.1
+368,Cote d'Ivoire,West Africa,2011,F,Married or living together,... for at least one specific reason,50.4
+368,Cote d'Ivoire,West Africa,2011,F,Never married,... for at least one specific reason,44.4
+368,Cote d'Ivoire,West Africa,2011,F,"Widowed, divorced, separated",... for at least one specific reason,40.5
+88,Cote d'Ivoire,West Africa,2011,F,Married or living together,... if she argues with him,37.8
+88,Cote d'Ivoire,West Africa,2011,F,Never married,... if she argues with him,29.2
+88,Cote d'Ivoire,West Africa,2011,F,"Widowed, divorced, separated",... if she argues with him,26.0
+158,Cote d'Ivoire,West Africa,2011,F,Married or living together,... if she goes out without telling him,30.6
+158,Cote d'Ivoire,West Africa,2011,F,Never married,... if she goes out without telling him,19.5
+158,Cote d'Ivoire,West Africa,2011,F,"Widowed, divorced, separated",... if she goes out without telling him,21.1
+228,Cote d'Ivoire,West Africa,2011,F,Married or living together,... if she neglects the children,34.7
+228,Cote d'Ivoire,West Africa,2011,F,Never married,... if she neglects the children,29.7
+228,Cote d'Ivoire,West Africa,2011,F,"Widowed, divorced, separated",... if she neglects the children,28.2
+298,Cote d'Ivoire,West Africa,2011,F,Married or living together,... if she refuses to have sex with him,25.0
+298,Cote d'Ivoire,West Africa,2011,F,Never married,... if she refuses to have sex with him,14.9
+298,Cote d'Ivoire,West Africa,2011,F,"Widowed, divorced, separated",... if she refuses to have sex with him,18.3
+368,Cote d'Ivoire,West Africa,2011,M,Married or living together,... for at least one specific reason,37.4
+368,Cote d'Ivoire,West Africa,2011,M,Never married,... for at least one specific reason,46.6
+368,Cote d'Ivoire,West Africa,2011,M,"Widowed, divorced, separated",... for at least one specific reason,43.2
+88,Cote d'Ivoire,West Africa,2011,M,Married or living together,... if she argues with him,23.6
+88,Cote d'Ivoire,West Africa,2011,M,Never married,... if she argues with him,28.6
+88,Cote d'Ivoire,West Africa,2011,M,"Widowed, divorced, separated",... if she argues with him,18.7
+158,Cote d'Ivoire,West Africa,2011,M,Married or living together,... if she goes out without telling him,21.8
+158,Cote d'Ivoire,West Africa,2011,M,Never married,... if she goes out without telling him,22.6
+158,Cote d'Ivoire,West Africa,2011,M,"Widowed, divorced, separated",... if she goes out without telling him,17.6
+228,Cote d'Ivoire,West Africa,2011,M,Married or living together,... if she neglects the children,25.7
+228,Cote d'Ivoire,West Africa,2011,M,Never married,... if she neglects the children,31.6
+228,Cote d'Ivoire,West Africa,2011,M,"Widowed, divorced, separated",... if she neglects the children,32.1
+298,Cote d'Ivoire,West Africa,2011,M,Married or living together,... if she refuses to have sex with him,11.1
+298,Cote d'Ivoire,West Africa,2011,M,Never married,... if she refuses to have sex with him,12.6
+298,Cote d'Ivoire,West Africa,2011,M,"Widowed, divorced, separated",... if she refuses to have sex with him,9.6
+20,Egypt,North Africa,2014,F,Never married,... if she burns the food,
+20,Egypt,North Africa,2014,F,Married or living together,... if she burns the food,6.9
+20,Egypt,North Africa,2014,F,"Widowed, divorced, separated",... if she burns the food,8.1
+20,Egypt,North Africa,2014,M,Married or living together,... if she burns the food,
+20,Egypt,North Africa,2014,M,Never married,... if she burns the food,
+20,Egypt,North Africa,2014,M,"Widowed, divorced, separated",... if she burns the food,
+370,Egypt,North Africa,2014,F,Married or living together,... for at least one specific reason,35.8
+370,Egypt,North Africa,2014,F,Never married,... for at least one specific reason,
+370,Egypt,North Africa,2014,F,"Widowed, divorced, separated",... for at least one specific reason,33.2
+90,Egypt,North Africa,2014,F,Married or living together,... if she argues with him,12.8
+90,Egypt,North Africa,2014,F,Never married,... if she argues with him,
+90,Egypt,North Africa,2014,F,"Widowed, divorced, separated",... if she argues with him,12.0
+160,Egypt,North Africa,2014,F,Married or living together,... if she goes out without telling him,25.6
+160,Egypt,North Africa,2014,F,Never married,... if she goes out without telling him,
+160,Egypt,North Africa,2014,F,"Widowed, divorced, separated",... if she goes out without telling him,24.0
+230,Egypt,North Africa,2014,F,Married or living together,... if she neglects the children,24.2
+230,Egypt,North Africa,2014,F,Never married,... if she neglects the children,
+230,Egypt,North Africa,2014,F,"Widowed, divorced, separated",... if she neglects the children,23.1
+300,Egypt,North Africa,2014,F,Married or living together,... if she refuses to have sex with him,19.9
+300,Egypt,North Africa,2014,F,Never married,... if she refuses to have sex with him,
+300,Egypt,North Africa,2014,F,"Widowed, divorced, separated",... if she refuses to have sex with him,20.2
+370,Egypt,North Africa,2014,M,Married or living together,... for at least one specific reason,
+370,Egypt,North Africa,2014,M,Never married,... for at least one specific reason,
+370,Egypt,North Africa,2014,M,"Widowed, divorced, separated",... for at least one specific reason,
+90,Egypt,North Africa,2014,M,Married or living together,... if she argues with him,
+90,Egypt,North Africa,2014,M,Never married,... if she argues with him,
+90,Egypt,North Africa,2014,M,"Widowed, divorced, separated",... if she argues with him,
+160,Egypt,North Africa,2014,M,Married or living together,... if she goes out without telling him,
+160,Egypt,North Africa,2014,M,Never married,... if she goes out without telling him,
+160,Egypt,North Africa,2014,M,"Widowed, divorced, separated",... if she goes out without telling him,
+230,Egypt,North Africa,2014,M,Married or living together,... if she neglects the children,
+230,Egypt,North Africa,2014,M,Never married,... if she neglects the children,
+230,Egypt,North Africa,2014,M,"Widowed, divorced, separated",... if she neglects the children,
+300,Egypt,North Africa,2014,M,Married or living together,... if she refuses to have sex with him,
+300,Egypt,North Africa,2014,M,Never married,... if she refuses to have sex with him,
+300,Egypt,North Africa,2014,M,"Widowed, divorced, separated",... if she refuses to have sex with him,
+21,Eritrea,East Africa,2002,F,Never married,... if she burns the food,23.9
+21,Eritrea,East Africa,2002,F,"Widowed, divorced, separated",... if she burns the food,29.8
+21,Eritrea,East Africa,2002,F,Married or living together,... if she burns the food,30.9
+21,Eritrea,East Africa,2002,M,Married or living together,... if she burns the food,
+21,Eritrea,East Africa,2002,M,Never married,... if she burns the food,
+21,Eritrea,East Africa,2002,M,"Widowed, divorced, separated",... if she burns the food,
+371,Eritrea,East Africa,2002,F,Married or living together,... for at least one specific reason,73.1
+371,Eritrea,East Africa,2002,F,Never married,... for at least one specific reason,61.4
+371,Eritrea,East Africa,2002,F,"Widowed, divorced, separated",... for at least one specific reason,75.9
+91,Eritrea,East Africa,2002,F,Married or living together,... if she argues with him,48.7
+91,Eritrea,East Africa,2002,F,Never married,... if she argues with him,32.8
+91,Eritrea,East Africa,2002,F,"Widowed, divorced, separated",... if she argues with him,44.7
+161,Eritrea,East Africa,2002,F,Married or living together,... if she goes out without telling him,55.6
+161,Eritrea,East Africa,2002,F,Never married,... if she goes out without telling him,39.9
+161,Eritrea,East Africa,2002,F,"Widowed, divorced, separated",... if she goes out without telling him,53.1
+231,Eritrea,East Africa,2002,F,Married or living together,... if she neglects the children,52.2
+231,Eritrea,East Africa,2002,F,Never married,... if she neglects the children,44.9
+231,Eritrea,East Africa,2002,F,"Widowed, divorced, separated",... if she neglects the children,56.4
+301,Eritrea,East Africa,2002,F,Married or living together,... if she refuses to have sex with him,52.6
+301,Eritrea,East Africa,2002,F,Never married,... if she refuses to have sex with him,32.8
+301,Eritrea,East Africa,2002,F,"Widowed, divorced, separated",... if she refuses to have sex with him,51.5
+371,Eritrea,East Africa,2002,M,Married or living together,... for at least one specific reason,
+371,Eritrea,East Africa,2002,M,Never married,... for at least one specific reason,
+371,Eritrea,East Africa,2002,M,"Widowed, divorced, separated",... for at least one specific reason,
+91,Eritrea,East Africa,2002,M,Married or living together,... if she argues with him,
+91,Eritrea,East Africa,2002,M,Never married,... if she argues with him,
+91,Eritrea,East Africa,2002,M,"Widowed, divorced, separated",... if she argues with him,
+161,Eritrea,East Africa,2002,M,Married or living together,... if she goes out without telling him,
+161,Eritrea,East Africa,2002,M,Never married,... if she goes out without telling him,
+161,Eritrea,East Africa,2002,M,"Widowed, divorced, separated",... if she goes out without telling him,
+231,Eritrea,East Africa,2002,M,Married or living together,... if she neglects the children,
+231,Eritrea,East Africa,2002,M,Never married,... if she neglects the children,
+231,Eritrea,East Africa,2002,M,"Widowed, divorced, separated",... if she neglects the children,
+301,Eritrea,East Africa,2002,M,Married or living together,... if she refuses to have sex with him,
+301,Eritrea,East Africa,2002,M,Never married,... if she refuses to have sex with him,
+301,Eritrea,East Africa,2002,M,"Widowed, divorced, separated",... if she refuses to have sex with him,
+22,Eswatini,Southern Africa,2006,F,Married or living together,... if she burns the food,2.6
+22,Eswatini,Southern Africa,2006,F,Never married,... if she burns the food,3.0
+22,Eswatini,Southern Africa,2006,F,"Widowed, divorced, separated",... if she burns the food,3.2
+22,Eswatini,Southern Africa,2006,M,Married or living together,... if she burns the food,1.9
+22,Eswatini,Southern Africa,2006,M,"Widowed, divorced, separated",... if she burns the food,3.0
+22,Eswatini,Southern Africa,2006,M,Never married,... if she burns the food,5.3
+372,Eswatini,Southern Africa,2006,F,Married or living together,... for at least one specific reason,19.5
+372,Eswatini,Southern Africa,2006,F,Never married,... for at least one specific reason,26.7
+372,Eswatini,Southern Africa,2006,F,"Widowed, divorced, separated",... for at least one specific reason,20.3
+92,Eswatini,Southern Africa,2006,F,Married or living together,... if she argues with him,15.3
+92,Eswatini,Southern Africa,2006,F,Never married,... if she argues with him,19.1
+92,Eswatini,Southern Africa,2006,F,"Widowed, divorced, separated",... if she argues with him,13.9
+162,Eswatini,Southern Africa,2006,F,Married or living together,... if she goes out without telling him,7.8
+162,Eswatini,Southern Africa,2006,F,Never married,... if she goes out without telling him,10.9
+162,Eswatini,Southern Africa,2006,F,"Widowed, divorced, separated",... if she goes out without telling him,6.6
+232,Eswatini,Southern Africa,2006,F,Married or living together,... if she neglects the children,7.5
+232,Eswatini,Southern Africa,2006,F,Never married,... if she neglects the children,14.8
+232,Eswatini,Southern Africa,2006,F,"Widowed, divorced, separated",... if she neglects the children,7.3
+302,Eswatini,Southern Africa,2006,F,Married or living together,... if she refuses to have sex with him,3.6
+302,Eswatini,Southern Africa,2006,F,Never married,... if she refuses to have sex with him,2.5
+302,Eswatini,Southern Africa,2006,F,"Widowed, divorced, separated",... if she refuses to have sex with him,6.8
+372,Eswatini,Southern Africa,2006,M,Married or living together,... for at least one specific reason,18.7
+372,Eswatini,Southern Africa,2006,M,Never married,... for at least one specific reason,37.3
+372,Eswatini,Southern Africa,2006,M,"Widowed, divorced, separated",... for at least one specific reason,25.7
+92,Eswatini,Southern Africa,2006,M,Married or living together,... if she argues with him,13.0
+92,Eswatini,Southern Africa,2006,M,Never married,... if she argues with him,27.2
+92,Eswatini,Southern Africa,2006,M,"Widowed, divorced, separated",... if she argues with him,19.4
+162,Eswatini,Southern Africa,2006,M,Married or living together,... if she goes out without telling him,8.7
+162,Eswatini,Southern Africa,2006,M,Never married,... if she goes out without telling him,17.9
+162,Eswatini,Southern Africa,2006,M,"Widowed, divorced, separated",... if she goes out without telling him,10.9
+232,Eswatini,Southern Africa,2006,M,Married or living together,... if she neglects the children,7.0
+232,Eswatini,Southern Africa,2006,M,Never married,... if she neglects the children,19.1
+232,Eswatini,Southern Africa,2006,M,"Widowed, divorced, separated",... if she neglects the children,10.9
+302,Eswatini,Southern Africa,2006,M,Married or living together,... if she refuses to have sex with him,2.4
+302,Eswatini,Southern Africa,2006,M,Never married,... if she refuses to have sex with him,4.1
+302,Eswatini,Southern Africa,2006,M,"Widowed, divorced, separated",... if she refuses to have sex with him,6.1
+23,Ethiopia,East Africa,2016,F,Never married,... if she burns the food,30.5
+23,Ethiopia,East Africa,2016,F,"Widowed, divorced, separated",... if she burns the food,37.1
+23,Ethiopia,East Africa,2016,F,Married or living together,... if she burns the food,43.8
+23,Ethiopia,East Africa,2016,M,Never married,... if she burns the food,11.4
+23,Ethiopia,East Africa,2016,M,Married or living together,... if she burns the food,11.5
+23,Ethiopia,East Africa,2016,M,"Widowed, divorced, separated",... if she burns the food,19.8
+373,Ethiopia,East Africa,2016,F,Married or living together,... for at least one specific reason,66.6
+373,Ethiopia,East Africa,2016,F,Never married,... for at least one specific reason,53.7
+373,Ethiopia,East Africa,2016,F,"Widowed, divorced, separated",... for at least one specific reason,63.6
+93,Ethiopia,East Africa,2016,F,Married or living together,... if she argues with him,46.4
+93,Ethiopia,East Africa,2016,F,Never married,... if she argues with him,32.3
+93,Ethiopia,East Africa,2016,F,"Widowed, divorced, separated",... if she argues with him,39.7
+163,Ethiopia,East Africa,2016,F,Married or living together,... if she goes out without telling him,47.5
+163,Ethiopia,East Africa,2016,F,Never married,... if she goes out without telling him,34.4
+163,Ethiopia,East Africa,2016,F,"Widowed, divorced, separated",... if she goes out without telling him,38.7
+233,Ethiopia,East Africa,2016,F,Married or living together,... if she neglects the children,50.8
+233,Ethiopia,East Africa,2016,F,Never married,... if she neglects the children,39.8
+233,Ethiopia,East Africa,2016,F,"Widowed, divorced, separated",... if she neglects the children,45.4
+303,Ethiopia,East Africa,2016,F,Married or living together,... if she refuses to have sex with him,39.4
+303,Ethiopia,East Africa,2016,F,Never married,... if she refuses to have sex with him,23.6
+303,Ethiopia,East Africa,2016,F,"Widowed, divorced, separated",... if she refuses to have sex with him,32.7
+373,Ethiopia,East Africa,2016,M,Married or living together,... for at least one specific reason,26.7
+373,Ethiopia,East Africa,2016,M,Never married,... for at least one specific reason,28.2
+373,Ethiopia,East Africa,2016,M,"Widowed, divorced, separated",... for at least one specific reason,40.9
+93,Ethiopia,East Africa,2016,M,Married or living together,... if she argues with him,15.5
+93,Ethiopia,East Africa,2016,M,Never married,... if she argues with him,16.3
+93,Ethiopia,East Africa,2016,M,"Widowed, divorced, separated",... if she argues with him,22.9
+163,Ethiopia,East Africa,2016,M,Married or living together,... if she goes out without telling him,17.3
+163,Ethiopia,East Africa,2016,M,Never married,... if she goes out without telling him,15.7
+163,Ethiopia,East Africa,2016,M,"Widowed, divorced, separated",... if she goes out without telling him,22.6
+233,Ethiopia,East Africa,2016,M,Married or living together,... if she neglects the children,18.0
+233,Ethiopia,East Africa,2016,M,Never married,... if she neglects the children,20.2
+233,Ethiopia,East Africa,2016,M,"Widowed, divorced, separated",... if she neglects the children,26.6
+303,Ethiopia,East Africa,2016,M,Married or living together,... if she refuses to have sex with him,12.1
+303,Ethiopia,East Africa,2016,M,Never married,... if she refuses to have sex with him,12.7
+303,Ethiopia,East Africa,2016,M,"Widowed, divorced, separated",... if she refuses to have sex with him,21.0
+24,Gabon,Central Africa,2012,F,Never married,... if she burns the food,9.9
+24,Gabon,Central Africa,2012,F,Married or living together,... if she burns the food,10.4
+24,Gabon,Central Africa,2012,F,"Widowed, divorced, separated",... if she burns the food,14.5
+24,Gabon,Central Africa,2012,M,"Widowed, divorced, separated",... if she burns the food,5.6
+24,Gabon,Central Africa,2012,M,Married or living together,... if she burns the food,6.2
+24,Gabon,Central Africa,2012,M,Never married,... if she burns the food,7.5
+374,Gabon,Central Africa,2012,F,Married or living together,... for at least one specific reason,51.3
+374,Gabon,Central Africa,2012,F,Never married,... for at least one specific reason,47.8
+374,Gabon,Central Africa,2012,F,"Widowed, divorced, separated",... for at least one specific reason,53.3
+94,Gabon,Central Africa,2012,F,Married or living together,... if she argues with him,28.0
+94,Gabon,Central Africa,2012,F,Never married,... if she argues with him,22.1
+94,Gabon,Central Africa,2012,F,"Widowed, divorced, separated",... if she argues with him,30.1
+164,Gabon,Central Africa,2012,F,Married or living together,... if she goes out without telling him,21.9
+164,Gabon,Central Africa,2012,F,Never married,... if she goes out without telling him,14.4
+164,Gabon,Central Africa,2012,F,"Widowed, divorced, separated",... if she goes out without telling him,20.3
+234,Gabon,Central Africa,2012,F,Married or living together,... if she neglects the children,40.6
+234,Gabon,Central Africa,2012,F,Never married,... if she neglects the children,38.5
+234,Gabon,Central Africa,2012,F,"Widowed, divorced, separated",... if she neglects the children,43.8
+304,Gabon,Central Africa,2012,F,Married or living together,... if she refuses to have sex with him,11.3
+304,Gabon,Central Africa,2012,F,Never married,... if she refuses to have sex with him,4.6
+304,Gabon,Central Africa,2012,F,"Widowed, divorced, separated",... if she refuses to have sex with him,10.7
+374,Gabon,Central Africa,2012,M,Married or living together,... for at least one specific reason,38.6
+374,Gabon,Central Africa,2012,M,Never married,... for at least one specific reason,40.3
+374,Gabon,Central Africa,2012,M,"Widowed, divorced, separated",... for at least one specific reason,42.8
+94,Gabon,Central Africa,2012,M,Married or living together,... if she argues with him,18.3
+94,Gabon,Central Africa,2012,M,Never married,... if she argues with him,20.7
+94,Gabon,Central Africa,2012,M,"Widowed, divorced, separated",... if she argues with him,20.3
+164,Gabon,Central Africa,2012,M,Married or living together,... if she goes out without telling him,14.7
+164,Gabon,Central Africa,2012,M,Never married,... if she goes out without telling him,13.0
+164,Gabon,Central Africa,2012,M,"Widowed, divorced, separated",... if she goes out without telling him,16.3
+234,Gabon,Central Africa,2012,M,Married or living together,... if she neglects the children,27.3
+234,Gabon,Central Africa,2012,M,Never married,... if she neglects the children,30.5
+234,Gabon,Central Africa,2012,M,"Widowed, divorced, separated",... if she neglects the children,30.7
+304,Gabon,Central Africa,2012,M,Married or living together,... if she refuses to have sex with him,5.0
+304,Gabon,Central Africa,2012,M,Never married,... if she refuses to have sex with him,7.2
+304,Gabon,Central Africa,2012,M,"Widowed, divorced, separated",... if she refuses to have sex with him,3.6
+25,Gambia,West Africa,2013,F,"Widowed, divorced, separated",... if she burns the food,5.2
+25,Gambia,West Africa,2013,F,Never married,... if she burns the food,9.4
+25,Gambia,West Africa,2013,F,Married or living together,... if she burns the food,11.5
+25,Gambia,West Africa,2013,M,Married or living together,... if she burns the food,3.5
+25,Gambia,West Africa,2013,M,"Widowed, divorced, separated",... if she burns the food,3.9
+25,Gambia,West Africa,2013,M,Never married,... if she burns the food,8.1
+375,Gambia,West Africa,2013,F,Married or living together,... for at least one specific reason,62.9
+375,Gambia,West Africa,2013,F,Never married,... for at least one specific reason,50.0
+375,Gambia,West Africa,2013,F,"Widowed, divorced, separated",... for at least one specific reason,46.9
+95,Gambia,West Africa,2013,F,Married or living together,... if she argues with him,27.4
+95,Gambia,West Africa,2013,F,Never married,... if she argues with him,18.1
+95,Gambia,West Africa,2013,F,"Widowed, divorced, separated",... if she argues with him,14.4
+165,Gambia,West Africa,2013,F,Married or living together,... if she goes out without telling him,46.5
+165,Gambia,West Africa,2013,F,Never married,... if she goes out without telling him,33.3
+165,Gambia,West Africa,2013,F,"Widowed, divorced, separated",... if she goes out without telling him,32.0
+235,Gambia,West Africa,2013,F,Married or living together,... if she neglects the children,38.1
+235,Gambia,West Africa,2013,F,Never married,... if she neglects the children,30.5
+235,Gambia,West Africa,2013,F,"Widowed, divorced, separated",... if she neglects the children,25.4
+305,Gambia,West Africa,2013,F,Married or living together,... if she refuses to have sex with him,50.1
+305,Gambia,West Africa,2013,F,Never married,... if she refuses to have sex with him,33.6
+305,Gambia,West Africa,2013,F,"Widowed, divorced, separated",... if she refuses to have sex with him,36.6
+375,Gambia,West Africa,2013,M,Married or living together,... for at least one specific reason,26.6
+375,Gambia,West Africa,2013,M,Never married,... for at least one specific reason,37.2
+375,Gambia,West Africa,2013,M,"Widowed, divorced, separated",... for at least one specific reason,26.4
+95,Gambia,West Africa,2013,M,Married or living together,... if she argues with him,7.9
+95,Gambia,West Africa,2013,M,Never married,... if she argues with him,13.6
+95,Gambia,West Africa,2013,M,"Widowed, divorced, separated",... if she argues with him,6.7
+165,Gambia,West Africa,2013,M,Married or living together,... if she goes out without telling him,14.7
+165,Gambia,West Africa,2013,M,Never married,... if she goes out without telling him,24.7
+165,Gambia,West Africa,2013,M,"Widowed, divorced, separated",... if she goes out without telling him,17.2
+235,Gambia,West Africa,2013,M,Married or living together,... if she neglects the children,14.8
+235,Gambia,West Africa,2013,M,Never married,... if she neglects the children,21.5
+235,Gambia,West Africa,2013,M,"Widowed, divorced, separated",... if she neglects the children,17.7
+305,Gambia,West Africa,2013,M,Married or living together,... if she refuses to have sex with him,15.1
+305,Gambia,West Africa,2013,M,Never married,... if she refuses to have sex with him,22.0
+305,Gambia,West Africa,2013,M,"Widowed, divorced, separated",... if she refuses to have sex with him,16.1
+26,Ghana,West Africa,2014,F,"Widowed, divorced, separated",... if she burns the food,5.3
+26,Ghana,West Africa,2014,F,Never married,... if she burns the food,6.7
+26,Ghana,West Africa,2014,F,Married or living together,... if she burns the food,8.2
+26,Ghana,West Africa,2014,M,"Widowed, divorced, separated",... if she burns the food,0.6
+26,Ghana,West Africa,2014,M,Married or living together,... if she burns the food,1.7
+26,Ghana,West Africa,2014,M,Never married,... if she burns the food,4.2
+376,Ghana,West Africa,2014,F,Married or living together,... for at least one specific reason,29.7
+376,Ghana,West Africa,2014,F,Never married,... for at least one specific reason,27.0
+376,Ghana,West Africa,2014,F,"Widowed, divorced, separated",... for at least one specific reason,24.5
+96,Ghana,West Africa,2014,F,Married or living together,... if she argues with him,17.4
+96,Ghana,West Africa,2014,F,Never married,... if she argues with him,13.6
+96,Ghana,West Africa,2014,F,"Widowed, divorced, separated",... if she argues with him,12.6
+166,Ghana,West Africa,2014,F,Married or living together,... if she goes out without telling him,18.5
+166,Ghana,West Africa,2014,F,Never married,... if she goes out without telling him,13.7
+166,Ghana,West Africa,2014,F,"Widowed, divorced, separated",... if she goes out without telling him,14.5
+236,Ghana,West Africa,2014,F,Married or living together,... if she neglects the children,22.4
+236,Ghana,West Africa,2014,F,Never married,... if she neglects the children,19.7
+236,Ghana,West Africa,2014,F,"Widowed, divorced, separated",... if she neglects the children,17.1
+306,Ghana,West Africa,2014,F,Married or living together,... if she refuses to have sex with him,14.7
+306,Ghana,West Africa,2014,F,Never married,... if she refuses to have sex with him,9.0
+306,Ghana,West Africa,2014,F,"Widowed, divorced, separated",... if she refuses to have sex with him,8.3
+376,Ghana,West Africa,2014,M,Married or living together,... for at least one specific reason,10.0
+376,Ghana,West Africa,2014,M,Never married,... for at least one specific reason,16.3
+376,Ghana,West Africa,2014,M,"Widowed, divorced, separated",... for at least one specific reason,7.6
+96,Ghana,West Africa,2014,M,Married or living together,... if she argues with him,4.4
+96,Ghana,West Africa,2014,M,Never married,... if she argues with him,7.5
+96,Ghana,West Africa,2014,M,"Widowed, divorced, separated",... if she argues with him,3.5
+166,Ghana,West Africa,2014,M,Married or living together,... if she goes out without telling him,5.2
+166,Ghana,West Africa,2014,M,Never married,... if she goes out without telling him,8.4
+166,Ghana,West Africa,2014,M,"Widowed, divorced, separated",... if she goes out without telling him,3.6
+236,Ghana,West Africa,2014,M,Married or living together,... if she neglects the children,6.4
+236,Ghana,West Africa,2014,M,Never married,... if she neglects the children,10.6
+236,Ghana,West Africa,2014,M,"Widowed, divorced, separated",... if she neglects the children,5.7
+306,Ghana,West Africa,2014,M,Married or living together,... if she refuses to have sex with him,3.5
+306,Ghana,West Africa,2014,M,Never married,... if she refuses to have sex with him,6.1
+306,Ghana,West Africa,2014,M,"Widowed, divorced, separated",... if she refuses to have sex with him,3.8
+28,Guinea,West Africa,2018,F,Never married,... if she burns the food,17.6
+28,Guinea,West Africa,2018,F,"Widowed, divorced, separated",... if she burns the food,22.0
+28,Guinea,West Africa,2018,F,Married or living together,... if she burns the food,25.8
+28,Guinea,West Africa,2018,M,Married or living together,... if she burns the food,14.0
+28,Guinea,West Africa,2018,M,"Widowed, divorced, separated",... if she burns the food,18.8
+28,Guinea,West Africa,2018,M,Never married,... if she burns the food,19.8
+378,Guinea,West Africa,2018,F,Married or living together,... for at least one specific reason,71.2
+378,Guinea,West Africa,2018,F,Never married,... for at least one specific reason,57.0
+378,Guinea,West Africa,2018,F,"Widowed, divorced, separated",... for at least one specific reason,61.8
+98,Guinea,West Africa,2018,F,Married or living together,... if she argues with him,52.8
+98,Guinea,West Africa,2018,F,Never married,... if she argues with him,39.4
+98,Guinea,West Africa,2018,F,"Widowed, divorced, separated",... if she argues with him,41.5
+168,Guinea,West Africa,2018,F,Married or living together,... if she goes out without telling him,58.5
+168,Guinea,West Africa,2018,F,Never married,... if she goes out without telling him,41.5
+168,Guinea,West Africa,2018,F,"Widowed, divorced, separated",... if she goes out without telling him,48.1
+238,Guinea,West Africa,2018,F,Married or living together,... if she neglects the children,55.9
+238,Guinea,West Africa,2018,F,Never married,... if she neglects the children,43.0
+238,Guinea,West Africa,2018,F,"Widowed, divorced, separated",... if she neglects the children,47.1
+308,Guinea,West Africa,2018,F,Married or living together,... if she refuses to have sex with him,53.0
+308,Guinea,West Africa,2018,F,Never married,... if she refuses to have sex with him,33.3
+308,Guinea,West Africa,2018,F,"Widowed, divorced, separated",... if she refuses to have sex with him,43.8
+378,Guinea,West Africa,2018,M,Married or living together,... for at least one specific reason,55.4
+378,Guinea,West Africa,2018,M,Never married,... for at least one specific reason,55.4
+378,Guinea,West Africa,2018,M,"Widowed, divorced, separated",... for at least one specific reason,55.4
+98,Guinea,West Africa,2018,M,Married or living together,... if she argues with him,30.9
+98,Guinea,West Africa,2018,M,Never married,... if she argues with him,33.6
+98,Guinea,West Africa,2018,M,"Widowed, divorced, separated",... if she argues with him,37.5
+168,Guinea,West Africa,2018,M,Married or living together,... if she goes out without telling him,39.5
+168,Guinea,West Africa,2018,M,Never married,... if she goes out without telling him,35.9
+168,Guinea,West Africa,2018,M,"Widowed, divorced, separated",... if she goes out without telling him,32.5
+238,Guinea,West Africa,2018,M,Married or living together,... if she neglects the children,43.9
+238,Guinea,West Africa,2018,M,Never married,... if she neglects the children,42.6
+238,Guinea,West Africa,2018,M,"Widowed, divorced, separated",... if she neglects the children,50.9
+308,Guinea,West Africa,2018,M,Married or living together,... if she refuses to have sex with him,25.4
+308,Guinea,West Africa,2018,M,Never married,... if she refuses to have sex with him,25.4
+308,Guinea,West Africa,2018,M,"Widowed, divorced, separated",... if she refuses to have sex with him,37.6
+385,Kenya,East Africa,2014,F,Married or living together,... for at least one specific reason,43.6
+385,Kenya,East Africa,2014,F,Never married,... for at least one specific reason,38.2
+385,Kenya,East Africa,2014,F,"Widowed, divorced, separated",... for at least one specific reason,41.5
+105,Kenya,East Africa,2014,F,Married or living together,... if she argues with him,23.3
+105,Kenya,East Africa,2014,F,Never married,... if she argues with him,16.9
+105,Kenya,East Africa,2014,F,"Widowed, divorced, separated",... if she argues with him,19.3
+35,Kenya,East Africa,2014,F,Married or living together,... if she burns the food,7.2
+35,Kenya,East Africa,2014,F,Never married,... if she burns the food,6.4
+35,Kenya,East Africa,2014,F,"Widowed, divorced, separated",... if she burns the food,7.9
+175,Kenya,East Africa,2014,F,Married or living together,... if she goes out without telling him,23.5
+175,Kenya,East Africa,2014,F,Never married,... if she goes out without telling him,18.2
+175,Kenya,East Africa,2014,F,"Widowed, divorced, separated",... if she goes out without telling him,21.8
+245,Kenya,East Africa,2014,F,Married or living together,... if she neglects the children,34.6
+245,Kenya,East Africa,2014,F,Never married,... if she neglects the children,30.1
+245,Kenya,East Africa,2014,F,"Widowed, divorced, separated",... if she neglects the children,34.6
+315,Kenya,East Africa,2014,F,Married or living together,... if she refuses to have sex with him,17.3
+315,Kenya,East Africa,2014,F,Never married,... if she refuses to have sex with him,9.6
+315,Kenya,East Africa,2014,F,"Widowed, divorced, separated",... if she refuses to have sex with him,17.5
+385,Kenya,East Africa,2014,M,Married or living together,... for at least one specific reason,35.6
+385,Kenya,East Africa,2014,M,Never married,... for at least one specific reason,37.0
+385,Kenya,East Africa,2014,M,"Widowed, divorced, separated",... for at least one specific reason,38.9
+105,Kenya,East Africa,2014,M,Married or living together,... if she argues with him,21.4
+105,Kenya,East Africa,2014,M,Never married,... if she argues with him,19.6
+105,Kenya,East Africa,2014,M,"Widowed, divorced, separated",... if she argues with him,20.0
+35,Kenya,East Africa,2014,M,Married or living together,... if she burns the food,3.9
+35,Kenya,East Africa,2014,M,Never married,... if she burns the food,5.4
+35,Kenya,East Africa,2014,M,"Widowed, divorced, separated",... if she burns the food,3.4
+175,Kenya,East Africa,2014,M,Married or living together,... if she goes out without telling him,19.0
+175,Kenya,East Africa,2014,M,Never married,... if she goes out without telling him,17.6
+175,Kenya,East Africa,2014,M,"Widowed, divorced, separated",... if she goes out without telling him,22.1
+245,Kenya,East Africa,2014,M,Married or living together,... if she neglects the children,27.5
+245,Kenya,East Africa,2014,M,Never married,... if she neglects the children,27.0
+245,Kenya,East Africa,2014,M,"Widowed, divorced, separated",... if she neglects the children,29.2
+315,Kenya,East Africa,2014,M,Married or living together,... if she refuses to have sex with him,9.6
+315,Kenya,East Africa,2014,M,Never married,... if she refuses to have sex with him,10.1
+315,Kenya,East Africa,2014,M,"Widowed, divorced, separated",... if she refuses to have sex with him,10.1
+387,Lesotho,Southern Africa,2014,F,Married or living together,... for at least one specific reason,32.1
+387,Lesotho,Southern Africa,2014,F,Never married,... for at least one specific reason,37.3
+387,Lesotho,Southern Africa,2014,F,"Widowed, divorced, separated",... for at least one specific reason,28.0
+107,Lesotho,Southern Africa,2014,F,Married or living together,... if she argues with him,24.1
+107,Lesotho,Southern Africa,2014,F,Never married,... if she argues with him,26.8
+107,Lesotho,Southern Africa,2014,F,"Widowed, divorced, separated",... if she argues with him,20.6
+37,Lesotho,Southern Africa,2014,F,Married or living together,... if she burns the food,6.0
+37,Lesotho,Southern Africa,2014,F,Never married,... if she burns the food,8.3
+37,Lesotho,Southern Africa,2014,F,"Widowed, divorced, separated",... if she burns the food,2.8
+177,Lesotho,Southern Africa,2014,F,Married or living together,... if she goes out without telling him,11.1
+177,Lesotho,Southern Africa,2014,F,Never married,... if she goes out without telling him,11.1
+177,Lesotho,Southern Africa,2014,F,"Widowed, divorced, separated",... if she goes out without telling him,7.9
+247,Lesotho,Southern Africa,2014,F,Married or living together,... if she neglects the children,20.5
+247,Lesotho,Southern Africa,2014,F,Never married,... if she neglects the children,25.1
+247,Lesotho,Southern Africa,2014,F,"Widowed, divorced, separated",... if she neglects the children,20.1
+317,Lesotho,Southern Africa,2014,F,Married or living together,... if she refuses to have sex with him,10.9
+317,Lesotho,Southern Africa,2014,F,Never married,... if she refuses to have sex with him,7.3
+317,Lesotho,Southern Africa,2014,F,"Widowed, divorced, separated",... if she refuses to have sex with him,8.7
+387,Lesotho,Southern Africa,2014,M,Married or living together,... for at least one specific reason,34.4
+387,Lesotho,Southern Africa,2014,M,Never married,... for at least one specific reason,43.6
+387,Lesotho,Southern Africa,2014,M,"Widowed, divorced, separated",... for at least one specific reason,33.7
+107,Lesotho,Southern Africa,2014,M,Married or living together,... if she argues with him,24.3
+107,Lesotho,Southern Africa,2014,M,Never married,... if she argues with him,27.3
+107,Lesotho,Southern Africa,2014,M,"Widowed, divorced, separated",... if she argues with him,21.6
+37,Lesotho,Southern Africa,2014,M,Married or living together,... if she burns the food,5.2
+37,Lesotho,Southern Africa,2014,M,Never married,... if she burns the food,7.2
+37,Lesotho,Southern Africa,2014,M,"Widowed, divorced, separated",... if she burns the food,5.8
+177,Lesotho,Southern Africa,2014,M,Married or living together,... if she goes out without telling him,16.9
+177,Lesotho,Southern Africa,2014,M,Never married,... if she goes out without telling him,15.3
+177,Lesotho,Southern Africa,2014,M,"Widowed, divorced, separated",... if she goes out without telling him,11.5
+247,Lesotho,Southern Africa,2014,M,Married or living together,... if she neglects the children,22.7
+247,Lesotho,Southern Africa,2014,M,Never married,... if she neglects the children,29.6
+247,Lesotho,Southern Africa,2014,M,"Widowed, divorced, separated",... if she neglects the children,15.8
+317,Lesotho,Southern Africa,2014,M,Married or living together,... if she refuses to have sex with him,9.4
+317,Lesotho,Southern Africa,2014,M,Never married,... if she refuses to have sex with him,9.2
+317,Lesotho,Southern Africa,2014,M,"Widowed, divorced, separated",... if she refuses to have sex with him,8.2
+388,Liberia,West Africa,2013,F,Married or living together,... for at least one specific reason,43.5
+388,Liberia,West Africa,2013,F,Never married,... for at least one specific reason,41.6
+388,Liberia,West Africa,2013,F,"Widowed, divorced, separated",... for at least one specific reason,39.5
+108,Liberia,West Africa,2013,F,Married or living together,... if she argues with him,34.0
+108,Liberia,West Africa,2013,F,Never married,... if she argues with him,32.4
+108,Liberia,West Africa,2013,F,"Widowed, divorced, separated",... if she argues with him,30.6
+38,Liberia,West Africa,2013,F,Married or living together,... if she burns the food,7.6
+38,Liberia,West Africa,2013,F,Never married,... if she burns the food,7.6
+38,Liberia,West Africa,2013,F,"Widowed, divorced, separated",... if she burns the food,5.8
+178,Liberia,West Africa,2013,F,Married or living together,... if she goes out without telling him,30.0
+178,Liberia,West Africa,2013,F,Never married,... if she goes out without telling him,26.5
+178,Liberia,West Africa,2013,F,"Widowed, divorced, separated",... if she goes out without telling him,25.7
+248,Liberia,West Africa,2013,F,Married or living together,... if she neglects the children,33.5
+248,Liberia,West Africa,2013,F,Never married,... if she neglects the children,31.3
+248,Liberia,West Africa,2013,F,"Widowed, divorced, separated",... if she neglects the children,27.9
+318,Liberia,West Africa,2013,F,Married or living together,... if she refuses to have sex with him,11.8
+318,Liberia,West Africa,2013,F,Never married,... if she refuses to have sex with him,8.7
+318,Liberia,West Africa,2013,F,"Widowed, divorced, separated",... if she refuses to have sex with him,10.9
+388,Liberia,West Africa,2013,M,Married or living together,... for at least one specific reason,21.1
+388,Liberia,West Africa,2013,M,Never married,... for at least one specific reason,28.0
+388,Liberia,West Africa,2013,M,"Widowed, divorced, separated",... for at least one specific reason,26.5
+108,Liberia,West Africa,2013,M,Married or living together,... if she argues with him,15.3
+108,Liberia,West Africa,2013,M,Never married,... if she argues with him,21.5
+108,Liberia,West Africa,2013,M,"Widowed, divorced, separated",... if she argues with him,19.5
+38,Liberia,West Africa,2013,M,Married or living together,... if she burns the food,1.5
+38,Liberia,West Africa,2013,M,Never married,... if she burns the food,4.0
+38,Liberia,West Africa,2013,M,"Widowed, divorced, separated",... if she burns the food,3.2
+178,Liberia,West Africa,2013,M,Married or living together,... if she goes out without telling him,11.9
+178,Liberia,West Africa,2013,M,Never married,... if she goes out without telling him,16.6
+178,Liberia,West Africa,2013,M,"Widowed, divorced, separated",... if she goes out without telling him,14.7
+248,Liberia,West Africa,2013,M,Married or living together,... if she neglects the children,12.1
+248,Liberia,West Africa,2013,M,Never married,... if she neglects the children,17.5
+248,Liberia,West Africa,2013,M,"Widowed, divorced, separated",... if she neglects the children,17.3
+318,Liberia,West Africa,2013,M,Married or living together,... if she refuses to have sex with him,3.2
+318,Liberia,West Africa,2013,M,Never married,... if she refuses to have sex with him,5.5
+318,Liberia,West Africa,2013,M,"Widowed, divorced, separated",... if she refuses to have sex with him,0.9
+389,Madagascar,East Africa,2008,F,Married or living together,... for at least one specific reason,32.3
+389,Madagascar,East Africa,2008,F,Never married,... for at least one specific reason,33.6
+389,Madagascar,East Africa,2008,F,"Widowed, divorced, separated",... for at least one specific reason,30.7
+109,Madagascar,East Africa,2008,F,Married or living together,... if she argues with him,6.1
+109,Madagascar,East Africa,2008,F,Never married,... if she argues with him,5.5
+109,Madagascar,East Africa,2008,F,"Widowed, divorced, separated",... if she argues with him,6.2
+39,Madagascar,East Africa,2008,F,Married or living together,... if she burns the food,7.1
+39,Madagascar,East Africa,2008,F,Never married,... if she burns the food,7.7
+39,Madagascar,East Africa,2008,F,"Widowed, divorced, separated",... if she burns the food,7.7
+179,Madagascar,East Africa,2008,F,Married or living together,... if she goes out without telling him,19.3
+179,Madagascar,East Africa,2008,F,Never married,... if she goes out without telling him,19.8
+179,Madagascar,East Africa,2008,F,"Widowed, divorced, separated",... if she goes out without telling him,18.1
+249,Madagascar,East Africa,2008,F,Married or living together,... if she neglects the children,28.2
+249,Madagascar,East Africa,2008,F,Never married,... if she neglects the children,29.2
+249,Madagascar,East Africa,2008,F,"Widowed, divorced, separated",... if she neglects the children,26.6
+319,Madagascar,East Africa,2008,F,Married or living together,... if she refuses to have sex with him,9.4
+319,Madagascar,East Africa,2008,F,Never married,... if she refuses to have sex with him,7.9
+319,Madagascar,East Africa,2008,F,"Widowed, divorced, separated",... if she refuses to have sex with him,10.0
+389,Madagascar,East Africa,2008,M,Married or living together,... for at least one specific reason,28.8
+389,Madagascar,East Africa,2008,M,Never married,... for at least one specific reason,32.7
+389,Madagascar,East Africa,2008,M,"Widowed, divorced, separated",... for at least one specific reason,30.6
+109,Madagascar,East Africa,2008,M,Married or living together,... if she argues with him,8.7
+109,Madagascar,East Africa,2008,M,Never married,... if she argues with him,9.2
+109,Madagascar,East Africa,2008,M,"Widowed, divorced, separated",... if she argues with him,10.1
+39,Madagascar,East Africa,2008,M,Married or living together,... if she burns the food,5.8
+39,Madagascar,East Africa,2008,M,Never married,... if she burns the food,7.5
+39,Madagascar,East Africa,2008,M,"Widowed, divorced, separated",... if she burns the food,7.4
+179,Madagascar,East Africa,2008,M,Married or living together,... if she goes out without telling him,18.4
+179,Madagascar,East Africa,2008,M,Never married,... if she goes out without telling him,20.1
+179,Madagascar,East Africa,2008,M,"Widowed, divorced, separated",... if she goes out without telling him,18.3
+249,Madagascar,East Africa,2008,M,Married or living together,... if she neglects the children,23.5
+249,Madagascar,East Africa,2008,M,Never married,... if she neglects the children,25.8
+249,Madagascar,East Africa,2008,M,"Widowed, divorced, separated",... if she neglects the children,23.4
+319,Madagascar,East Africa,2008,M,Married or living together,... if she refuses to have sex with him,7.4
+319,Madagascar,East Africa,2008,M,Never married,... if she refuses to have sex with him,9.0
+319,Madagascar,East Africa,2008,M,"Widowed, divorced, separated",... if she refuses to have sex with him,11.4
+390,Malawi,Southern Africa,2015,F,Married or living together,... for at least one specific reason,16.0
+390,Malawi,Southern Africa,2015,F,Never married,... for at least one specific reason,17.9
+390,Malawi,Southern Africa,2015,F,"Widowed, divorced, separated",... for at least one specific reason,15.1
+110,Malawi,Southern Africa,2015,F,Married or living together,... if she argues with him,6.9
+110,Malawi,Southern Africa,2015,F,Never married,... if she argues with him,7.2
+110,Malawi,Southern Africa,2015,F,"Widowed, divorced, separated",... if she argues with him,5.3
+40,Malawi,Southern Africa,2015,F,Married or living together,... if she burns the food,5.2
+40,Malawi,Southern Africa,2015,F,Never married,... if she burns the food,6.6
+40,Malawi,Southern Africa,2015,F,"Widowed, divorced, separated",... if she burns the food,5.5
+180,Malawi,Southern Africa,2015,F,Married or living together,... if she goes out without telling him,7.1
+180,Malawi,Southern Africa,2015,F,Never married,... if she goes out without telling him,7.3
+180,Malawi,Southern Africa,2015,F,"Widowed, divorced, separated",... if she goes out without telling him,5.2
+250,Malawi,Southern Africa,2015,F,Married or living together,... if she neglects the children,8.5
+250,Malawi,Southern Africa,2015,F,Never married,... if she neglects the children,10.0
+250,Malawi,Southern Africa,2015,F,"Widowed, divorced, separated",... if she neglects the children,8.4
+320,Malawi,Southern Africa,2015,F,Married or living together,... if she refuses to have sex with him,8.6
+320,Malawi,Southern Africa,2015,F,Never married,... if she refuses to have sex with him,7.3
+320,Malawi,Southern Africa,2015,F,"Widowed, divorced, separated",... if she refuses to have sex with him,8.5
+390,Malawi,Southern Africa,2015,M,Married or living together,... for at least one specific reason,8.2
+390,Malawi,Southern Africa,2015,M,Never married,... for at least one specific reason,20.0
+390,Malawi,Southern Africa,2015,M,"Widowed, divorced, separated",... for at least one specific reason,10.6
+110,Malawi,Southern Africa,2015,M,Married or living together,... if she argues with him,2.8
+110,Malawi,Southern Africa,2015,M,Never married,... if she argues with him,8.8
+110,Malawi,Southern Africa,2015,M,"Widowed, divorced, separated",... if she argues with him,4.7
+40,Malawi,Southern Africa,2015,M,Married or living together,... if she burns the food,1.3
+40,Malawi,Southern Africa,2015,M,Never married,... if she burns the food,3.6
+40,Malawi,Southern Africa,2015,M,"Widowed, divorced, separated",... if she burns the food,2.5
+180,Malawi,Southern Africa,2015,M,Married or living together,... if she goes out without telling him,3.0
+180,Malawi,Southern Africa,2015,M,Never married,... if she goes out without telling him,7.5
+180,Malawi,Southern Africa,2015,M,"Widowed, divorced, separated",... if she goes out without telling him,2.4
+250,Malawi,Southern Africa,2015,M,Married or living together,... if she neglects the children,3.5
+250,Malawi,Southern Africa,2015,M,Never married,... if she neglects the children,10.7
+250,Malawi,Southern Africa,2015,M,"Widowed, divorced, separated",... if she neglects the children,3.1
+320,Malawi,Southern Africa,2015,M,Married or living together,... if she refuses to have sex with him,3.3
+320,Malawi,Southern Africa,2015,M,Never married,... if she refuses to have sex with him,7.1
+320,Malawi,Southern Africa,2015,M,"Widowed, divorced, separated",... if she refuses to have sex with him,3.5
+392,Mali,West Africa,2018,F,Married or living together,... for at least one specific reason,82.1
+392,Mali,West Africa,2018,F,Never married,... for at least one specific reason,67.4
+392,Mali,West Africa,2018,F,"Widowed, divorced, separated",... for at least one specific reason,69.7
+112,Mali,West Africa,2018,F,Married or living together,... if she argues with him,71.0
+112,Mali,West Africa,2018,F,Never married,... if she argues with him,57.7
+112,Mali,West Africa,2018,F,"Widowed, divorced, separated",... if she argues with him,55.1
+42,Mali,West Africa,2018,F,Married or living together,... if she burns the food,23.8
+42,Mali,West Africa,2018,F,Never married,... if she burns the food,17.3
+42,Mali,West Africa,2018,F,"Widowed, divorced, separated",... if she burns the food,18.7
+182,Mali,West Africa,2018,F,Married or living together,... if she goes out without telling him,56.4
+182,Mali,West Africa,2018,F,Never married,... if she goes out without telling him,42.3
+182,Mali,West Africa,2018,F,"Widowed, divorced, separated",... if she goes out without telling him,42.2
+252,Mali,West Africa,2018,F,Married or living together,... if she neglects the children,54.2
+252,Mali,West Africa,2018,F,Never married,... if she neglects the children,40.1
+252,Mali,West Africa,2018,F,"Widowed, divorced, separated",... if she neglects the children,44.1
+322,Mali,West Africa,2018,F,Married or living together,... if she refuses to have sex with him,66.1
+322,Mali,West Africa,2018,F,Never married,... if she refuses to have sex with him,48.0
+322,Mali,West Africa,2018,F,"Widowed, divorced, separated",... if she refuses to have sex with him,52.0
+392,Mali,West Africa,2018,M,Married or living together,... for at least one specific reason,45.5
+392,Mali,West Africa,2018,M,Never married,... for at least one specific reason,49.5
+392,Mali,West Africa,2018,M,"Widowed, divorced, separated",... for at least one specific reason,36.2
+112,Mali,West Africa,2018,M,Married or living together,... if she argues with him,36.2
+112,Mali,West Africa,2018,M,Never married,... if she argues with him,42.0
+112,Mali,West Africa,2018,M,"Widowed, divorced, separated",... if she argues with him,31.5
+42,Mali,West Africa,2018,M,Married or living together,... if she burns the food,10.3
+42,Mali,West Africa,2018,M,Never married,... if she burns the food,13.0
+42,Mali,West Africa,2018,M,"Widowed, divorced, separated",... if she burns the food,11.8
+182,Mali,West Africa,2018,M,Married or living together,... if she goes out without telling him,21.3
+182,Mali,West Africa,2018,M,Never married,... if she goes out without telling him,23.3
+182,Mali,West Africa,2018,M,"Widowed, divorced, separated",... if she goes out without telling him,10.0
+252,Mali,West Africa,2018,M,Married or living together,... if she neglects the children,24.8
+252,Mali,West Africa,2018,M,Never married,... if she neglects the children,26.0
+252,Mali,West Africa,2018,M,"Widowed, divorced, separated",... if she neglects the children,11.1
+322,Mali,West Africa,2018,M,Married or living together,... if she refuses to have sex with him,23.0
+322,Mali,West Africa,2018,M,Never married,... if she refuses to have sex with him,25.1
+322,Mali,West Africa,2018,M,"Widowed, divorced, separated",... if she refuses to have sex with him,25.7
+394,Morocco,North Africa,2003,F,Married or living together,... for at least one specific reason,68.3
+394,Morocco,North Africa,2003,F,Never married,... for at least one specific reason,58.2
+394,Morocco,North Africa,2003,F,"Widowed, divorced, separated",... for at least one specific reason,64.9
+114,Morocco,North Africa,2003,F,Married or living together,... if she argues with him,55.9
+114,Morocco,North Africa,2003,F,Never married,... if she argues with him,44.1
+114,Morocco,North Africa,2003,F,"Widowed, divorced, separated",... if she argues with him,53.3
+44,Morocco,North Africa,2003,F,Married or living together,... if she burns the food,25.7
+44,Morocco,North Africa,2003,F,Never married,... if she burns the food,20.4
+44,Morocco,North Africa,2003,F,"Widowed, divorced, separated",... if she burns the food,28.9
+184,Morocco,North Africa,2003,F,Married or living together,... if she goes out without telling him,55.0
+184,Morocco,North Africa,2003,F,Never married,... if she goes out without telling him,42.2
+184,Morocco,North Africa,2003,F,"Widowed, divorced, separated",... if she goes out without telling him,54.0
+254,Morocco,North Africa,2003,F,Married or living together,... if she neglects the children,53.4
+254,Morocco,North Africa,2003,F,Never married,... if she neglects the children,44.1
+254,Morocco,North Africa,2003,F,"Widowed, divorced, separated",... if she neglects the children,51.6
+324,Morocco,North Africa,2003,F,Married or living together,... if she refuses to have sex with him,48.5
+324,Morocco,North Africa,2003,F,Never married,... if she refuses to have sex with him,34.6
+324,Morocco,North Africa,2003,F,"Widowed, divorced, separated",... if she refuses to have sex with him,51.3
+394,Morocco,North Africa,2003,M,Married or living together,... for at least one specific reason,
+394,Morocco,North Africa,2003,M,Never married,... for at least one specific reason,
+394,Morocco,North Africa,2003,M,"Widowed, divorced, separated",... for at least one specific reason,
+114,Morocco,North Africa,2003,M,Married or living together,... if she argues with him,
+114,Morocco,North Africa,2003,M,Never married,... if she argues with him,
+114,Morocco,North Africa,2003,M,"Widowed, divorced, separated",... if she argues with him,
+44,Morocco,North Africa,2003,M,Married or living together,... if she burns the food,
+44,Morocco,North Africa,2003,M,Never married,... if she burns the food,
+44,Morocco,North Africa,2003,M,"Widowed, divorced, separated",... if she burns the food,
+184,Morocco,North Africa,2003,M,Married or living together,... if she goes out without telling him,
+184,Morocco,North Africa,2003,M,Never married,... if she goes out without telling him,
+184,Morocco,North Africa,2003,M,"Widowed, divorced, separated",... if she goes out without telling him,
+254,Morocco,North Africa,2003,M,Married or living together,... if she neglects the children,
+254,Morocco,North Africa,2003,M,Never married,... if she neglects the children,
+254,Morocco,North Africa,2003,M,"Widowed, divorced, separated",... if she neglects the children,
+324,Morocco,North Africa,2003,M,Married or living together,... if she refuses to have sex with him,
+324,Morocco,North Africa,2003,M,Never married,... if she refuses to have sex with him,
+324,Morocco,North Africa,2003,M,"Widowed, divorced, separated",... if she refuses to have sex with him,
+395,Mozambique,Southern Africa,2015,F,Married or living together,... for at least one specific reason,13.1
+395,Mozambique,Southern Africa,2015,F,Never married,... for at least one specific reason,12.3
+395,Mozambique,Southern Africa,2015,F,"Widowed, divorced, separated",... for at least one specific reason,14.6
+115,Mozambique,Southern Africa,2015,F,Married or living together,... if she argues with him,6.6
+115,Mozambique,Southern Africa,2015,F,Never married,... if she argues with him,5.7
+115,Mozambique,Southern Africa,2015,F,"Widowed, divorced, separated",... if she argues with him,7.4
+45,Mozambique,Southern Africa,2015,F,Married or living together,... if she burns the food,2.2
+45,Mozambique,Southern Africa,2015,F,Never married,... if she burns the food,2.2
+45,Mozambique,Southern Africa,2015,F,"Widowed, divorced, separated",... if she burns the food,3.2
+185,Mozambique,Southern Africa,2015,F,Married or living together,... if she goes out without telling him,7.7
+185,Mozambique,Southern Africa,2015,F,Never married,... if she goes out without telling him,5.6
+185,Mozambique,Southern Africa,2015,F,"Widowed, divorced, separated",... if she goes out without telling him,8.4
+255,Mozambique,Southern Africa,2015,F,Married or living together,... if she neglects the children,4.0
+255,Mozambique,Southern Africa,2015,F,Never married,... if she neglects the children,5.0
+255,Mozambique,Southern Africa,2015,F,"Widowed, divorced, separated",... if she neglects the children,4.5
+325,Mozambique,Southern Africa,2015,F,Married or living together,... if she refuses to have sex with him,5.5
+325,Mozambique,Southern Africa,2015,F,Never married,... if she refuses to have sex with him,3.7
+325,Mozambique,Southern Africa,2015,F,"Widowed, divorced, separated",... if she refuses to have sex with him,6.4
+395,Mozambique,Southern Africa,2015,M,Married or living together,... for at least one specific reason,16.5
+395,Mozambique,Southern Africa,2015,M,Never married,... for at least one specific reason,16.9
+395,Mozambique,Southern Africa,2015,M,"Widowed, divorced, separated",... for at least one specific reason,16.2
+115,Mozambique,Southern Africa,2015,M,Married or living together,... if she argues with him,8.5
+115,Mozambique,Southern Africa,2015,M,Never married,... if she argues with him,8.9
+115,Mozambique,Southern Africa,2015,M,"Widowed, divorced, separated",... if she argues with him,8.4
+45,Mozambique,Southern Africa,2015,M,Married or living together,... if she burns the food,5.4
+45,Mozambique,Southern Africa,2015,M,Never married,... if she burns the food,5.6
+45,Mozambique,Southern Africa,2015,M,"Widowed, divorced, separated",... if she burns the food,6.3
+185,Mozambique,Southern Africa,2015,M,Married or living together,... if she goes out without telling him,7.2
+185,Mozambique,Southern Africa,2015,M,Never married,... if she goes out without telling him,8.8
+185,Mozambique,Southern Africa,2015,M,"Widowed, divorced, separated",... if she goes out without telling him,6.5
+255,Mozambique,Southern Africa,2015,M,Married or living together,... if she neglects the children,6.9
+255,Mozambique,Southern Africa,2015,M,Never married,... if she neglects the children,8.7
+255,Mozambique,Southern Africa,2015,M,"Widowed, divorced, separated",... if she neglects the children,6.9
+325,Mozambique,Southern Africa,2015,M,Married or living together,... if she refuses to have sex with him,6.2
+325,Mozambique,Southern Africa,2015,M,Never married,... if she refuses to have sex with him,7.5
+325,Mozambique,Southern Africa,2015,M,"Widowed, divorced, separated",... if she refuses to have sex with him,7.7
+397,Namibia,Southern Africa,2013,F,Married or living together,... for at least one specific reason,30.1
+397,Namibia,Southern Africa,2013,F,Never married,... for at least one specific reason,26.3
+397,Namibia,Southern Africa,2013,F,"Widowed, divorced, separated",... for at least one specific reason,36.5
+117,Namibia,Southern Africa,2013,F,Married or living together,... if she argues with him,14.9
+117,Namibia,Southern Africa,2013,F,Never married,... if she argues with him,9.0
+117,Namibia,Southern Africa,2013,F,"Widowed, divorced, separated",... if she argues with him,16.8
+47,Namibia,Southern Africa,2013,F,Married or living together,... if she burns the food,12.0
+47,Namibia,Southern Africa,2013,F,Never married,... if she burns the food,8.6
+47,Namibia,Southern Africa,2013,F,"Widowed, divorced, separated",... if she burns the food,12.7
+187,Namibia,Southern Africa,2013,F,Married or living together,... if she goes out without telling him,15.6
+187,Namibia,Southern Africa,2013,F,Never married,... if she goes out without telling him,10.5
+187,Namibia,Southern Africa,2013,F,"Widowed, divorced, separated",... if she goes out without telling him,21.1
+257,Namibia,Southern Africa,2013,F,Married or living together,... if she neglects the children,21.2
+257,Namibia,Southern Africa,2013,F,Never married,... if she neglects the children,18.4
+257,Namibia,Southern Africa,2013,F,"Widowed, divorced, separated",... if she neglects the children,26.5
+327,Namibia,Southern Africa,2013,F,Married or living together,... if she refuses to have sex with him,10.7
+327,Namibia,Southern Africa,2013,F,Never married,... if she refuses to have sex with him,5.6
+327,Namibia,Southern Africa,2013,F,"Widowed, divorced, separated",... if she refuses to have sex with him,13.2
+397,Namibia,Southern Africa,2013,M,Married or living together,... for at least one specific reason,14.5
+397,Namibia,Southern Africa,2013,M,Never married,... for at least one specific reason,25.0
+397,Namibia,Southern Africa,2013,M,"Widowed, divorced, separated",... for at least one specific reason,23.0
+117,Namibia,Southern Africa,2013,M,Married or living together,... if she argues with him,5.0
+117,Namibia,Southern Africa,2013,M,Never married,... if she argues with him,11.1
+117,Namibia,Southern Africa,2013,M,"Widowed, divorced, separated",... if she argues with him,10.0
+47,Namibia,Southern Africa,2013,M,Married or living together,... if she burns the food,2.1
+47,Namibia,Southern Africa,2013,M,Never married,... if she burns the food,5.5
+47,Namibia,Southern Africa,2013,M,"Widowed, divorced, separated",... if she burns the food,7.0
+187,Namibia,Southern Africa,2013,M,Married or living together,... if she goes out without telling him,6.5
+187,Namibia,Southern Africa,2013,M,Never married,... if she goes out without telling him,11.2
+187,Namibia,Southern Africa,2013,M,"Widowed, divorced, separated",... if she goes out without telling him,5.7
+257,Namibia,Southern Africa,2013,M,Married or living together,... if she neglects the children,10.0
+257,Namibia,Southern Africa,2013,M,Never married,... if she neglects the children,16.1
+257,Namibia,Southern Africa,2013,M,"Widowed, divorced, separated",... if she neglects the children,15.0
+327,Namibia,Southern Africa,2013,M,Married or living together,... if she refuses to have sex with him,1.2
+327,Namibia,Southern Africa,2013,M,Never married,... if she refuses to have sex with him,3.6
+327,Namibia,Southern Africa,2013,M,"Widowed, divorced, separated",... if she refuses to have sex with him,3.0
+400,Niger,West Africa,2012,F,Married or living together,... for at least one specific reason,61.0
+400,Niger,West Africa,2012,F,Never married,... for at least one specific reason,46.1
+400,Niger,West Africa,2012,F,"Widowed, divorced, separated",... for at least one specific reason,54.0
+120,Niger,West Africa,2012,F,Married or living together,... if she argues with him,51.8
+120,Niger,West Africa,2012,F,Never married,... if she argues with him,37.9
+120,Niger,West Africa,2012,F,"Widowed, divorced, separated",... if she argues with him,42.3
+50,Niger,West Africa,2012,F,Married or living together,... if she burns the food,36.0
+50,Niger,West Africa,2012,F,Never married,... if she burns the food,23.0
+50,Niger,West Africa,2012,F,"Widowed, divorced, separated",... if she burns the food,25.5
+190,Niger,West Africa,2012,F,Married or living together,... if she goes out without telling him,44.1
+190,Niger,West Africa,2012,F,Never married,... if she goes out without telling him,29.8
+190,Niger,West Africa,2012,F,"Widowed, divorced, separated",... if she goes out without telling him,37.6
+260,Niger,West Africa,2012,F,Married or living together,... if she neglects the children,43.4
+260,Niger,West Africa,2012,F,Never married,... if she neglects the children,29.6
+260,Niger,West Africa,2012,F,"Widowed, divorced, separated",... if she neglects the children,33.7
+330,Niger,West Africa,2012,F,Married or living together,... if she refuses to have sex with him,52.0
+330,Niger,West Africa,2012,F,Never married,... if she refuses to have sex with him,31.0
+330,Niger,West Africa,2012,F,"Widowed, divorced, separated",... if she refuses to have sex with him,44.1
+400,Niger,West Africa,2012,M,Married or living together,... for at least one specific reason,22.0
+400,Niger,West Africa,2012,M,Never married,... for at least one specific reason,36.4
+400,Niger,West Africa,2012,M,"Widowed, divorced, separated",... for at least one specific reason,28.4
+120,Niger,West Africa,2012,M,Married or living together,... if she argues with him,15.7
+120,Niger,West Africa,2012,M,Never married,... if she argues with him,27.8
+120,Niger,West Africa,2012,M,"Widowed, divorced, separated",... if she argues with him,18.6
+50,Niger,West Africa,2012,M,Married or living together,... if she burns the food,6.9
+50,Niger,West Africa,2012,M,Never married,... if she burns the food,13.1
+50,Niger,West Africa,2012,M,"Widowed, divorced, separated",... if she burns the food,14.9
+190,Niger,West Africa,2012,M,Married or living together,... if she goes out without telling him,12.5
+190,Niger,West Africa,2012,M,Never married,... if she goes out without telling him,22.0
+190,Niger,West Africa,2012,M,"Widowed, divorced, separated",... if she goes out without telling him,24.4
+260,Niger,West Africa,2012,M,Married or living together,... if she neglects the children,12.0
+260,Niger,West Africa,2012,M,Never married,... if she neglects the children,22.5
+260,Niger,West Africa,2012,M,"Widowed, divorced, separated",... if she neglects the children,16.2
+330,Niger,West Africa,2012,M,Married or living together,... if she refuses to have sex with him,11.2
+330,Niger,West Africa,2012,M,Never married,... if she refuses to have sex with him,18.7
+330,Niger,West Africa,2012,M,"Widowed, divorced, separated",... if she refuses to have sex with him,19.4
+401,Nigeria,West Africa,2013,F,Married or living together,... for at least one specific reason,36.8
+401,Nigeria,West Africa,2013,F,Never married,... for at least one specific reason,28.7
+401,Nigeria,West Africa,2013,F,"Widowed, divorced, separated",... for at least one specific reason,34.4
+121,Nigeria,West Africa,2013,F,Married or living together,... if she argues with him,22.8
+121,Nigeria,West Africa,2013,F,Never married,... if she argues with him,16.9
+121,Nigeria,West Africa,2013,F,"Widowed, divorced, separated",... if she argues with him,22.2
+51,Nigeria,West Africa,2013,F,Married or living together,... if she burns the food,15.8
+51,Nigeria,West Africa,2013,F,Never married,... if she burns the food,9.2
+51,Nigeria,West Africa,2013,F,"Widowed, divorced, separated",... if she burns the food,15.0
+191,Nigeria,West Africa,2013,F,Married or living together,... if she goes out without telling him,27.7
+191,Nigeria,West Africa,2013,F,Never married,... if she goes out without telling him,18.3
+191,Nigeria,West Africa,2013,F,"Widowed, divorced, separated",... if she goes out without telling him,24.4
+261,Nigeria,West Africa,2013,F,Married or living together,... if she neglects the children,25.7
+261,Nigeria,West Africa,2013,F,Never married,... if she neglects the children,21.0
+261,Nigeria,West Africa,2013,F,"Widowed, divorced, separated",... if she neglects the children,26.0
+331,Nigeria,West Africa,2013,F,Married or living together,... if she refuses to have sex with him,21.5
+331,Nigeria,West Africa,2013,F,Never married,... if she refuses to have sex with him,10.9
+331,Nigeria,West Africa,2013,F,"Widowed, divorced, separated",... if she refuses to have sex with him,17.4
+401,Nigeria,West Africa,2013,M,Married or living together,... for at least one specific reason,23.2
+401,Nigeria,West Africa,2013,M,Never married,... for at least one specific reason,26.0
+401,Nigeria,West Africa,2013,M,"Widowed, divorced, separated",... for at least one specific reason,32.4
+121,Nigeria,West Africa,2013,M,Married or living together,... if she argues with him,12.8
+121,Nigeria,West Africa,2013,M,Never married,... if she argues with him,13.3
+121,Nigeria,West Africa,2013,M,"Widowed, divorced, separated",... if she argues with him,16.3
+51,Nigeria,West Africa,2013,M,Married or living together,... if she burns the food,7.4
+51,Nigeria,West Africa,2013,M,Never married,... if she burns the food,8.3
+51,Nigeria,West Africa,2013,M,"Widowed, divorced, separated",... if she burns the food,9.3
+191,Nigeria,West Africa,2013,M,Married or living together,... if she goes out without telling him,12.6
+191,Nigeria,West Africa,2013,M,Never married,... if she goes out without telling him,13.8
+191,Nigeria,West Africa,2013,M,"Widowed, divorced, separated",... if she goes out without telling him,20.1
+261,Nigeria,West Africa,2013,M,Married or living together,... if she neglects the children,12.7
+261,Nigeria,West Africa,2013,M,Never married,... if she neglects the children,14.8
+261,Nigeria,West Africa,2013,M,"Widowed, divorced, separated",... if she neglects the children,20.2
+331,Nigeria,West Africa,2013,M,Married or living together,... if she refuses to have sex with him,11.5
+331,Nigeria,West Africa,2013,M,Never married,... if she refuses to have sex with him,10.7
+331,Nigeria,West Africa,2013,M,"Widowed, divorced, separated",... if she refuses to have sex with him,12.6
+405,Rwanda,East Africa,2014,F,Married or living together,... for at least one specific reason,39.8
+405,Rwanda,East Africa,2014,F,Never married,... for at least one specific reason,42.9
+405,Rwanda,East Africa,2014,F,"Widowed, divorced, separated",... for at least one specific reason,43.8
+125,Rwanda,East Africa,2014,F,Married or living together,... if she argues with him,19.4
+125,Rwanda,East Africa,2014,F,Never married,... if she argues with him,20.9
+125,Rwanda,East Africa,2014,F,"Widowed, divorced, separated",... if she argues with him,23.6
+55,Rwanda,East Africa,2014,F,Married or living together,... if she burns the food,7.2
+55,Rwanda,East Africa,2014,F,Never married,... if she burns the food,10.0
+55,Rwanda,East Africa,2014,F,"Widowed, divorced, separated",... if she burns the food,13.1
+195,Rwanda,East Africa,2014,F,Married or living together,... if she goes out without telling him,20.5
+195,Rwanda,East Africa,2014,F,Never married,... if she goes out without telling him,23.6
+195,Rwanda,East Africa,2014,F,"Widowed, divorced, separated",... if she goes out without telling him,26.4
+265,Rwanda,East Africa,2014,F,Married or living together,... if she neglects the children,27.8
+265,Rwanda,East Africa,2014,F,Never married,... if she neglects the children,31.0
+265,Rwanda,East Africa,2014,F,"Widowed, divorced, separated",... if she neglects the children,31.8
+335,Rwanda,East Africa,2014,F,Married or living together,... if she refuses to have sex with him,23.4
+335,Rwanda,East Africa,2014,F,Never married,... if she refuses to have sex with him,24.3
+335,Rwanda,East Africa,2014,F,"Widowed, divorced, separated",... if she refuses to have sex with him,29.7
+405,Rwanda,East Africa,2014,M,Married or living together,... for at least one specific reason,14.8
+405,Rwanda,East Africa,2014,M,Never married,... for at least one specific reason,21.0
+405,Rwanda,East Africa,2014,M,"Widowed, divorced, separated",... for at least one specific reason,19.1
+125,Rwanda,East Africa,2014,M,Married or living together,... if she argues with him,4.4
+125,Rwanda,East Africa,2014,M,Never married,... if she argues with him,6.3
+125,Rwanda,East Africa,2014,M,"Widowed, divorced, separated",... if she argues with him,9.1
+55,Rwanda,East Africa,2014,M,Married or living together,... if she burns the food,1.0
+55,Rwanda,East Africa,2014,M,Never married,... if she burns the food,2.3
+55,Rwanda,East Africa,2014,M,"Widowed, divorced, separated",... if she burns the food,3.2
+195,Rwanda,East Africa,2014,M,Married or living together,... if she goes out without telling him,6.0
+195,Rwanda,East Africa,2014,M,Never married,... if she goes out without telling him,7.9
+195,Rwanda,East Africa,2014,M,"Widowed, divorced, separated",... if she goes out without telling him,8.4
+265,Rwanda,East Africa,2014,M,Married or living together,... if she neglects the children,10.0
+265,Rwanda,East Africa,2014,M,Never married,... if she neglects the children,14.4
+265,Rwanda,East Africa,2014,M,"Widowed, divorced, separated",... if she neglects the children,14.3
+335,Rwanda,East Africa,2014,M,Married or living together,... if she refuses to have sex with him,4.7
+335,Rwanda,East Africa,2014,M,Never married,... if she refuses to have sex with him,8.6
+335,Rwanda,East Africa,2014,M,"Widowed, divorced, separated",... if she refuses to have sex with him,10.3
+406,Sao Tome and Principe,Central Africa,2008,F,Married or living together,... for at least one specific reason,19.2
+406,Sao Tome and Principe,Central Africa,2008,F,Never married,... for at least one specific reason,21.1
+406,Sao Tome and Principe,Central Africa,2008,F,"Widowed, divorced, separated",... for at least one specific reason,18.1
+126,Sao Tome and Principe,Central Africa,2008,F,Married or living together,... if she argues with him,7.0
+126,Sao Tome and Principe,Central Africa,2008,F,Never married,... if she argues with him,7.9
+126,Sao Tome and Principe,Central Africa,2008,F,"Widowed, divorced, separated",... if she argues with him,5.5
+56,Sao Tome and Principe,Central Africa,2008,F,Married or living together,... if she burns the food,6.3
+56,Sao Tome and Principe,Central Africa,2008,F,Never married,... if she burns the food,8.0
+56,Sao Tome and Principe,Central Africa,2008,F,"Widowed, divorced, separated",... if she burns the food,3.5
+196,Sao Tome and Principe,Central Africa,2008,F,Married or living together,... if she goes out without telling him,11.2
+196,Sao Tome and Principe,Central Africa,2008,F,Never married,... if she goes out without telling him,7.8
+196,Sao Tome and Principe,Central Africa,2008,F,"Widowed, divorced, separated",... if she goes out without telling him,9.7
+266,Sao Tome and Principe,Central Africa,2008,F,Married or living together,... if she neglects the children,11.6
+266,Sao Tome and Principe,Central Africa,2008,F,Never married,... if she neglects the children,12.1
+266,Sao Tome and Principe,Central Africa,2008,F,"Widowed, divorced, separated",... if she neglects the children,11.5
+336,Sao Tome and Principe,Central Africa,2008,F,Married or living together,... if she refuses to have sex with him,6.6
+336,Sao Tome and Principe,Central Africa,2008,F,Never married,... if she refuses to have sex with him,3.9
+336,Sao Tome and Principe,Central Africa,2008,F,"Widowed, divorced, separated",... if she refuses to have sex with him,3.3
+406,Sao Tome and Principe,Central Africa,2008,M,Married or living together,... for at least one specific reason,20.2
+406,Sao Tome and Principe,Central Africa,2008,M,Never married,... for at least one specific reason,23.2
+406,Sao Tome and Principe,Central Africa,2008,M,"Widowed, divorced, separated",... for at least one specific reason,21.5
+126,Sao Tome and Principe,Central Africa,2008,M,Married or living together,... if she argues with him,8.3
+126,Sao Tome and Principe,Central Africa,2008,M,Never married,... if she argues with him,11.9
+126,Sao Tome and Principe,Central Africa,2008,M,"Widowed, divorced, separated",... if she argues with him,10.4
+56,Sao Tome and Principe,Central Africa,2008,M,Married or living together,... if she burns the food,5.4
+56,Sao Tome and Principe,Central Africa,2008,M,Never married,... if she burns the food,7.6
+56,Sao Tome and Principe,Central Africa,2008,M,"Widowed, divorced, separated",... if she burns the food,6.8
+196,Sao Tome and Principe,Central Africa,2008,M,Married or living together,... if she goes out without telling him,13.0
+196,Sao Tome and Principe,Central Africa,2008,M,Never married,... if she goes out without telling him,10.3
+196,Sao Tome and Principe,Central Africa,2008,M,"Widowed, divorced, separated",... if she goes out without telling him,12.1
+266,Sao Tome and Principe,Central Africa,2008,M,Married or living together,... if she neglects the children,12.9
+266,Sao Tome and Principe,Central Africa,2008,M,Never married,... if she neglects the children,14.9
+266,Sao Tome and Principe,Central Africa,2008,M,"Widowed, divorced, separated",... if she neglects the children,15.0
+336,Sao Tome and Principe,Central Africa,2008,M,Married or living together,... if she refuses to have sex with him,4.7
+336,Sao Tome and Principe,Central Africa,2008,M,Never married,... if she refuses to have sex with him,6.0
+336,Sao Tome and Principe,Central Africa,2008,M,"Widowed, divorced, separated",... if she refuses to have sex with him,6.2
+407,Senegal,West Africa,2017,F,Married or living together,... for at least one specific reason,50.9
+407,Senegal,West Africa,2017,F,Never married,... for at least one specific reason,36.4
+407,Senegal,West Africa,2017,F,"Widowed, divorced, separated",... for at least one specific reason,34.5
+127,Senegal,West Africa,2017,F,Married or living together,... if she argues with him,41.1
+127,Senegal,West Africa,2017,F,Never married,... if she argues with him,25.2
+127,Senegal,West Africa,2017,F,"Widowed, divorced, separated",... if she argues with him,23.8
+57,Senegal,West Africa,2017,F,Married or living together,... if she burns the food,26.0
+57,Senegal,West Africa,2017,F,Never married,... if she burns the food,14.9
+57,Senegal,West Africa,2017,F,"Widowed, divorced, separated",... if she burns the food,14.5
+197,Senegal,West Africa,2017,F,Married or living together,... if she goes out without telling him,39.1
+197,Senegal,West Africa,2017,F,Never married,... if she goes out without telling him,22.2
+197,Senegal,West Africa,2017,F,"Widowed, divorced, separated",... if she goes out without telling him,22.3
+267,Senegal,West Africa,2017,F,Married or living together,... if she neglects the children,40.2
+267,Senegal,West Africa,2017,F,Never married,... if she neglects the children,26.7
+267,Senegal,West Africa,2017,F,"Widowed, divorced, separated",... if she neglects the children,24.5
+337,Senegal,West Africa,2017,F,Married or living together,... if she refuses to have sex with him,42.7
+337,Senegal,West Africa,2017,F,Never married,... if she refuses to have sex with him,20.3
+337,Senegal,West Africa,2017,F,"Widowed, divorced, separated",... if she refuses to have sex with him,27.1
+407,Senegal,West Africa,2017,M,Married or living together,... for at least one specific reason,22.0
+407,Senegal,West Africa,2017,M,Never married,... for at least one specific reason,31.3
+407,Senegal,West Africa,2017,M,"Widowed, divorced, separated",... for at least one specific reason,24.7
+127,Senegal,West Africa,2017,M,Married or living together,... if she argues with him,14.4
+127,Senegal,West Africa,2017,M,Never married,... if she argues with him,21.3
+127,Senegal,West Africa,2017,M,"Widowed, divorced, separated",... if she argues with him,15.3
+57,Senegal,West Africa,2017,M,Married or living together,... if she burns the food,4.7
+57,Senegal,West Africa,2017,M,Never married,... if she burns the food,7.5
+57,Senegal,West Africa,2017,M,"Widowed, divorced, separated",... if she burns the food,2.6
+197,Senegal,West Africa,2017,M,Married or living together,... if she goes out without telling him,11.2
+197,Senegal,West Africa,2017,M,Never married,... if she goes out without telling him,15.9
+197,Senegal,West Africa,2017,M,"Widowed, divorced, separated",... if she goes out without telling him,10.9
+267,Senegal,West Africa,2017,M,Married or living together,... if she neglects the children,13.8
+267,Senegal,West Africa,2017,M,Never married,... if she neglects the children,18.9
+267,Senegal,West Africa,2017,M,"Widowed, divorced, separated",... if she neglects the children,12.2
+337,Senegal,West Africa,2017,M,Married or living together,... if she refuses to have sex with him,9.2
+337,Senegal,West Africa,2017,M,Never married,... if she refuses to have sex with him,12.7
+337,Senegal,West Africa,2017,M,"Widowed, divorced, separated",... if she refuses to have sex with him,8.7
+408,Sierra Leone,West Africa,2013,F,Married or living together,... for at least one specific reason,67.9
+408,Sierra Leone,West Africa,2013,F,Never married,... for at least one specific reason,51.4
+408,Sierra Leone,West Africa,2013,F,"Widowed, divorced, separated",... for at least one specific reason,60.8
+128,Sierra Leone,West Africa,2013,F,Married or living together,... if she argues with him,52.4
+128,Sierra Leone,West Africa,2013,F,Never married,... if she argues with him,37.2
+128,Sierra Leone,West Africa,2013,F,"Widowed, divorced, separated",... if she argues with him,43.6
+58,Sierra Leone,West Africa,2013,F,Married or living together,... if she burns the food,20.6
+58,Sierra Leone,West Africa,2013,F,Never married,... if she burns the food,13.7
+58,Sierra Leone,West Africa,2013,F,"Widowed, divorced, separated",... if she burns the food,15.1
+198,Sierra Leone,West Africa,2013,F,Married or living together,... if she goes out without telling him,58.1
+198,Sierra Leone,West Africa,2013,F,Never married,... if she goes out without telling him,41.8
+198,Sierra Leone,West Africa,2013,F,"Widowed, divorced, separated",... if she goes out without telling him,49.6
+268,Sierra Leone,West Africa,2013,F,Married or living together,... if she neglects the children,57.5
+268,Sierra Leone,West Africa,2013,F,Never married,... if she neglects the children,43.0
+268,Sierra Leone,West Africa,2013,F,"Widowed, divorced, separated",... if she neglects the children,50.3
+338,Sierra Leone,West Africa,2013,F,Married or living together,... if she refuses to have sex with him,30.5
+338,Sierra Leone,West Africa,2013,F,Never married,... if she refuses to have sex with him,16.0
+338,Sierra Leone,West Africa,2013,F,"Widowed, divorced, separated",... if she refuses to have sex with him,21.2
+408,Sierra Leone,West Africa,2013,M,Married or living together,... for at least one specific reason,34.6
+408,Sierra Leone,West Africa,2013,M,Never married,... for at least one specific reason,33.4
+408,Sierra Leone,West Africa,2013,M,"Widowed, divorced, separated",... for at least one specific reason,38.0
+128,Sierra Leone,West Africa,2013,M,Married or living together,... if she argues with him,24.6
+128,Sierra Leone,West Africa,2013,M,Never married,... if she argues with him,23.7
+128,Sierra Leone,West Africa,2013,M,"Widowed, divorced, separated",... if she argues with him,28.2
+58,Sierra Leone,West Africa,2013,M,Married or living together,... if she burns the food,4.5
+58,Sierra Leone,West Africa,2013,M,Never married,... if she burns the food,5.5
+58,Sierra Leone,West Africa,2013,M,"Widowed, divorced, separated",... if she burns the food,2.3
+198,Sierra Leone,West Africa,2013,M,Married or living together,... if she goes out without telling him,20.6
+198,Sierra Leone,West Africa,2013,M,Never married,... if she goes out without telling him,18.5
+198,Sierra Leone,West Africa,2013,M,"Widowed, divorced, separated",... if she goes out without telling him,23.4
+268,Sierra Leone,West Africa,2013,M,Married or living together,... if she neglects the children,23.6
+268,Sierra Leone,West Africa,2013,M,Never married,... if she neglects the children,20.4
+268,Sierra Leone,West Africa,2013,M,"Widowed, divorced, separated",... if she neglects the children,26.2
+338,Sierra Leone,West Africa,2013,M,Married or living together,... if she refuses to have sex with him,10.0
+338,Sierra Leone,West Africa,2013,M,Never married,... if she refuses to have sex with him,9.2
+338,Sierra Leone,West Africa,2013,M,"Widowed, divorced, separated",... if she refuses to have sex with him,7.9
+409,South Africa,Southern Africa,2016,F,Married or living together,... for at least one specific reason,5.2
+409,South Africa,Southern Africa,2016,F,Never married,... for at least one specific reason,5.6
+409,South Africa,Southern Africa,2016,F,"Widowed, divorced, separated",... for at least one specific reason,6.8
+129,South Africa,Southern Africa,2016,F,Married or living together,... if she argues with him,2.0
+129,South Africa,Southern Africa,2016,F,Never married,... if she argues with him,2.2
+129,South Africa,Southern Africa,2016,F,"Widowed, divorced, separated",... if she argues with him,3.1
+59,South Africa,Southern Africa,2016,F,Married or living together,... if she burns the food,0.9
+59,South Africa,Southern Africa,2016,F,Never married,... if she burns the food,1.0
+59,South Africa,Southern Africa,2016,F,"Widowed, divorced, separated",... if she burns the food,0.9
+199,South Africa,Southern Africa,2016,F,Married or living together,... if she goes out without telling him,2.4
+199,South Africa,Southern Africa,2016,F,Never married,... if she goes out without telling him,1.8
+199,South Africa,Southern Africa,2016,F,"Widowed, divorced, separated",... if she goes out without telling him,2.8
+269,South Africa,Southern Africa,2016,F,Married or living together,... if she neglects the children,3.3
+269,South Africa,Southern Africa,2016,F,Never married,... if she neglects the children,4.0
+269,South Africa,Southern Africa,2016,F,"Widowed, divorced, separated",... if she neglects the children,5.7
+339,South Africa,Southern Africa,2016,F,Married or living together,... if she refuses to have sex with him,1.0
+339,South Africa,Southern Africa,2016,F,Never married,... if she refuses to have sex with him,0.8
+339,South Africa,Southern Africa,2016,F,"Widowed, divorced, separated",... if she refuses to have sex with him,1.9
+409,South Africa,Southern Africa,2016,M,Married or living together,... for at least one specific reason,4.7
+409,South Africa,Southern Africa,2016,M,Never married,... for at least one specific reason,11.4
+409,South Africa,Southern Africa,2016,M,"Widowed, divorced, separated",... for at least one specific reason,8.8
+129,South Africa,Southern Africa,2016,M,Married or living together,... if she argues with him,2.0
+129,South Africa,Southern Africa,2016,M,Never married,... if she argues with him,4.6
+129,South Africa,Southern Africa,2016,M,"Widowed, divorced, separated",... if she argues with him,3.5
+59,South Africa,Southern Africa,2016,M,Married or living together,... if she burns the food,0.8
+59,South Africa,Southern Africa,2016,M,Never married,... if she burns the food,2.2
+59,South Africa,Southern Africa,2016,M,"Widowed, divorced, separated",... if she burns the food,1.2
+199,South Africa,Southern Africa,2016,M,Married or living together,... if she goes out without telling him,3.4
+199,South Africa,Southern Africa,2016,M,Never married,... if she goes out without telling him,3.9
+199,South Africa,Southern Africa,2016,M,"Widowed, divorced, separated",... if she goes out without telling him,4.0
+269,South Africa,Southern Africa,2016,M,Married or living together,... if she neglects the children,2.8
+269,South Africa,Southern Africa,2016,M,Never married,... if she neglects the children,7.5
+269,South Africa,Southern Africa,2016,M,"Widowed, divorced, separated",... if she neglects the children,6.7
+339,South Africa,Southern Africa,2016,M,Married or living together,... if she refuses to have sex with him,0.8
+339,South Africa,Southern Africa,2016,M,Never married,... if she refuses to have sex with him,2.0
+339,South Africa,Southern Africa,2016,M,"Widowed, divorced, separated",... if she refuses to have sex with him,0.7
+411,Tanzania,East Africa,2015,F,Married or living together,... for at least one specific reason,60.2
+411,Tanzania,East Africa,2015,F,Never married,... for at least one specific reason,52.9
+411,Tanzania,East Africa,2015,F,"Widowed, divorced, separated",... for at least one specific reason,57.8
+131,Tanzania,East Africa,2015,F,Married or living together,... if she argues with him,44.7
+131,Tanzania,East Africa,2015,F,Never married,... if she argues with him,35.5
+131,Tanzania,East Africa,2015,F,"Widowed, divorced, separated",... if she argues with him,41.8
+61,Tanzania,East Africa,2015,F,Married or living together,... if she burns the food,21.6
+61,Tanzania,East Africa,2015,F,Never married,... if she burns the food,16.2
+61,Tanzania,East Africa,2015,F,"Widowed, divorced, separated",... if she burns the food,21.3
+201,Tanzania,East Africa,2015,F,Married or living together,... if she goes out without telling him,44.0
+201,Tanzania,East Africa,2015,F,Never married,... if she goes out without telling him,33.9
+201,Tanzania,East Africa,2015,F,"Widowed, divorced, separated",... if she goes out without telling him,39.9
+271,Tanzania,East Africa,2015,F,Married or living together,... if she neglects the children,50.1
+271,Tanzania,East Africa,2015,F,Never married,... if she neglects the children,41.8
+271,Tanzania,East Africa,2015,F,"Widowed, divorced, separated",... if she neglects the children,49.1
+341,Tanzania,East Africa,2015,F,Married or living together,... if she refuses to have sex with him,33.8
+341,Tanzania,East Africa,2015,F,Never married,... if she refuses to have sex with him,21.0
+341,Tanzania,East Africa,2015,F,"Widowed, divorced, separated",... if she refuses to have sex with him,32.9
+411,Tanzania,East Africa,2015,M,Married or living together,... for at least one specific reason,33.5
+411,Tanzania,East Africa,2015,M,Never married,... for at least one specific reason,45.7
+411,Tanzania,East Africa,2015,M,"Widowed, divorced, separated",... for at least one specific reason,50.3
+131,Tanzania,East Africa,2015,M,Married or living together,... if she argues with him,19.9
+131,Tanzania,East Africa,2015,M,Never married,... if she argues with him,29.3
+131,Tanzania,East Africa,2015,M,"Widowed, divorced, separated",... if she argues with him,30.5
+61,Tanzania,East Africa,2015,M,Married or living together,... if she burns the food,4.6
+61,Tanzania,East Africa,2015,M,Never married,... if she burns the food,8.9
+61,Tanzania,East Africa,2015,M,"Widowed, divorced, separated",... if she burns the food,3.4
+201,Tanzania,East Africa,2015,M,Married or living together,... if she goes out without telling him,20.2
+201,Tanzania,East Africa,2015,M,Never married,... if she goes out without telling him,24.9
+201,Tanzania,East Africa,2015,M,"Widowed, divorced, separated",... if she goes out without telling him,29.8
+271,Tanzania,East Africa,2015,M,Married or living together,... if she neglects the children,25.9
+271,Tanzania,East Africa,2015,M,Never married,... if she neglects the children,35.3
+271,Tanzania,East Africa,2015,M,"Widowed, divorced, separated",... if she neglects the children,41.3
+341,Tanzania,East Africa,2015,M,Married or living together,... if she refuses to have sex with him,11.6
+341,Tanzania,East Africa,2015,M,Never married,... if she refuses to have sex with him,16.2
+341,Tanzania,East Africa,2015,M,"Widowed, divorced, separated",... if she refuses to have sex with him,16.1
+413,Togo,West Africa,2013,F,Married or living together,... for at least one specific reason,31.4
+413,Togo,West Africa,2013,F,Never married,... for at least one specific reason,22.3
+413,Togo,West Africa,2013,F,"Widowed, divorced, separated",... for at least one specific reason,28.3
+133,Togo,West Africa,2013,F,Married or living together,... if she argues with him,21.8
+133,Togo,West Africa,2013,F,Never married,... if she argues with him,14.1
+133,Togo,West Africa,2013,F,"Widowed, divorced, separated",... if she argues with him,18.4
+63,Togo,West Africa,2013,F,Married or living together,... if she burns the food,12.5
+63,Togo,West Africa,2013,F,Never married,... if she burns the food,8.4
+63,Togo,West Africa,2013,F,"Widowed, divorced, separated",... if she burns the food,10.3
+203,Togo,West Africa,2013,F,Married or living together,... if she goes out without telling him,19.8
+203,Togo,West Africa,2013,F,Never married,... if she goes out without telling him,12.3
+203,Togo,West Africa,2013,F,"Widowed, divorced, separated",... if she goes out without telling him,19.8
+273,Togo,West Africa,2013,F,Married or living together,... if she neglects the children,20.7
+273,Togo,West Africa,2013,F,Never married,... if she neglects the children,14.3
+273,Togo,West Africa,2013,F,"Widowed, divorced, separated",... if she neglects the children,19.6
+343,Togo,West Africa,2013,F,Married or living together,... if she refuses to have sex with him,10.9
+343,Togo,West Africa,2013,F,Never married,... if she refuses to have sex with him,6.5
+343,Togo,West Africa,2013,F,"Widowed, divorced, separated",... if she refuses to have sex with him,8.4
+413,Togo,West Africa,2013,M,Married or living together,... for at least one specific reason,17.6
+413,Togo,West Africa,2013,M,Never married,... for at least one specific reason,18.4
+413,Togo,West Africa,2013,M,"Widowed, divorced, separated",... for at least one specific reason,22.7
+133,Togo,West Africa,2013,M,Married or living together,... if she argues with him,9.5
+133,Togo,West Africa,2013,M,Never married,... if she argues with him,10.7
+133,Togo,West Africa,2013,M,"Widowed, divorced, separated",... if she argues with him,10.6
+63,Togo,West Africa,2013,M,Married or living together,... if she burns the food,5.3
+63,Togo,West Africa,2013,M,Never married,... if she burns the food,6.3
+63,Togo,West Africa,2013,M,"Widowed, divorced, separated",... if she burns the food,8.5
+203,Togo,West Africa,2013,M,Married or living together,... if she goes out without telling him,9.5
+203,Togo,West Africa,2013,M,Never married,... if she goes out without telling him,9.5
+203,Togo,West Africa,2013,M,"Widowed, divorced, separated",... if she goes out without telling him,12.2
+273,Togo,West Africa,2013,M,Married or living together,... if she neglects the children,12.3
+273,Togo,West Africa,2013,M,Never married,... if she neglects the children,11.1
+273,Togo,West Africa,2013,M,"Widowed, divorced, separated",... if she neglects the children,12.4
+343,Togo,West Africa,2013,M,Married or living together,... if she refuses to have sex with him,4.3
+343,Togo,West Africa,2013,M,Never married,... if she refuses to have sex with him,5.8
+343,Togo,West Africa,2013,M,"Widowed, divorced, separated",... if she refuses to have sex with him,6.3
+416,Uganda,East Africa,2016,F,Married or living together,... for at least one specific reason,48.9
+416,Uganda,East Africa,2016,F,Never married,... for at least one specific reason,49.7
+416,Uganda,East Africa,2016,F,"Widowed, divorced, separated",... for at least one specific reason,48.0
+136,Uganda,East Africa,2016,F,Married or living together,... if she argues with him,26.2
+136,Uganda,East Africa,2016,F,Never married,... if she argues with him,26.6
+136,Uganda,East Africa,2016,F,"Widowed, divorced, separated",... if she argues with him,24.6
+66,Uganda,East Africa,2016,F,Married or living together,... if she burns the food,12.5
+66,Uganda,East Africa,2016,F,Never married,... if she burns the food,16.9
+66,Uganda,East Africa,2016,F,"Widowed, divorced, separated",... if she burns the food,12.6
+206,Uganda,East Africa,2016,F,Married or living together,... if she goes out without telling him,30.3
+206,Uganda,East Africa,2016,F,Never married,... if she goes out without telling him,30.1
+206,Uganda,East Africa,2016,F,"Widowed, divorced, separated",... if she goes out without telling him,28.9
+276,Uganda,East Africa,2016,F,Married or living together,... if she neglects the children,38.3
+276,Uganda,East Africa,2016,F,Never married,... if she neglects the children,39.1
+276,Uganda,East Africa,2016,F,"Widowed, divorced, separated",... if she neglects the children,38.1
+346,Uganda,East Africa,2016,F,Married or living together,... if she refuses to have sex with him,18.5
+346,Uganda,East Africa,2016,F,Never married,... if she refuses to have sex with him,16.6
+346,Uganda,East Africa,2016,F,"Widowed, divorced, separated",... if she refuses to have sex with him,19.0
+416,Uganda,East Africa,2016,M,Married or living together,... for at least one specific reason,35.1
+416,Uganda,East Africa,2016,M,Never married,... for at least one specific reason,46.5
+416,Uganda,East Africa,2016,M,"Widowed, divorced, separated",... for at least one specific reason,48.2
+136,Uganda,East Africa,2016,M,Married or living together,... if she argues with him,20.3
+136,Uganda,East Africa,2016,M,Never married,... if she argues with him,26.3
+136,Uganda,East Africa,2016,M,"Widowed, divorced, separated",... if she argues with him,29.6
+66,Uganda,East Africa,2016,M,Married or living together,... if she burns the food,4.7
+66,Uganda,East Africa,2016,M,Never married,... if she burns the food,10.9
+66,Uganda,East Africa,2016,M,"Widowed, divorced, separated",... if she burns the food,5.5
+206,Uganda,East Africa,2016,M,Married or living together,... if she goes out without telling him,19.8
+206,Uganda,East Africa,2016,M,Never married,... if she goes out without telling him,24.1
+206,Uganda,East Africa,2016,M,"Widowed, divorced, separated",... if she goes out without telling him,30.5
+276,Uganda,East Africa,2016,M,Married or living together,... if she neglects the children,22.9
+276,Uganda,East Africa,2016,M,Never married,... if she neglects the children,34.5
+276,Uganda,East Africa,2016,M,"Widowed, divorced, separated",... if she neglects the children,34.3
+346,Uganda,East Africa,2016,M,Married or living together,... if she refuses to have sex with him,9.2
+346,Uganda,East Africa,2016,M,Never married,... if she refuses to have sex with him,14.3
+346,Uganda,East Africa,2016,M,"Widowed, divorced, separated",... if she refuses to have sex with him,15.6
+419,Zambia,Southern Africa,2013,F,Married or living together,... for at least one specific reason,48.7
+419,Zambia,Southern Africa,2013,F,Never married,... for at least one specific reason,42.5
+419,Zambia,Southern Africa,2013,F,"Widowed, divorced, separated",... for at least one specific reason,47.7
+139,Zambia,Southern Africa,2013,F,Married or living together,... if she argues with him,35.8
+139,Zambia,Southern Africa,2013,F,Never married,... if she argues with him,28.5
+139,Zambia,Southern Africa,2013,F,"Widowed, divorced, separated",... if she argues with him,33.8
+69,Zambia,Southern Africa,2013,F,Married or living together,... if she burns the food,24.9
+69,Zambia,Southern Africa,2013,F,Never married,... if she burns the food,19.5
+69,Zambia,Southern Africa,2013,F,"Widowed, divorced, separated",... if she burns the food,25.9
+209,Zambia,Southern Africa,2013,F,Married or living together,... if she goes out without telling him,32.1
+209,Zambia,Southern Africa,2013,F,Never married,... if she goes out without telling him,24.9
+209,Zambia,Southern Africa,2013,F,"Widowed, divorced, separated",... if she goes out without telling him,29.0
+279,Zambia,Southern Africa,2013,F,Married or living together,... if she neglects the children,34.3
+279,Zambia,Southern Africa,2013,F,Never married,... if she neglects the children,30.4
+279,Zambia,Southern Africa,2013,F,"Widowed, divorced, separated",... if she neglects the children,33.3
+349,Zambia,Southern Africa,2013,F,Married or living together,... if she refuses to have sex with him,31.8
+349,Zambia,Southern Africa,2013,F,Never married,... if she refuses to have sex with him,20.4
+349,Zambia,Southern Africa,2013,F,"Widowed, divorced, separated",... if she refuses to have sex with him,34.0
+419,Zambia,Southern Africa,2013,M,Married or living together,... for at least one specific reason,28.6
+419,Zambia,Southern Africa,2013,M,Never married,... for at least one specific reason,35.3
+419,Zambia,Southern Africa,2013,M,"Widowed, divorced, separated",... for at least one specific reason,32.6
+139,Zambia,Southern Africa,2013,M,Married or living together,... if she argues with him,18.4
+139,Zambia,Southern Africa,2013,M,Never married,... if she argues with him,21.7
+139,Zambia,Southern Africa,2013,M,"Widowed, divorced, separated",... if she argues with him,21.5
+69,Zambia,Southern Africa,2013,M,Married or living together,... if she burns the food,5.6
+69,Zambia,Southern Africa,2013,M,Never married,... if she burns the food,9.2
+69,Zambia,Southern Africa,2013,M,"Widowed, divorced, separated",... if she burns the food,9.2
+209,Zambia,Southern Africa,2013,M,Married or living together,... if she goes out without telling him,14.8
+209,Zambia,Southern Africa,2013,M,Never married,... if she goes out without telling him,17.5
+209,Zambia,Southern Africa,2013,M,"Widowed, divorced, separated",... if she goes out without telling him,14.9
+279,Zambia,Southern Africa,2013,M,Married or living together,... if she neglects the children,17.0
+279,Zambia,Southern Africa,2013,M,Never married,... if she neglects the children,23.0
+279,Zambia,Southern Africa,2013,M,"Widowed, divorced, separated",... if she neglects the children,19.0
+349,Zambia,Southern Africa,2013,M,Married or living together,... if she refuses to have sex with him,10.0
+349,Zambia,Southern Africa,2013,M,Never married,... if she refuses to have sex with him,11.2
+349,Zambia,Southern Africa,2013,M,"Widowed, divorced, separated",... if she refuses to have sex with him,12.3
+420,Zimbabwe,Southern Africa,2015,F,Married or living together,... for at least one specific reason,37.4
+420,Zimbabwe,Southern Africa,2015,F,Never married,... for at least one specific reason,44.6
+420,Zimbabwe,Southern Africa,2015,F,"Widowed, divorced, separated",... for at least one specific reason,33.2
+140,Zimbabwe,Southern Africa,2015,F,Married or living together,... if she argues with him,17.0
+140,Zimbabwe,Southern Africa,2015,F,Never married,... if she argues with him,17.6
+140,Zimbabwe,Southern Africa,2015,F,"Widowed, divorced, separated",... if she argues with him,13.5
+70,Zimbabwe,Southern Africa,2015,F,Married or living together,... if she burns the food,7.6
+70,Zimbabwe,Southern Africa,2015,F,Never married,... if she burns the food,10.6
+70,Zimbabwe,Southern Africa,2015,F,"Widowed, divorced, separated",... if she burns the food,5.8
+210,Zimbabwe,Southern Africa,2015,F,Married or living together,... if she goes out without telling him,22.8
+210,Zimbabwe,Southern Africa,2015,F,Never married,... if she goes out without telling him,24.8
+210,Zimbabwe,Southern Africa,2015,F,"Widowed, divorced, separated",... if she goes out without telling him,19.5
+280,Zimbabwe,Southern Africa,2015,F,Married or living together,... if she neglects the children,20.1
+280,Zimbabwe,Southern Africa,2015,F,Never married,... if she neglects the children,25.2
+280,Zimbabwe,Southern Africa,2015,F,"Widowed, divorced, separated",... if she neglects the children,19.8
+350,Zimbabwe,Southern Africa,2015,F,Married or living together,... if she refuses to have sex with him,15.8
+350,Zimbabwe,Southern Africa,2015,F,Never married,... if she refuses to have sex with him,11.6
+350,Zimbabwe,Southern Africa,2015,F,"Widowed, divorced, separated",... if she refuses to have sex with him,13.9
+420,Zimbabwe,Southern Africa,2015,M,Married or living together,... for at least one specific reason,24.6
+420,Zimbabwe,Southern Africa,2015,M,Never married,... for at least one specific reason,42.4
+420,Zimbabwe,Southern Africa,2015,M,"Widowed, divorced, separated",... for at least one specific reason,28.8
+140,Zimbabwe,Southern Africa,2015,M,Married or living together,... if she argues with him,10.2
+140,Zimbabwe,Southern Africa,2015,M,Never married,... if she argues with him,18.2
+140,Zimbabwe,Southern Africa,2015,M,"Widowed, divorced, separated",... if she argues with him,12.4
+70,Zimbabwe,Southern Africa,2015,M,Married or living together,... if she burns the food,3.1
+70,Zimbabwe,Southern Africa,2015,M,Never married,... if she burns the food,9.3
+70,Zimbabwe,Southern Africa,2015,M,"Widowed, divorced, separated",... if she burns the food,3.3
+210,Zimbabwe,Southern Africa,2015,M,Married or living together,... if she goes out without telling him,14.2
+210,Zimbabwe,Southern Africa,2015,M,Never married,... if she goes out without telling him,21.8
+210,Zimbabwe,Southern Africa,2015,M,"Widowed, divorced, separated",... if she goes out without telling him,16.3
+280,Zimbabwe,Southern Africa,2015,M,Married or living together,... if she neglects the children,13.8
+280,Zimbabwe,Southern Africa,2015,M,Never married,... if she neglects the children,23.2
+280,Zimbabwe,Southern Africa,2015,M,"Widowed, divorced, separated",... if she neglects the children,18.3
+350,Zimbabwe,Southern Africa,2015,M,Married or living together,... if she refuses to have sex with him,4.4
+350,Zimbabwe,Southern Africa,2015,M,Never married,... if she refuses to have sex with him,7.8
+350,Zimbabwe,Southern Africa,2015,M,"Widowed, divorced, separated",... if she refuses to have sex with him,4.7
